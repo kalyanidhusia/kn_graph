@@ -1,0 +1,13 @@
+source_file,batch,replicate_or_slot,condition_short,condition_class
+ExperimentMaxQuant_71fromSmithA_100924_7_1_uncoupled.mzid,7,1,uncoupled,control
+ExperimentMaxQuant_72fromSmithA_100924_7_2_ovalbumin.mzid,7,2,ovalbumin,control
+ExperimentMaxQuant_73fromSmithA_100924_7_3_MoIgG.mzid,7,3,MoIgG,control
+ExperimentMaxQuant_74fromSmithA_100924_7_4_pHHuHPX.mzid,7,4,pHHuHPX,HPX
+ExperimentMaxQuant_75fromSmithA_100924_7_5_mHRbtHPX.mzid,7,5,mHRbtHPX,HPX
+ExperimentMaxQuant_76fromSmithA_100924_7_6_holoHuTf.mzid,7,6,holoHuTf,Tf
+ExperimentMaxQuant_81fromSmithA_100924_8_1_uncoupled.mzid,8,1,uncoupled,control
+ExperimentMaxQuant_82fromSmithA_100924_8_2_ovalbumin.mzid,8,2,ovalbumin,control
+ExperimentMaxQuant_83fromSmithA_100924_8_3_MoIgG.mzid,8,3,MoIgG,control
+ExperimentMaxQuant_84fromSmithA_100924_8_4_pHHuHPX.mzid,8,4,pHHuHPX,HPX
+ExperimentMaxQuant_85fromSmithA_100924_8_5_mHRbtHPX.mzid,8,5,mHRbtHPX,HPX
+ExperimentMaxQuant_86fromSmithA_100924_8_6_holoHuTf.mzid,8,6,holoHuTf,Tf

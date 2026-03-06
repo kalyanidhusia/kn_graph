@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda / env
+.env
+.venv
+*.egg-info/
+
+# OS noise
+.DS_Store
+
+# Large data outputs
+data/processed/*.csv
+data/processed/*.tsv
+results/
+figures/
+
+# Keep raw metadata tracked if small
+# Ignore large raw files if needed
+# data/raw/mzid/*.mzid
