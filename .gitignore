@@ -16,8 +16,8 @@ __pycache__/
 .DS_Store
 
 # Large data outputs
-data/processed/*.csv
-data/processed/*.tsv
+#data/processed/*.csv
+#data/processed/*.tsv
 results/
 figures/
 
