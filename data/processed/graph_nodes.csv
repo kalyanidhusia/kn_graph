@@ -1,0 +1,54 @@
+id,label,gene_symbol,protein_name_final,node_type
+HPX,HPX,,,Condition
+Tf,Tf,,,Condition
+control,control,,,Condition
+Q07954,LRP1,LRP1,Prolow-density lipoprotein receptor-related protein 1,Protein
+P01834,IGKC,IGKC,Immunoglobulin kappa constant,Protein
+P01860,IGHG3,IGHG3,Immunoglobulin heavy constant gamma 3,Protein
+P01876,IGHA1,IGHA1,Immunoglobulin heavy constant alpha 1,Protein
+P01877,IGHA2,IGHA2,Immunoglobulin heavy constant alpha 2,Protein
+P02749,APOH,APOH,Beta-2-glycoprotein 1,Protein
+P02786,TFRC,TFRC,Transferrin receptor protein 1,Protein
+P03952,KLKB1,KLKB1,Plasma kallikrein,Protein
+P06681,C2,C2,Complement C2,Protein
+P0CF74,IGLC6,IGLC6,Immunoglobulin lambda constant 6,Protein
+P0DOY2,IGLC2,IGLC2,Immunoglobulin lambda constant 2,Protein
+P0DOY3,IGLC3,IGLC3,Immunoglobulin lambda constant 3,Protein
+Q9UGM5,FETUB,FETUB,Fetuin-B,Protein
+P02652,APOA2,APOA2,Apolipoprotein A-II,Protein
+P05154,SERPINA5,SERPINA5,Plasma serine protease inhibitor,Protein
+O75636,FCN3,FCN3,Ficolin-3,Protein
+O95479,H6PD,H6PD,GDH/6PGL endoplasmic bifunctional protein,Protein
+P00450,CP,CP,Ceruloplasmin,Protein
+P00738,HP,HP,Haptoglobin,Protein
+P00739,HPR,HPR,Haptoglobin-related protein,Protein
+P00748,F12,F12,Coagulation factor XII,Protein
+P01009,SERPINA1,SERPINA1,Alpha-1-antitrypsin,Protein
+P01023,A2M,A2M,Alpha-2-macroglobulin,Protein
+P02647,APOA1,APOA1,Apolipoprotein A-I,Protein
+P02654,APOC1,APOC1,Apolipoprotein C-I,Protein
+P02746,C1QB,C1QB,Complement C1q subcomponent subunit B,Protein
+P02747,C1QC,C1QC,Complement C1q subcomponent subunit C,Protein
+P03951,F11,F11,Coagulation factor XI,Protein
+P04114,APOB,APOB,Apolipoprotein B-100,Protein
+P04278,SHBG,SHBG,Sex hormone-binding globulin,Protein
+P05090,APOD,APOD,Apolipoprotein D,Protein
+P05155,SERPING1,SERPING1,Plasma protease C1 inhibitor,Protein
+P09172,DBH,DBH,Dopamine beta-hydroxylase,Protein
+P33151,CDH5,CDH5,Cadherin-5,Protein
+P40189,IL6ST,IL6ST,Interleukin-6 receptor subunit beta,Protein
+P42785,PRCP,PRCP,Lysosomal Pro-X carboxypeptidase,Protein
+P49908,SELENOP,SELENOP,Selenoprotein P,Protein
+P51884,LUM,LUM,Lumican,Protein
+P55058,PLTP,PLTP,Phospholipid transfer protein,Protein
+P80108,GPLD1,GPLD1,Phosphatidylinositol-glycan-specific phospholipase D,Protein
+Q16853,AOC3,AOC3,Amine oxidase [copper-containing] 3,Protein
+Q96KG7,MEGF10,MEGF10,Multiple epidermal growth factor-like domains protein 10,Protein
+Q9Y5C1,ANGPTL3,ANGPTL3,Angiopoietin-related protein 3,Protein
+A0M8Q6,IGLC7,IGLC7,Immunoglobulin lambda constant 7,Protein
+P00747,PLG,PLG,Plasminogen,Protein
+P00751,CFB,CFB,Complement factor B,Protein
+A0AAG2UXZ5,COL18A1,COL18A1,Collagen type XVIII alpha 1 chain,Protein
+B9A064,IGLL5,IGLL5,Immunoglobulin lambda-like polypeptide 5,Protein
+P00734,F2,F2,Prothrombin,Protein
+P00915,CA1,CA1,Carbonic anhydrase 1,Protein

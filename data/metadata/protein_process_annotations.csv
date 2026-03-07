@@ -1,0 +1,31 @@
+protein_accession_clean,gene_symbol,protein_name_final,process_label,process_group,annotation_source,evidence_note
+Q07954,LRP1,Prolow-density lipoprotein receptor-related protein 1,receptor-mediated endocytosis,uptake,bootstrap_manual_override,Top HPX-specific candidate
+Q07954,LRP1,Prolow-density lipoprotein receptor-related protein 1,lipoprotein particle binding,uptake,bootstrap_manual_override,Top HPX-specific candidate
+O75636,FCN3,Ficolin-3,innate immune response,complement,bootstrap_manual_override,HPX-associated extracellular protein
+O75636,FCN3,Ficolin-3,lectin pathway of complement activation,complement,bootstrap_manual_override,HPX-associated extracellular protein
+O95479,H6PD,GDH/6PGL endoplasmic bifunctional protein,glucose metabolism,metabolism,bootstrap_manual_override,HPX-associated protein
+P00450,CP,Ceruloplasmin,iron homeostasis,iron_homeostasis,bootstrap_manual_override,HPX-associated extracellular protein
+P00450,CP,Ceruloplasmin,oxidation-reduction process,iron_homeostasis,bootstrap_manual_override,HPX-associated extracellular protein
+P00738,HP,Haptoglobin,heme/hemoglobin scavenging,heme_handling,bootstrap_manual_override,HPX-associated extracellular protein
+P00739,HPR,Haptoglobin-related protein,heme/hemoglobin scavenging,heme_handling,bootstrap_manual_override,HPX-associated extracellular protein
+P00748,F12,Coagulation factor XII,coagulation,coagulation,bootstrap_manual_override,HPX-associated extracellular protein
+P00748,F12,Coagulation factor XII,proteolytic cascade,coagulation,bootstrap_manual_override,HPX-associated extracellular protein
+P01009,SERPINA1,Alpha-1-antitrypsin,protease inhibition,protease_regulation,bootstrap_manual_override,HPX-associated extracellular protein
+P01023,A2M,Alpha-2-macroglobulin,protease inhibition,protease_regulation,bootstrap_manual_override,HPX-associated extracellular protein
+P01023,A2M,Alpha-2-macroglobulin,extracellular protein binding,protease_regulation,bootstrap_manual_override,HPX-associated extracellular protein
+P01834,IGKC,Immunoglobulin kappa constant,immunoglobulin complex,immune_background,bootstrap_name_keyword,Auto-filled from protein_name keyword rules
+P01860,IGHG3,Immunoglobulin heavy constant gamma 3,immunoglobulin complex,immune_background,bootstrap_name_keyword,Auto-filled from protein_name keyword rules
+P01876,IGHA1,Immunoglobulin heavy constant alpha 1,immunoglobulin complex,immune_background,bootstrap_name_keyword,Auto-filled from protein_name keyword rules
+P01877,IGHA2,Immunoglobulin heavy constant alpha 2,immunoglobulin complex,immune_background,bootstrap_name_keyword,Auto-filled from protein_name keyword rules
+P02647,APOA1,Apolipoprotein A-I,lipoprotein metabolism,lipoprotein_biology,bootstrap_name_keyword,Auto-filled from protein_name keyword rules
+P02652,APOA2,Apolipoprotein A-II,lipoprotein metabolism,lipoprotein_biology,bootstrap_name_keyword,Auto-filled from protein_name keyword rules
+P02654,APOC1,Apolipoprotein C-I,lipoprotein metabolism,lipoprotein_biology,bootstrap_name_keyword,Auto-filled from protein_name keyword rules
+P02746,C1QB,Complement C1q subcomponent subunit B,complement activation,complement,bootstrap_name_keyword,Auto-filled from protein_name keyword rules
+P02747,C1QC,Complement C1q subcomponent subunit C,complement activation,complement,bootstrap_name_keyword,Auto-filled from protein_name keyword rules
+P02786,TFRC,Transferrin receptor protein 1,iron uptake,iron_homeostasis,bootstrap_manual_override,Shared HPX/Tf uptake-related candidate
+P02786,TFRC,Transferrin receptor protein 1,receptor-mediated endocytosis,uptake,bootstrap_manual_override,Shared HPX/Tf uptake-related candidate
+P03951,F11,Coagulation factor XI,coagulation,coagulation,bootstrap_name_keyword,Auto-filled from protein_name keyword rules
+P04114,APOB,Apolipoprotein B-100,lipoprotein metabolism,lipoprotein_biology,bootstrap_name_keyword,Auto-filled from protein_name keyword rules
+P05090,APOD,Apolipoprotein D,lipoprotein metabolism,lipoprotein_biology,bootstrap_name_keyword,Auto-filled from protein_name keyword rules
+P06681,C2,Complement C2,complement activation,complement,bootstrap_name_keyword,Auto-filled from protein_name keyword rules
+P0CF74,IGLC6,Immunoglobulin lambda constant 6,immunoglobulin complex,immune_background,bootstrap_name_keyword,Auto-filled from protein_name keyword rules

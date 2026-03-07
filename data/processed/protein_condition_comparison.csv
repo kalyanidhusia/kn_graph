@@ -1,0 +1,846 @@
+protein_accession_clean,gene_symbol,protein_name_final,HPX,Tf,control,present_in_HPX,present_in_Tf,present_in_control,candidate_HPX_specific,candidate_shared_HPX_Tf,candidate_HPX_over_background_score
+Q07954,LRP1,Prolow-density lipoprotein receptor-related protein 1,4.0,0.0,0.0,True,False,False,True,False,4.0
+O75636,FCN3,Ficolin-3,2.0,0.0,0.0,True,False,False,True,False,2.0
+O95479,H6PD,GDH/6PGL endoplasmic bifunctional protein,2.0,0.0,0.0,True,False,False,True,False,2.0
+P00450,CP,Ceruloplasmin,2.0,0.0,0.0,True,False,False,True,False,2.0
+P00738,HP,Haptoglobin,2.0,0.0,0.0,True,False,False,True,False,2.0
+P00739,HPR,Haptoglobin-related protein,2.0,0.0,0.0,True,False,False,True,False,2.0
+P00748,F12,Coagulation factor XII,2.0,0.0,0.0,True,False,False,True,False,2.0
+P01009,SERPINA1,Alpha-1-antitrypsin,2.0,0.0,0.0,True,False,False,True,False,2.0
+P01023,A2M,Alpha-2-macroglobulin,2.0,0.0,0.0,True,False,False,True,False,2.0
+P01834,IGKC,Immunoglobulin kappa constant,2.0,2.0,0.0,True,True,False,True,True,2.0
+P01860,IGHG3,Immunoglobulin heavy constant gamma 3,2.0,2.0,0.0,True,True,False,True,True,2.0
+P01876,IGHA1,Immunoglobulin heavy constant alpha 1,2.0,2.0,0.0,True,True,False,True,True,2.0
+P01877,IGHA2,Immunoglobulin heavy constant alpha 2,2.0,2.0,0.0,True,True,False,True,True,2.0
+P02647,APOA1,Apolipoprotein A-I,2.0,0.0,0.0,True,False,False,True,False,2.0
+P02652,APOA2,Apolipoprotein A-II,2.0,1.0,0.0,True,True,False,True,True,2.0
+P02654,APOC1,Apolipoprotein C-I,2.0,0.0,0.0,True,False,False,True,False,2.0
+P02746,C1QB,Complement C1q subcomponent subunit B,2.0,0.0,0.0,True,False,False,True,False,2.0
+P02747,C1QC,Complement C1q subcomponent subunit C,2.0,0.0,0.0,True,False,False,True,False,2.0
+P02749,APOH,Beta-2-glycoprotein 1,2.0,2.0,0.0,True,True,False,True,True,2.0
+P02786,TFRC,Transferrin receptor protein 1,2.0,2.0,0.0,True,True,False,True,True,2.0
+P03951,F11,Coagulation factor XI,2.0,0.0,0.0,True,False,False,True,False,2.0
+P03952,KLKB1,Plasma kallikrein,2.0,2.0,0.0,True,True,False,True,True,2.0
+P04114,APOB,Apolipoprotein B-100,2.0,0.0,0.0,True,False,False,True,False,2.0
+P04278,SHBG,Sex hormone-binding globulin,2.0,0.0,0.0,True,False,False,True,False,2.0
+P05090,APOD,Apolipoprotein D,2.0,0.0,0.0,True,False,False,True,False,2.0
+P05154,SERPINA5,Plasma serine protease inhibitor,2.0,1.0,0.0,True,True,False,True,True,2.0
+P05155,SERPING1,Plasma protease C1 inhibitor,2.0,0.0,0.0,True,False,False,True,False,2.0
+P06681,C2,Complement C2,2.0,2.0,0.0,True,True,False,True,True,2.0
+P09172,DBH,Dopamine beta-hydroxylase,2.0,0.0,0.0,True,False,False,True,False,2.0
+P0CF74,IGLC6,Immunoglobulin lambda constant 6,2.0,2.0,0.0,True,True,False,True,True,2.0
+P0DOY2,IGLC2,Immunoglobulin lambda constant 2,2.0,2.0,0.0,True,True,False,True,True,2.0
+P0DOY3,IGLC3,Immunoglobulin lambda constant 3,2.0,2.0,0.0,True,True,False,True,True,2.0
+P33151,CDH5,Cadherin-5,2.0,0.0,0.0,True,False,False,True,False,2.0
+P40189,IL6ST,Interleukin-6 receptor subunit beta,2.0,0.0,0.0,True,False,False,True,False,2.0
+P42785,PRCP,Lysosomal Pro-X carboxypeptidase,2.0,0.0,0.0,True,False,False,True,False,2.0
+P49908,SELENOP,Selenoprotein P,2.0,0.0,0.0,True,False,False,True,False,2.0
+P51884,LUM,Lumican,2.0,0.0,0.0,True,False,False,True,False,2.0
+P55058,PLTP,Phospholipid transfer protein,2.0,0.0,0.0,True,False,False,True,False,2.0
+P80108,GPLD1,Phosphatidylinositol-glycan-specific phospholipase D,2.0,0.0,0.0,True,False,False,True,False,2.0
+Q16853,AOC3,Amine oxidase [copper-containing] 3,2.0,0.0,0.0,True,False,False,True,False,2.0
+Q96KG7,MEGF10,Multiple epidermal growth factor-like domains protein 10,2.0,0.0,0.0,True,False,False,True,False,2.0
+Q9UGM5,FETUB,Fetuin-B,2.0,2.0,0.0,True,True,False,True,True,2.0
+Q9Y5C1,ANGPTL3,Angiopoietin-related protein 3,2.0,0.0,0.0,True,False,False,True,False,2.0
+A0AAG2UXZ5,COL18A1,Collagen type XVIII alpha 1 chain,1.0,0.0,0.0,True,False,False,True,False,1.0
+A0M8Q6,IGLC7,Immunoglobulin lambda constant 7,1.0,2.0,0.0,True,True,False,True,True,1.0
+B9A064,IGLL5,Immunoglobulin lambda-like polypeptide 5,1.0,0.0,0.0,True,False,False,True,False,1.0
+P00734,F2,Prothrombin,1.0,0.0,0.0,True,False,False,True,False,1.0
+P00747,PLG,Plasminogen,1.0,2.0,0.0,True,True,False,True,True,1.0
+P00751,CFB,Complement factor B,1.0,2.0,0.0,True,True,False,True,True,1.0
+P00915,CA1,Carbonic anhydrase 1,1.0,0.0,0.0,True,False,False,True,False,1.0
+P01011,SERPINA3,Alpha-1-antichymotrypsin,1.0,0.0,0.0,True,False,False,True,False,1.0
+P01019,AGT,Angiotensinogen,1.0,0.0,0.0,True,False,False,True,False,1.0
+P07339,CTSD,Cathepsin D,1.0,0.0,0.0,True,False,False,True,False,1.0
+P07988,SFTPB,Pulmonary surfactant-associated protein B,1.0,0.0,0.0,True,False,False,True,False,1.0
+P0CG04,IGLC1,Immunoglobulin lambda constant 1,1.0,0.0,0.0,True,False,False,True,False,1.0
+P12036,NEFH,Neurofilament heavy polypeptide,1.0,0.0,0.0,True,False,False,True,False,1.0
+P20742,PZP,Pregnancy zone protein,1.0,0.0,0.0,True,False,False,True,False,1.0
+P29622,SERPINA4,Kallistatin,1.0,0.0,0.0,True,False,False,True,False,1.0
+P39060,COL18A1,Collagen alpha-1(XVIII) chain,1.0,0.0,0.0,True,False,False,True,False,1.0
+Q15828,CST6,Cystatin-M,1.0,0.0,0.0,True,False,False,True,False,1.0
+Q7RTS7,KRT74,"Keratin, type II cytoskeletal 74",1.0,0.0,0.0,True,False,False,True,False,1.0
+Q8N149,LILRA2,Leukocyte immunoglobulin-like receptor subfamily A member 2,1.0,0.0,0.0,True,False,False,True,False,1.0
+P01857,IGHG1,Immunoglobulin heavy constant gamma 1,2.0,2.0,1.0,True,True,True,False,True,1.0
+P01859,IGHG2,Immunoglobulin heavy constant gamma 2,2.0,2.0,1.0,True,True,True,False,True,1.0
+P01861,IGHG4,Immunoglobulin heavy constant gamma 4,2.0,2.0,1.0,True,True,True,False,True,1.0
+P02042,HBD,Hemoglobin subunit delta,2.0,0.0,1.0,True,False,True,False,False,1.0
+P04196,HRG,Histidine-rich glycoprotein,2.0,0.0,1.0,True,False,True,False,False,1.0
+P05156,CFI,Complement factor I,2.0,2.0,1.0,True,True,True,False,True,1.0
+P19474,TRIM21,E3 ubiquitin-protein ligase TRIM21,2.0,1.0,1.0,True,True,True,False,True,1.0
+P68871,HBB,Hemoglobin subunit beta,2.0,0.0,1.0,True,False,True,False,False,1.0
+Q14624,ITIH4,Inter-alpha-trypsin inhibitor heavy chain H4,2.0,2.0,1.0,True,True,True,False,True,1.0
+P02787,TF,Serotransferrin,4.0,2.0,4.0,True,True,True,False,True,0.0
+P02790,HPX,Hemopexin,4.0,2.0,4.0,True,True,True,False,True,0.0
+P13646,KRT13,"Keratin, type I cytoskeletal 13",4.0,0.0,4.0,True,False,True,False,False,0.0
+Q71U36,TUBA1A,Tubulin alpha-1A chain,4.0,1.0,4.0,True,True,True,False,True,0.0
+Q7Z3Y8,KRT27,"Keratin, type I cytoskeletal 27",4.0,2.0,4.0,True,True,True,False,True,0.0
+Q9BQE3,TUBA1C,Tubulin alpha-1C chain,4.0,1.0,4.0,True,True,True,False,True,0.0
+P56470,LGALS4,Galectin-4,3.0,0.0,3.0,True,False,True,False,False,0.0
+P00387,CYB5R3,NADH-cytochrome b5 reductase 3,2.0,0.0,2.0,True,False,True,False,False,0.0
+P02649,APOE,Apolipoprotein E,2.0,0.0,2.0,True,False,True,False,False,0.0
+P13489,RNH1,Ribonuclease inhibitor,2.0,0.0,2.0,True,False,True,False,False,0.0
+P22061,PCMT1,Protein-L-isoaspartate(D-aspartate) O-methyltransferase,2.0,0.0,2.0,True,False,True,False,False,0.0
+Q00266,MAT1A,S-adenosylmethionine synthase isoform type-1,2.0,0.0,2.0,True,False,True,False,False,0.0
+O75310,UGT2B11,UDP-glucuronosyltransferase 2B11,1.0,0.0,1.0,True,False,True,False,False,0.0
+P04004,VTN,Vitronectin,1.0,0.0,1.0,True,False,True,False,False,0.0
+P69905,HBA1,Hemoglobin subunit alpha,1.0,0.0,1.0,True,False,True,False,False,0.0
+Q8NBX0,SCCPDH,Saccharopine dehydrogenase-like oxidoreductase,1.0,0.0,1.0,True,False,True,False,False,0.0
+Q9BYX7,POTEKP,Putative beta-actin-like protein 3,1.0,1.0,1.0,True,True,True,False,True,0.0
+A0A0B4J2B5,IGHV3OR16-9,Immunoglobulin heavy variable 3/OR16-9 (non-functional),0.0,1.0,0.0,False,True,False,False,False,0.0
+P00746,CFD,Complement factor D,0.0,1.0,0.0,False,True,False,False,False,0.0
+P17936,IGFBP3,Insulin-like growth factor-binding protein 3,0.0,1.0,0.0,False,True,False,False,False,0.0
+Q13822,ENPP2,Autotaxin,0.0,1.0,0.0,False,True,False,False,False,0.0
+Q96IY4,CPB2,Carboxypeptidase B2,0.0,2.0,0.0,False,True,False,False,False,0.0
+P02538,KRT6A,"Keratin, type II cytoskeletal 6A",4.0,2.0,5.0,True,True,True,False,True,-1.0
+P04259,KRT6B,"Keratin, type II cytoskeletal 6B",4.0,2.0,5.0,True,True,True,False,True,-1.0
+P10809,HSPD1,"60 kDa heat shock protein, mitochondrial",4.0,0.0,5.0,True,False,True,False,False,-1.0
+P13647,KRT5,"Keratin, type II cytoskeletal 5",4.0,2.0,5.0,True,True,True,False,True,-1.0
+P25705,ATP5F1A,"ATP synthase F(1) complex subunit alpha, mitochondrial",4.0,0.0,5.0,True,False,True,False,False,-1.0
+P48668,KRT6C,"Keratin, type II cytoskeletal 6C",4.0,2.0,5.0,True,True,True,False,True,-1.0
+P62736,ACTA2,"Actin, aortic smooth muscle",4.0,2.0,5.0,True,True,True,False,True,-1.0
+P63267,ACTG2,"Actin, gamma-enteric smooth muscle",4.0,2.0,5.0,True,True,True,False,True,-1.0
+P68363,TUBA1B,Tubulin alpha-1B chain,4.0,1.0,5.0,True,True,True,False,True,-1.0
+P10620,MGST1,Microsomal glutathione S-transferase 1,3.0,0.0,4.0,True,False,True,False,False,-1.0
+P60660,MYL6,Myosin light polypeptide 6,3.0,2.0,4.0,True,True,True,False,True,-1.0
+P61204,ARF3,ADP-ribosylation factor 3,3.0,0.0,4.0,True,False,True,False,False,-1.0
+P68104,EEF1A1,Elongation factor 1-alpha 1,3.0,0.0,4.0,True,False,True,False,False,-1.0
+P68371,TUBB4B,Tubulin beta-4B chain,3.0,0.0,4.0,True,False,True,False,False,-1.0
+P84077,ARF1,ADP-ribosylation factor 1,3.0,0.0,4.0,True,False,True,False,False,-1.0
+Q5VTE0,EEF1A1P5,Putative elongation factor 1-alpha-like 3,3.0,0.0,4.0,True,False,True,False,False,-1.0
+P10909,CLU,Clusterin,2.0,0.0,3.0,True,False,True,False,False,-1.0
+Q05639,EEF1A2,Elongation factor 1-alpha 2,2.0,0.0,3.0,True,False,True,False,False,-1.0
+Q7Z3Z0,KRT25,"Keratin, type I cytoskeletal 25",2.0,1.0,3.0,True,True,True,False,True,-1.0
+Q9H9B4,SFXN1,Sideroflexin-1,2.0,0.0,3.0,True,False,True,False,False,-1.0
+A5A3E0,POTEF,POTE ankyrin domain family member F,1.0,2.0,2.0,True,True,True,False,True,-1.0
+O60841,EIF5B,Eukaryotic translation initiation factor 5B,1.0,0.0,2.0,True,False,True,False,False,-1.0
+P08727,KRT19,"Keratin, type I cytoskeletal 19",1.0,0.0,2.0,True,False,True,False,False,-1.0
+P0DME0,SETSIP,Protein SETSIP,1.0,0.0,2.0,True,False,True,False,False,-1.0
+P13010,XRCC5,DNA repair protein Ku80,1.0,0.0,2.0,True,False,True,False,False,-1.0
+P14625,HSP90B1,Endoplasmin,1.0,0.0,2.0,True,False,True,False,False,-1.0
+P28332,ADH6,Alcohol dehydrogenase 6,1.0,0.0,2.0,True,False,True,False,False,-1.0
+P30533,LRPAP1,Alpha-2-macroglobulin receptor-associated protein,1.0,0.0,2.0,True,False,True,False,False,-1.0
+P35900,KRT20,"Keratin, type I cytoskeletal 20",1.0,0.0,2.0,True,False,True,False,False,-1.0
+P36578,RPL4,Large ribosomal subunit protein uL4,1.0,0.0,2.0,True,False,True,False,False,-1.0
+Q00839,HNRNPU,Heterogeneous nuclear ribonucleoprotein U,1.0,0.0,2.0,True,False,True,False,False,-1.0
+Q01105,SET,Protein SET,1.0,0.0,2.0,True,False,True,False,False,-1.0
+Q6S8J3,POTEE,POTE ankyrin domain family member E,1.0,2.0,2.0,True,True,True,False,True,-1.0
+Q86Y46,KRT73,"Keratin, type II cytoskeletal 73",1.0,0.0,2.0,True,False,True,False,False,-1.0
+Q9UK22,FBXO2,F-box only protein 2,1.0,0.0,2.0,True,False,True,False,False,-1.0
+A0A8I5KQE6,RPSA2,Small ribosomal subunit protein uS2B,0.0,0.0,1.0,False,False,True,False,False,-1.0
+A1L0T0,HACL2,2-hydroxyacyl-CoA lyase 2,0.0,0.0,1.0,False,False,True,False,False,-1.0
+A6NHL2,TUBAL3,Tubulin alpha chain-like 3,0.0,0.0,1.0,False,False,True,False,False,-1.0
+A6NIZ1,RAP1BL,Ras-related protein Rap-1b-like protein,0.0,0.0,1.0,False,False,True,False,False,-1.0
+O00264,PGRMC1,Membrane-associated progesterone receptor component 1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+O00410,IPO5,Importin-5,0.0,0.0,1.0,False,False,True,False,False,-1.0
+O00483,COXFA4,Cytochrome c oxidase subunit FA4,0.0,0.0,1.0,False,False,True,False,False,-1.0
+O14617,AP3D1,AP-3 complex subunit delta-1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+O14949,UQCRQ,Cytochrome b-c1 complex subunit 8,0.0,0.0,1.0,False,False,True,False,False,-1.0
+O15260,SURF4,Surfeit locus protein 4,0.0,0.0,1.0,False,False,True,False,False,-1.0
+O43169,CYB5B,Cytochrome b5 type B,0.0,0.0,1.0,False,False,True,False,False,-1.0
+O43826,SLC37A4,Glucose-6-phosphate exchanger SLC37A4,0.0,0.0,1.0,False,False,True,False,False,-1.0
+O60313,OPA1,"Dynamin-like GTPase OPA1, mitochondrial",0.0,0.0,1.0,False,False,True,False,False,-1.0
+O60427,FADS1,Acyl-CoA (8-3)-desaturase,0.0,0.0,1.0,False,False,True,False,False,-1.0
+O60684,KPNA6,Importin subunit alpha-7,0.0,0.0,1.0,False,False,True,False,False,-1.0
+O60762,DPM1,Dolichol-phosphate mannosyltransferase subunit 1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+O60763,USO1,General vesicular transport factor p115,0.0,0.0,1.0,False,False,True,False,False,-1.0
+O75533,SF3B1,Splicing factor 3B subunit 1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+O75907,DGAT1,Diacylglycerol O-acyltransferase 1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+O75936,BBOX1,Gamma-butyrobetaine dioxygenase,0.0,0.0,1.0,False,False,True,False,False,-1.0
+O94903,PLPBP,Pyridoxal phosphate homeostasis protein,0.0,0.0,1.0,False,False,True,False,False,-1.0
+O94973,AP2A2,AP-2 complex subunit alpha-2,0.0,0.0,1.0,False,False,True,False,False,-1.0
+O94979,SEC31A,Protein transport protein Sec31A,0.0,0.0,1.0,False,False,True,False,False,-1.0
+O95218,ZRANB2,Zinc finger Ran-binding domain-containing protein 2,0.0,0.0,1.0,False,False,True,False,False,-1.0
+O95340,PAPSS2,Bifunctional 3'-phosphoadenosine 5'-phosphosulfate synthase 2,0.0,0.0,1.0,False,False,True,False,False,-1.0
+O95394,PGM3,Phosphoacetylglucosamine mutase,0.0,0.0,1.0,False,False,True,False,False,-1.0
+O95870,ABHD16A,Phosphatidylserine lipase ABHD16A,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P01893,HLA-H,"Putative HLA class I histocompatibility antigen, alpha chain H",0.0,0.0,1.0,False,False,True,False,False,-1.0
+P02810,PRH1,Salivary acidic proline-rich phosphoprotein 1/2,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P04075,ALDOA,Fructose-bisphosphate aldolase A,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P04083,ANXA1,Annexin A1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P04439,HLA-A,"HLA class I histocompatibility antigen, A alpha chain",0.0,0.0,1.0,False,False,True,False,False,-1.0
+P04844,RPN2,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 2,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P05023,ATP1A1,Sodium/potassium-transporting ATPase subunit alpha-1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P05089,ARG1,Arginase-1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P05109,S100A8,Protein S100-A8,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P05164,MPO,Myeloperoxidase,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P07148,FABP1,"Fatty acid-binding protein, liver",0.0,0.0,1.0,False,False,True,False,False,-1.0
+P07919,UQCRH,"Cytochrome b-c1 complex subunit 6, mitochondrial",0.0,0.0,1.0,False,False,True,False,False,-1.0
+P07951,TPM2,Tropomyosin beta chain,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P08574,CYC1,"Cytochrome c1, heme protein, mitochondrial",0.0,0.0,1.0,False,False,True,False,False,-1.0
+P08708,RPS17,Small ribosomal subunit protein eS17,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P08865,RPSA,Small ribosomal subunit protein uS2,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P09132,SRP19,Signal recognition particle 19 kDa protein,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P09327,VIL1,Villin-1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P09493,TPM1,Tropomyosin alpha-1 chain,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P09525,ANXA4,Annexin A4,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P09543,CNP,"2',3'-cyclic-nucleotide 3'-phosphodiesterase",0.0,0.0,1.0,False,False,True,False,False,-1.0
+P0CG39,POTEJ,POTE ankyrin domain family member J,0.0,2.0,1.0,False,True,True,False,False,-1.0
+P10321,HLA-C,"HLA class I histocompatibility antigen, C alpha chain",0.0,0.0,1.0,False,False,True,False,False,-1.0
+P10412,H1-4,Histone H1.4,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P11940,PABPC1,Polyadenylate-binding protein 1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P12814,ACTN1,Alpha-actinin-1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P13804,ETFA,"Electron transfer flavoprotein subunit alpha, mitochondrial",0.0,0.0,1.0,False,False,True,False,False,-1.0
+P14174,MIF,Macrophage migration inhibitory factor,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P14868,DARS1,"Aspartate--tRNA ligase, cytoplasmic",0.0,0.0,1.0,False,False,True,False,False,-1.0
+P15428,HPGD,15-hydroxyprostaglandin dehydrogenase [NAD(+)],0.0,0.0,1.0,False,False,True,False,False,-1.0
+P15531,NME1,Nucleoside diphosphate kinase A,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P16219,ACADS,"Short-chain specific acyl-CoA dehydrogenase, mitochondrial",0.0,0.0,1.0,False,False,True,False,False,-1.0
+P16403,H1-2,Histone H1.2,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P16615,ATP2A2,Sarcoplasmic/endoplasmic reticulum calcium ATPase 2,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P16930,FAH,Fumarylacetoacetase,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P17655,CAPN2,Calpain-2 catalytic subunit,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P17844,DDX5,Probable ATP-dependent RNA helicase DDX5,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P17931,LGALS3,Galectin-3,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P17980,PSMC3,26S proteasome regulatory subunit 6A,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P18077,RPL35A,Large ribosomal subunit protein eL33,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P20042,EIF2S2,Eukaryotic translation initiation factor 2 subunit 2,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P21127,CDK11B,Cyclin-dependent kinase 11B,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P21912,SDHB,"Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial",0.0,0.0,1.0,False,False,True,False,False,-1.0
+P22307,SCP2,Sterol carrier protein 2,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P22626,HNRNPA2B1,Heterogeneous nuclear ribonucleoproteins A2/B1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P22695,UQCRC2,"Cytochrome b-c1 complex subunit 2, mitochondrial",0.0,0.0,1.0,False,False,True,False,False,-1.0
+P23284,PPIB,Peptidyl-prolyl cis-trans isomerase B,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P24844,MYL9,Myosin regulatory light polypeptide 9,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P25398,RPS12,Small ribosomal subunit protein eS12,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P27797,CALR,Calreticulin,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P29692,EEF1D,Elongation factor 1-delta,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P30038,ALDH4A1,"Delta-1-pyrroline-5-carboxylate dehydrogenase, mitochondrial",0.0,0.0,1.0,False,False,True,False,False,-1.0
+P30043,BLVRB,Flavin reductase (NADPH),0.0,0.0,1.0,False,False,True,False,False,-1.0
+P30048,PRDX3,"Thioredoxin-dependent peroxide reductase, mitochondrial",0.0,0.0,1.0,False,False,True,False,False,-1.0
+P35606,COPB2,Coatomer subunit beta',0.0,0.0,1.0,False,False,True,False,False,-1.0
+P36957,DLST,"Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex, mitochondrial",0.0,0.0,1.0,False,False,True,False,False,-1.0
+P37268,FDFT1,Squalene synthase,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P40227,CCT6A,T-complex protein 1 subunit zeta,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P40616,ARL1,ADP-ribosylation factor-like protein 1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P42704,LRPPRC,"Leucine-rich PPR motif-containing protein, mitochondrial",0.0,0.0,1.0,False,False,True,False,False,-1.0
+P46087,NOP2,28S rRNA (cytosine(4447)-C(5))-methyltransferase,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P46783,RPS10,Small ribosomal subunit protein eS10,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P47755,CAPZA2,F-actin-capping protein subunit alpha-2,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P47756,CAPZB,F-actin-capping protein subunit beta,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P47897,QARS1,Glutamine--tRNA ligase,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P49207,RPL34,Large ribosomal subunit protein eL34,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P49326,FMO5,Flavin-containing monooxygenase 5,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P49458,SRP9,Signal recognition particle 9 kDa protein,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P50226,SULT1A2,Sulfotransferase 1A2,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P50990,CCT8,T-complex protein 1 subunit theta,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P51114,FXR1,RNA-binding protein FXR1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P51153,RAB13,Ras-related protein Rab-13,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P52294,KPNA1,Importin subunit alpha-5,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P53618,COPB1,Coatomer subunit beta,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P54652,HSPA2,Heat shock-related 70 kDa protein 2,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P55795,HNRNPH2,Heterogeneous nuclear ribonucleoprotein H2,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P56385,ATP5ME,"ATP synthase F(0) complex subunit e, mitochondrial",0.0,0.0,1.0,False,False,True,False,False,-1.0
+P57088,TMEM33,Transmembrane protein 33,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P60468,SEC61B,Protein transport protein Sec61 subunit beta,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P61221,ABCE1,ATP-binding cassette sub-family E member 1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P61513,RPL37A,Large ribosomal subunit protein eL43,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P61626,LYZ,Lysozyme C,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P61803,DAD1,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit DAD1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P62081,RPS7,Small ribosomal subunit protein eS7,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P62195,PSMC5,26S proteasome regulatory subunit 8,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P62258,YWHAE,14-3-3 protein epsilon,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P62314,SNRPD1,Small nuclear ribonucleoprotein Sm D1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P62491,RAB11A,Ras-related protein Rab-11A,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P62820,RAB1A,Ras-related protein Rab-1A,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P62841,RPS15,Small ribosomal subunit protein uS19,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P62854,RPS26,Small ribosomal subunit protein eS26,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P63104,YWHAZ,14-3-3 protein zeta/delta,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P63173,RPL38,Large ribosomal subunit protein eL38,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P78362,SRPK2,SRSF protein kinase 2,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P78371,CCT2,T-complex protein 1 subunit beta,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P78527,PRKDC,DNA-dependent protein kinase catalytic subunit,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P80297,MT1X,Metallothionein-1X,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P81605,DCD,Dermcidin,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P84095,RHOG,Rho-related GTP-binding protein RhoG,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q00577,PURA,Transcriptional activator protein Pur-alpha,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q02978,SLC25A11,Mitochondrial 2-oxoglutarate/malate carrier protein,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q06520,SULT2A1,Sulfotransferase 2A1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q07065,CKAP4,Cytoskeleton-associated protein 4,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q08170,SRSF4,Serine/arginine-rich splicing factor 4,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q08554,DSC1,Desmocollin-1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q08AH3,ACSM2A,"Acyl-coenzyme A synthetase ACSM2A, mitochondrial",0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q12905,ILF2,Interleukin enhancer-binding factor 2,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q13011,ECH1,"Delta(3,5)-Delta(2,4)-dienoyl-CoA isomerase, mitochondrial",0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q13045,FLII,Protein flightless-1 homolog,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q13268,DHRS2,"Dehydrogenase/reductase SDR family member 2, mitochondrial",0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q13637,RAB32,Ras-related protein Rab-32,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q14032,BAAT,Bile acid-CoA:amino acid N-acyltransferase,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q14240,EIF4A2,Eukaryotic initiation factor 4A-II,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q14258,TRIM25,E3 ubiquitin/ISG15 ligase TRIM25,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q14678,KANK1,KN motif and ankyrin repeat domain-containing protein 1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q14749,GNMT,Glycine N-methyltransferase,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q14847,LASP1,LIM and SH3 domain protein 1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q14964,RAB39A,Ras-related protein Rab-39A,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q15020,SART3,"Spliceosome associated factor 3, U4/U6 recycling protein",0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q15067,ACOX1,Peroxisomal acyl-coenzyme A oxidase 1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q15125,EBP,"3-beta-hydroxysteroid-Delta(8),Delta(7)-isomerase",0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q15166,PON3,Serum paraoxonase/lactonase 3,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q15717,ELAVL1,ELAV-like protein 1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q15907,RAB11B,Ras-related protein Rab-11B,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q16527,CSRP2,Cysteine and glycine-rich protein 2,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q16629,SRSF7,Serine/arginine-rich splicing factor 7,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q16775,HAGH,"Hydroxyacylglutathione hydrolase, mitochondrial",0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q5D862,FLG2,Filaggrin-2,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q5JNZ5,RPS26P11,Putative ribosomal protein eS26-like,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q6DD88,ATL3,Atlastin-3,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q6IAN0,DHRS7B,Peroxisomal reductase activating PPAR-gamma,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q6UWP8,SBSN,Suprabasin,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q6UXV4,APOOL,MICOS complex subunit MIC27,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q71UM5,RPS27L,Ribosomal protein eS27-like,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q86UE4,MTDH,Protein LYRIC,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q86VP6,CAND1,Cullin-associated NEDD8-dissociated protein 1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q86WU2,LDHD,"D-lactate dehydrogenase, mitochondrial",0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q86XE5,HOGA1,"4-hydroxy-2-oxoglutarate aldolase, mitochondrial",0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q8IVS8,GLYCTK,Glycerate kinase,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q8N1G4,LRRC47,Leucine-rich repeat-containing protein 47,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q8TC12,RDH11,Retinol dehydrogenase 11,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q8TD47,RPS4Y2,"Small ribosomal subunit protein eS4, Y isoform 2",0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q8WUM4,PDCD6IP,Programmed cell death 6-interacting protein,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q8WYK0,ACOT12,Acetyl-coenzyme A thioesterase,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q92520,FAM3C,Protein FAM3C,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q92522,H1-10,Histone H1.10,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q92526,CCT6B,Probable T-complex protein 1 subunit zeta-2,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q92541,RTF1,RNA polymerase-associated protein RTF1 homolog,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q92887,ABCC2,ATP-binding cassette sub-family C member 2,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q92901,RPL3L,Ribosomal protein uL3-like,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q93008,USP9X,Ubiquitin carboxyl-terminal hydrolase 9X,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q969V3,NCLN,BOS complex subunit NCLN,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q96A26,FAM162A,Protein FAM162A,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q96AB3,ISOC2,Isochorismatase domain-containing protein 2,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q96EY7,PTCD3,Small ribosomal subunit protein mS39,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q96KP4,CNDP2,Cytosolic non-specific dipeptidase,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q96N76,UROC1,Urocanate hydratase,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q96SB4,SRPK1,SRSF protein kinase 1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q96SI9,STRBP,Spermatid perinuclear RNA-binding protein,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q99623,PHB2,Prohibitin-2,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q99714,HSD17B10,3-hydroxyacyl-CoA dehydrogenase type-2,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9BPW8,NIPSNAP1,Protein NipSnap homolog 1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9BRJ6,CHLSN,Protein cholesin,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9BSH5,HDHD3,Haloacid dehalogenase-like hydrolase domain-containing protein 3,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9BSJ8,ESYT1,Extended synaptotagmin-1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9BUF5,TUBB6,Tubulin beta-6 chain,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9BUJ2,HNRNPUL1,Heterogeneous nuclear ribonucleoprotein U-like protein 1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9BXJ9,NAA15,"N-alpha-acetyltransferase 15, NatA auxiliary subunit",0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9BYK8,HELZ2,3'-5' exoribonuclease HELZ2,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9H0W9,BKGD,Beta-keto L-gulonate decarboxylase,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9H2K8,TAOK3,Serine/threonine-protein kinase TAO3,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9H4B7,TUBB1,Tubulin beta-1 chain,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9HCC0,MCCC2,"Methylcrotonoyl-CoA carboxylase beta chain, mitochondrial",0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9NP72,RAB18,Ras-related protein Rab-18,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9NQ39,RPS10P5,Putative ribosomal protein eS10-like,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9NQ94,A1CF,APOBEC1 complementation factor,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9NQC3,RTN4,Reticulon-4,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9NTK5,OLA1,Obg-like ATPase 1,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9NVS9,PNPO,Pyridoxine-5'-phosphate oxidase,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9NX47,MARCHF5,E3 ubiquitin-protein ligase MARCHF5,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9NZT1,CALML5,Calmodulin-like protein 5,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9P035,HACD3,Very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase 3,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9P0Z9,PIPOX,Peroxisomal sarcosine oxidase,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9UDR5,AASS,"Alpha-aminoadipic semialdehyde synthase, mitochondrial",0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9UIJ7,AK3,"GTP:AMP phosphotransferase AK3, mitochondrial",0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9UJS0,SLC25A13,"Electrogenic aspartate/glutamate antiporter SLC25A13, mitochondrial",0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9UKD2,MRTO4,mRNA turnover protein 4 homolog,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9UKR5,ERG28,Ergosterol biosynthetic protein 28 homolog,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9UQ88,CDK11A,Cyclin-dependent kinase 11A,0.0,0.0,1.0,False,False,True,False,False,-1.0
+Q9Y5L4,TIMM13,Mitochondrial import inner membrane translocase subunit Tim13,0.0,0.0,1.0,False,False,True,False,False,-1.0
+P00325,ADH1B,All-trans-retinol dehydrogenase [NAD(+)] ADH1B,4.0,2.0,6.0,True,True,True,False,True,-2.0
+P00326,ADH1C,Alcohol dehydrogenase 1C,4.0,2.0,6.0,True,True,True,False,True,-2.0
+P02533,KRT14,"Keratin, type I cytoskeletal 14",4.0,2.0,6.0,True,True,True,False,True,-2.0
+P04264,KRT1,"Keratin, type II cytoskeletal 1",4.0,2.0,6.0,True,True,True,False,True,-2.0
+P07099,EPHX1,Epoxide hydrolase 1,4.0,1.0,6.0,True,True,True,False,True,-2.0
+P07327,ADH1A,Alcohol dehydrogenase 1A,4.0,2.0,6.0,True,True,True,False,True,-2.0
+P08319,ADH4,All-trans-retinol dehydrogenase [NAD(+)] ADH4,4.0,1.0,6.0,True,True,True,False,True,-2.0
+P08779,KRT16,"Keratin, type I cytoskeletal 16",4.0,2.0,6.0,True,True,True,False,True,-2.0
+P13645,KRT10,"Keratin, type I cytoskeletal 10",4.0,2.0,6.0,True,True,True,False,True,-2.0
+P19338,NCL,Nucleolin,4.0,2.0,6.0,True,True,True,False,True,-2.0
+P31327,CPS1,"Carbamoyl-phosphate synthase [ammonia], mitochondrial",4.0,2.0,6.0,True,True,True,False,True,-2.0
+P35527,KRT9,"Keratin, type I cytoskeletal 9",4.0,2.0,6.0,True,True,True,False,True,-2.0
+P35579,MYH9,Myosin-9,4.0,2.0,6.0,True,True,True,False,True,-2.0
+P35908,KRT2,"Keratin, type II cytoskeletal 2 epidermal",4.0,2.0,6.0,True,True,True,False,True,-2.0
+P60709,ACTB,"Actin, cytoplasmic 1",4.0,2.0,6.0,True,True,True,False,True,-2.0
+P63261,ACTG1,"Actin, cytoplasmic 2",4.0,2.0,6.0,True,True,True,False,True,-2.0
+P68032,ACTC1,"Actin, alpha cardiac muscle 1",4.0,2.0,6.0,True,True,True,False,True,-2.0
+P68133,ACTA1,"Actin, alpha skeletal muscle",4.0,2.0,6.0,True,True,True,False,True,-2.0
+Q04695,KRT17,"Keratin, type I cytoskeletal 17",4.0,2.0,6.0,True,True,True,False,True,-2.0
+Q16822,PCK2,"Phosphoenolpyruvate carboxykinase [GTP], mitochondrial",4.0,0.0,6.0,True,False,True,False,False,-2.0
+P00338,LDHA,L-lactate dehydrogenase A chain,3.0,0.0,5.0,True,False,True,False,False,-2.0
+P05787,KRT8,"Keratin, type II cytoskeletal 8",3.0,1.0,5.0,True,True,True,False,True,-2.0
+P06576,ATP5F1B,"ATP synthase F(1) complex subunit beta, mitochondrial",3.0,0.0,5.0,True,False,True,False,False,-2.0
+P24752,ACAT1,"Acetyl-CoA acetyltransferase, mitochondrial",3.0,0.0,5.0,True,False,True,False,False,-2.0
+Q06830,PRDX1,Peroxiredoxin-1,3.0,2.0,5.0,True,True,True,False,True,-2.0
+A6NMY6,ANXA2P2,Putative annexin A2-like protein,2.0,0.0,4.0,True,False,True,False,False,-2.0
+O43175,PHGDH,D-3-phosphoglycerate dehydrogenase,2.0,0.0,4.0,True,False,True,False,False,-2.0
+O60701,UGDH,UDP-glucose 6-dehydrogenase,2.0,0.0,4.0,True,False,True,False,False,-2.0
+P00167,CYB5A,Cytochrome b5,2.0,1.0,4.0,True,True,True,False,True,-2.0
+P00367,GLUD1,"Glutamate dehydrogenase 1, mitochondrial",2.0,0.0,4.0,True,False,True,False,False,-2.0
+P00505,GOT2,"Aspartate aminotransferase, mitochondrial",2.0,0.0,4.0,True,False,True,False,False,-2.0
+P00966,ASS1,Argininosuccinate synthase,2.0,0.0,4.0,True,False,True,False,False,-2.0
+P07355,ANXA2,Annexin A2,2.0,0.0,4.0,True,False,True,False,False,-2.0
+P07437,TUBB,Tubulin beta chain,2.0,0.0,4.0,True,False,True,False,False,-2.0
+P09110,ACAA1,"3-ketoacyl-CoA thiolase, peroxisomal",2.0,0.0,4.0,True,False,True,False,False,-2.0
+P09429,HMGB1,High mobility group protein B1,2.0,1.0,4.0,True,True,True,False,True,-2.0
+P16662,UGT2B7,UDP-glucuronosyltransferase 2B7,2.0,0.0,4.0,True,False,True,False,False,-2.0
+P17066,HSPA6,Heat shock 70 kDa protein 6,2.0,1.0,4.0,True,True,True,False,True,-2.0
+P18085,ARF4,ADP-ribosylation factor 4,2.0,0.0,4.0,True,False,True,False,False,-2.0
+P19012,KRT15,"Keratin, type I cytoskeletal 15",2.0,2.0,4.0,True,True,True,False,True,-2.0
+P21397,MAOA,Amine oxidase [flavin-containing] A,2.0,0.0,4.0,True,False,True,False,False,-2.0
+P23528,CFL1,Cofilin-1,2.0,0.0,4.0,True,False,True,False,False,-2.0
+P27338,MAOB,Amine oxidase [flavin-containing] B,2.0,0.0,4.0,True,False,True,False,False,-2.0
+P33121,ACSL1,Long-chain-fatty-acid--CoA ligase 1,2.0,0.0,4.0,True,False,True,False,False,-2.0
+P36537,UGT2B10,UDP-glucuronosyltransferase 2B10,2.0,0.0,4.0,True,False,True,False,False,-2.0
+P40939,HADHA,"Trifunctional enzyme subunit alpha, mitochondrial",2.0,2.0,4.0,True,True,True,False,True,-2.0
+P48735,IDH2,"Isocitrate dehydrogenase [NADP], mitochondrial",2.0,0.0,4.0,True,False,True,False,False,-2.0
+P48741,HSPA7,Putative heat shock 70 kDa protein 7,2.0,1.0,4.0,True,True,True,False,True,-2.0
+P54855,UGT2B15,UDP-glucuronosyltransferase 2B15,2.0,0.0,4.0,True,False,True,False,False,-2.0
+Q6UX53,TMT1B,Thiol S-methyltransferase TMT1B,2.0,0.0,4.0,True,False,True,False,False,-2.0
+Q8NBQ5,HSD17B11,Estradiol 17-beta-dehydrogenase 11,2.0,0.0,4.0,True,False,True,False,False,-2.0
+Q96IU4,ABHD14B,Putative protein-lysine deacylase ABHD14B,2.0,0.0,4.0,True,False,True,False,False,-2.0
+P04080,CSTB,Cystatin-B,1.0,0.0,3.0,True,False,True,False,False,-2.0
+P06748,NPM1,Nucleophosmin,1.0,0.0,3.0,True,False,True,False,False,-2.0
+P31153,MAT2A,S-adenosylmethionine synthase isoform type-2,1.0,0.0,3.0,True,False,True,False,False,-2.0
+Q01130,SRSF2,Serine/arginine-rich splicing factor 2,1.0,0.0,3.0,True,False,True,False,False,-2.0
+Q02338,BDH1,"D-beta-hydroxybutyrate dehydrogenase, mitochondrial",1.0,0.0,3.0,True,False,True,False,False,-2.0
+Q14894,CRYM,Ketimine reductase mu-crystallin,1.0,0.0,3.0,True,False,True,False,False,-2.0
+Q7Z4W1,DCXR,L-xylulose reductase,1.0,0.0,3.0,True,False,True,False,False,-2.0
+Q86YZ3,HRNR,Hornerin,1.0,0.0,3.0,True,False,True,False,False,-2.0
+A0A075B6S2,IGKV2D-29,Immunoglobulin kappa variable 2D-29,0.0,0.0,2.0,False,False,True,False,False,-2.0
+A2NJV5,IGKV2-29,Immunoglobulin kappa variable 2-29,0.0,0.0,2.0,False,False,True,False,False,-2.0
+A6NNZ2,TUBB8B,Tubulin beta 8B,0.0,0.0,2.0,False,False,True,False,False,-2.0
+O00159,MYO1C,Unconventional myosin-Ic,0.0,0.0,2.0,False,False,True,False,False,-2.0
+O00203,AP3B1,AP-3 complex subunit beta-1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+O00468,AGRN,Agrin,0.0,0.0,2.0,False,False,True,False,False,-2.0
+O14773,TPP1,Tripeptidyl-peptidase 1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+O14975,SLC27A2,Long-chain fatty acid transport protein 2,0.0,0.0,2.0,False,False,True,False,False,-2.0
+O15258,RER1,Protein RER1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+O15371,EIF3D,Eukaryotic translation initiation factor 3 subunit D,0.0,0.0,2.0,False,False,True,False,False,-2.0
+O43390,HNRNPR,Heterogeneous nuclear ribonucleoprotein R,0.0,0.0,2.0,False,False,True,False,False,-2.0
+O43707,ACTN4,Alpha-actinin-4,0.0,0.0,2.0,False,False,True,False,False,-2.0
+O60506,SYNCRIP,Heterogeneous nuclear ribonucleoprotein Q,0.0,0.0,2.0,False,False,True,False,False,-2.0
+O75131,CPNE3,Copine-3,0.0,0.0,2.0,False,False,True,False,False,-2.0
+O75369,FLNB,Filamin-B,0.0,0.0,2.0,False,False,True,False,False,-2.0
+O75396,SEC22B,Vesicle-trafficking protein SEC22b,0.0,0.0,2.0,False,False,True,False,False,-2.0
+O75891,ALDH1L1,Cytosolic 10-formyltetrahydrofolate dehydrogenase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+O76031,CLPX,"ATP-dependent clpX-like chaperone, mitochondrial",0.0,0.0,2.0,False,False,True,False,False,-2.0
+O76094,SRP72,Signal recognition particle subunit SRP72,0.0,0.0,2.0,False,False,True,False,False,-2.0
+O94832,MYO1D,Unconventional myosin-Id,0.0,0.0,2.0,False,False,True,False,False,-2.0
+O95373,IPO7,Importin-7,0.0,0.0,2.0,False,False,True,False,False,-2.0
+O95563,MPC2,Mitochondrial pyruvate carrier 2,0.0,0.0,2.0,False,False,True,False,False,-2.0
+O95573,ACSL3,Fatty acid CoA ligase Acsl3,0.0,0.0,2.0,False,False,True,False,False,-2.0
+O95793,STAU1,Double-stranded RNA-binding protein Staufen homolog 1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+O96000,NDUFB10,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 10,0.0,0.0,2.0,False,False,True,False,False,-2.0
+O96011,PEX11B,Peroxisomal membrane protein 11B,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P02511,CRYAB,Alpha-crystallin B chain,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P02795,MT2A,Metallothionein-2,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P04424,ASL,Argininosuccinate lyase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P04908,H2AC4,Histone H2A type 1-B/E,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P05198,EIF2S1,Eukaryotic translation initiation factor 2 subunit 1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P05387,RPLP2,Large ribosomal subunit protein P2,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P05455,SSB,Lupus La protein,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P05783,KRT18,"Keratin, type I cytoskeletal 18",0.0,0.0,2.0,False,False,True,False,False,-2.0
+P06312,IGKV4-1,Immunoglobulin kappa variable 4-1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P07203,GPX1,Glutathione peroxidase 1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P07306,ASGR1,Asialoglycoprotein receptor 1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P09622,DLD,"Dihydrolipoyl dehydrogenase, mitochondrial",0.0,0.0,2.0,False,False,True,False,False,-2.0
+P0C0S5,H2AZ1,Histone H2A.Z,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P0C0S8,H2AC11,Histone H2A type 1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P0CG38,POTEI,POTE ankyrin domain family member I,0.0,2.0,2.0,False,True,True,False,False,-2.0
+P0DP23,CALM1,Calmodulin-1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P0DP24,CALM2,Calmodulin-2,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P0DP25,CALM3,Calmodulin-3,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P11387,TOP1,DNA topoisomerase 1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P12956,XRCC6,DNA repair protein Ku70,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P13797,PLS3,Plastin-3,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P15880,RPS2,Small ribosomal subunit protein uS5,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P16104,H2AX,Histone H2AX,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P16435,POR,NADPH--cytochrome P450 reductase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P17516,AKR1C4,Aldo-keto reductase family 1 member C4,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P17858,PFKL,"ATP-dependent 6-phosphofructokinase, liver type",0.0,0.0,2.0,False,False,True,False,False,-2.0
+P18621,RPL17,Large ribosomal subunit protein uL22,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P18827,SDC1,Syndecan-1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P19013,KRT4,"Keratin, type II cytoskeletal 4",0.0,0.0,2.0,False,False,True,False,False,-2.0
+P20671,H2AC7,Histone H2A type 1-D,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P21399,ACO1,Cytoplasmic aconitate hydratase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P21549,AGXT,Alanine--glyoxylate aminotransferase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P23378,GLDC,"Glycine dehydrogenase (decarboxylating), mitochondrial",0.0,0.0,2.0,False,False,True,False,False,-2.0
+P23526,AHCY,Adenosylhomocysteinase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P26373,RPL13,Large ribosomal subunit protein eL13,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P26640,VARS1,Valine--tRNA ligase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P27348,YWHAQ,14-3-3 protein theta,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P27635,RPL10,Large ribosomal subunit protein uL16,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P27708,CAD,Multifunctional protein CAD,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P27824,CANX,Calnexin,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P30050,RPL12,Large ribosomal subunit protein uL11,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P30153,PPP2R1A,Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P30613,PKLR,Pyruvate kinase PKLR,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P30711,GSTT1,Glutathione S-transferase theta-1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P30740,SERPINB1,Leukocyte elastase inhibitor,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P31040,SDHA,"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial",0.0,0.0,2.0,False,False,True,False,False,-2.0
+P31513,FMO3,Flavin-containing monooxygenase 3,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P31943,HNRNPH1,Heterogeneous nuclear ribonucleoprotein H,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P32119,PRDX2,Peroxiredoxin-2,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P32754,HPD,4-hydroxyphenylpyruvate dioxygenase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P32969,RPL9,Large ribosomal subunit protein uL6,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P35268,RPL22,Large ribosomal subunit protein eL22,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P35520,CBS,Cystathionine beta-synthase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P35659,DEK,Protein DEK,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P35914,HMGCL,"Hydroxymethylglutaryl-CoA lyase, mitochondrial",0.0,0.0,2.0,False,False,True,False,False,-2.0
+P36871,PGM1,Phosphoglucomutase-1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P37059,HSD17B2,17-beta-hydroxysteroid dehydrogenase type 2,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P37108,SRP14,Signal recognition particle 14 kDa protein,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P38606,ATP6V1A,V-type proton ATPase catalytic subunit A,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P39023,RPL3,Large ribosomal subunit protein uL3,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P39687,ANP32A,Acidic leucine-rich nuclear phosphoprotein 32 family member A,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P40429,RPL13A,Large ribosomal subunit protein uL13,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P41091,EIF2S3,Eukaryotic translation initiation factor 2 subunit 3,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P42766,RPL35,Large ribosomal subunit protein uL29,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P43686,PSMC4,26S proteasome regulatory subunit 6B,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P46776,RPL27A,Large ribosomal subunit protein uL15,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P46777,RPL5,Large ribosomal subunit protein uL18,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P46778,RPL21,Large ribosomal subunit protein eL21,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P46779,RPL28,Large ribosomal subunit protein eL28,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P46781,RPS9,Small ribosomal subunit protein uS4,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P48449,LSS,Lanosterol synthase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P49189,ALDH9A1,4-trimethylaminobutyraldehyde dehydrogenase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P49257,LMAN1,Protein ERGIC-53,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P49748,ACADVL,"Very long-chain acyl-CoA dehydrogenase, mitochondrial",0.0,0.0,2.0,False,False,True,False,False,-2.0
+P49755,TMED10,Transmembrane emp24 domain-containing protein 10,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P50914,RPL14,Large ribosomal subunit protein eL14,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P51148,RAB5C,Ras-related protein Rab-5C,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P51991,HNRNPA3,Heterogeneous nuclear ribonucleoprotein A3,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P52272,HNRNPM,Heterogeneous nuclear ribonucleoprotein M,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P52597,HNRNPF,Heterogeneous nuclear ribonucleoprotein F,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P53007,SLC25A1,"Tricarboxylate transport protein, mitochondrial",0.0,0.0,2.0,False,False,True,False,False,-2.0
+P53597,SUCLG1,"Succinate--CoA ligase [ADP/GDP-forming] subunit alpha, mitochondrial",0.0,0.0,2.0,False,False,True,False,False,-2.0
+P54868,HMGCS2,"Hydroxymethylglutaryl-CoA synthase, mitochondrial",0.0,0.0,2.0,False,False,True,False,False,-2.0
+P56134,ATP5MF,"ATP synthase F(0) complex subunit f, mitochondrial",0.0,0.0,2.0,False,False,True,False,False,-2.0
+P60174,TPI1,Triosephosphate isomerase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P60842,EIF4A1,Eukaryotic initiation factor 4A-I,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P60953,CDC42,Cell division control protein 42 homolog,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P61106,RAB14,Ras-related protein Rab-14,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P61224,RAP1B,Ras-related protein Rap-1b,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P61254,RPL26,Large ribosomal subunit protein uL24,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P61313,RPL15,Large ribosomal subunit protein eL15,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P61353,RPL27,Large ribosomal subunit protein eL27,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P61586,RHOA,Transforming protein RhoA,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P61978,HNRNPK,Heterogeneous nuclear ribonucleoprotein K,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P62241,RPS8,Small ribosomal subunit protein eS8,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P62244,RPS15A,Small ribosomal subunit protein uS8,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P62266,RPS23,Small ribosomal subunit protein uS12,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P62277,RPS13,Small ribosomal subunit protein uS15,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P62318,SNRPD3,Small nuclear ribonucleoprotein Sm D3,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P62330,ARF6,ADP-ribosylation factor 6,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P62424,RPL7A,Large ribosomal subunit protein eL8,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P62750,RPL23A,Large ribosomal subunit protein uL23,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P62753,RPS6,Small ribosomal subunit protein eS6,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P62826,RAN,GTP-binding nuclear protein Ran,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P62829,RPL23,Large ribosomal subunit protein uL14,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P62834,RAP1A,Ras-related protein Rap-1A,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P62847,RPS24,Small ribosomal subunit protein eS24,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P62851,RPS25,Small ribosomal subunit protein eS25,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P62857,RPS28,Small ribosomal subunit protein eS28,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P62888,RPL30,Large ribosomal subunit protein eL30,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P62899,RPL31,Large ribosomal subunit protein eL31,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P62906,RPL10A,Large ribosomal subunit protein uL1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P62910,RPL32,Large ribosomal subunit protein eL32,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P62913,RPL11,Large ribosomal subunit protein uL5,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P62917,RPL8,Large ribosomal subunit protein uL2,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P62979,RPS27A,Ubiquitin-ribosomal protein eS31 fusion protein,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P67809,YBX1,Y-box-binding protein 1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P80404,ABAT,"4-aminobutyrate aminotransferase, mitochondrial",0.0,0.0,2.0,False,False,True,False,False,-2.0
+P83731,RPL24,Large ribosomal subunit protein eL24,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P83881,RPL36A,Large ribosomal subunit protein eL42,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P84098,RPL19,Large ribosomal subunit protein eL19,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q00610,CLTC,Clathrin heavy chain 1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q00796,SORD,Sorbitol dehydrogenase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q01581,HMGCS1,"Hydroxymethylglutaryl-CoA synthase, cytoplasmic",0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q02252,ALDH6A1,"Methylmalonate-semialdehyde/malonate-semialdehyde dehydrogenase [acylating], mitochondrial",0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q02413,DSG1,Desmoglein-1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q02543,RPL18A,Large ribosomal subunit protein eL20,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q02878,RPL6,Large ribosomal subunit protein eL6,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q06278,AOX1,Aldehyde oxidase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q06323,PSME1,Proteasome activator complex subunit 1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q07020,RPL18,Large ribosomal subunit protein eL18,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q07955,SRSF1,Serine/arginine-rich splicing factor 1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q08211,DHX9,ATP-dependent RNA helicase A,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q08477,CYP4F3,Cytochrome P450 4F3,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q08945,SSRP1,FACT complex subunit SSRP1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q12906,ILF3,Interleukin enhancer-binding factor 3,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q12965,MYO1E,Unconventional myosin-Ie,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q13162,PRDX4,Peroxiredoxin-4,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q13200,PSMD2,26S proteasome non-ATPase regulatory subunit 2,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q13228,SELENBP1,Methanethiol oxidase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q13501,SQSTM1,Sequestosome-1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q13610,PWP1,Periodic tryptophan protein 1 homolog,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q14103,HNRNPD,Heterogeneous nuclear ribonucleoprotein D0,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q14204,DYNC1H1,Cytoplasmic dynein 1 heavy chain 1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q14568,HSP90AA2P,Heat shock protein HSP 90-alpha A2,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q14764,MVP,Major vault protein,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q15417,CNN3,Calponin-3,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q16762,TST,Thiosulfate sulfurtransferase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q16772,GSTA3,Glutathione S-transferase A3,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q16777,H2AC20,Histone H2A type 2-C,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q16850,CYP51A1,Lanosterol 14-alpha demethylase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q16851,UGP2,UTP--glucose-1-phosphate uridylyltransferase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q2VIR3,EIF2S3B,Eukaryotic translation initiation factor 2 subunit 3B,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q4G0J3,LARP7,La-related protein 7,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q4G0N4,NADK2,"NAD kinase 2, mitochondrial",0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q58FF7,HSP90AB3P,Putative heat shock protein HSP 90-beta-3,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q58FF8,HSP90AB2P,Putative heat shock protein HSP 90-beta 2,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q5T749,KPRP,Keratinocyte proline-rich protein,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q5VWZ2,LYPLAL1,Lysophospholipase-like protein 1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q6FI13,H2AC18,Histone H2A type 2-A,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q6IB77,GLYAT,Glycine N-acyltransferase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q6XQN6,NAPRT,Nicotinate phosphoribosyltransferase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q71UI9,H2AZ2,Histone H2A.V,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q7L7L0,H2AC25,Histone H2A type 3,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q7Z2W4,ZC3HAV1,Zinc finger CCCH-type antiviral protein 1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q86WA6,BPHL,Serine hydrolase BPHL,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q8N1N4,KRT78,"Keratin, type II cytoskeletal 78",0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q8N4T8,CBR4,3-oxoacyl-[acyl-carrier-protein] reductase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q8NE71,ABCF1,ATP-binding cassette sub-family F member 1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q8TCJ2,STT3B,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit STT3B,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q8WUD1,RAB2B,Ras-related protein Rab-2B,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q92506,HSD17B8,(3R)-3-hydroxyacyl-CoA dehydrogenase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q92604,LPGAT1,Acyl-CoA:lysophosphatidylglycerol acyltransferase 1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q92688,ANP32B,Acidic leucine-rich nuclear phosphoprotein 32 family member B,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q92947,GCDH,"Glutaryl-CoA dehydrogenase, mitochondrial",0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q92973,TNPO1,Transportin-1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q93077,H2AC6,Histone H2A type 1-C,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q969Q0,RPL36AL,Ribosomal protein eL42-like,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q96BW5,PTER,N-acetyltaurine hydrolase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q96DC8,ECHDC3,"Enoyl-CoA hydratase domain-containing protein 3, mitochondrial",0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q96G23,CERS2,Ceramide synthase 2,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q96HR9,REEP6,Receptor expression-enhancing protein 6,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q96IX5,ATP5MK,"ATP synthase F(0) complex subunit k, mitochondrial",0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q96KK5,H2AC12,Histone H2A type 1-H,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q96QR8,PURB,Transcriptional regulator protein Pur-beta,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q96QV6,H2AC1,Histone H2A type 1-A,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q99575,POP1,Ribonucleases P/MRP protein subunit POP1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q99878,H2AC14,Histone H2A type 1-J,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9BRF8,CPPED1,Serine/threonine-protein phosphatase CPPED1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9BRZ2,TRIM56,E3 ubiquitin-protein ligase TRIM56,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9BTM1,H2AJ,Histone H2A.J,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9BTZ2,DHRS4,Dehydrogenase/reductase SDR family member 4,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9BXS5,AP1M1,AP-1 complex subunit mu-1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9BY64,UGT2B28,UDP-glucuronosyltransferase 2B28,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9H0U4,RAB1B,Ras-related protein Rab-1B,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9H223,EHD4,EH domain-containing protein 4,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9H2G2,SLK,STE20-like serine/threonine-protein kinase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9H479,FN3K,Fructosamine-3-kinase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9H6S0,YTHDC2,3'-5' RNA helicase YTHDC2,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9HCE1,MOV10,Helicase MOV-10,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9NPJ3,ACOT13,Acyl-coenzyme A thioesterase 13,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9NUQ6,SPATS2L,SPATS2-like protein,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9NY65,TUBA8,Tubulin alpha-8 chain,0.0,1.0,2.0,False,True,True,False,False,-2.0
+Q9NZB2,FAM120A,Constitutive coactivator of PPAR-gamma-like protein 1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9P2E9,RRBP1,Ribosome-binding protein 1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9UBN7,HDAC6,Protein deacetylase HDAC6,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9UBQ7,GRHPR,Glyoxylate reductase/hydroxypyruvate reductase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9UHB9,SRP68,Signal recognition particle subunit SRP68,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9UJM8,HAO1,2-Hydroxyacid oxidase 1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9UL46,PSME2,Proteasome activator complex subunit 2,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9UNU6,CYP8B1,7-alpha-hydroxycholest-4-en-3-one 12-alpha-hydroxylase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9UNX3,RPL26L1,Ribosomal protein uL24-like,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9Y2T3,GDA,Guanine deaminase,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9Y305,ACOT9,"Acyl-coenzyme A thioesterase 9, mitochondrial",0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9Y3E5,PTRH2,"Peptidyl-tRNA hydrolase 2, mitochondrial",0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9Y3U8,RPL36,Large ribosomal subunit protein eL36,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9Y5K8,ATP6V1D,V-type proton ATPase subunit D,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9Y619,SLC25A15,Mitochondrial ornithine transporter 1,0.0,0.0,2.0,False,False,True,False,False,-2.0
+Q9Y6Q5,AP1M2,AP-1 complex subunit mu-2,0.0,0.0,2.0,False,False,True,False,False,-2.0
+P05062,ALDOB,Fructose-bisphosphate aldolase B,3.0,1.0,6.0,True,True,True,False,True,-3.0
+P45954,ACADSB,"Short/branched chain specific acyl-CoA dehydrogenase, mitochondrial",2.0,0.0,5.0,True,False,True,False,False,-3.0
+Q93088,BHMT,Betaine--homocysteine S-methyltransferase 1,2.0,0.0,5.0,True,False,True,False,False,-3.0
+O14756,HSD17B6,17-beta-hydroxysteroid dehydrogenase type 6,1.0,0.0,4.0,True,False,True,False,False,-3.0
+P00480,OTC,"Ornithine transcarbamylase, mitochondrial",1.0,0.0,4.0,True,False,True,False,False,-3.0
+P05141,SLC25A5,ADP/ATP translocase 2,1.0,0.0,4.0,True,False,True,False,False,-3.0
+P10599,TXN,Thioredoxin,1.0,1.0,4.0,True,True,True,False,True,-3.0
+P11310,ACADM,"Medium-chain specific acyl-CoA dehydrogenase, mitochondrial",1.0,0.0,4.0,True,False,True,False,False,-3.0
+P12236,SLC25A6,ADP/ATP translocase 3,1.0,0.0,4.0,True,False,True,False,False,-3.0
+P13639,EEF2,Elongation factor 2,1.0,0.0,4.0,True,False,True,False,False,-3.0
+P14324,FDPS,Farnesyl pyrophosphate synthase,1.0,0.0,4.0,True,False,True,False,False,-3.0
+P22310,UGT1A4,UDP-glucuronosyltransferase 1A4,1.0,0.0,4.0,True,False,True,False,False,-3.0
+P23396,RPS3,Small ribosomal subunit protein uS3,1.0,0.0,4.0,True,False,True,False,False,-3.0
+P35749,MYH11,Myosin-11,1.0,0.0,4.0,True,False,True,False,False,-3.0
+P36542,ATP5F1C,"ATP synthase F(1) complex subunit gamma, mitochondrial",1.0,0.0,4.0,True,False,True,False,False,-3.0
+P51570,GALK1,Galactokinase,1.0,0.0,4.0,True,False,True,False,False,-3.0
+P53999,SUB1,Activated RNA polymerase II transcriptional coactivator p15,1.0,0.0,4.0,True,False,True,False,False,-3.0
+P55157,MTTP,Microsomal triglyceride transfer protein large subunit,1.0,0.0,4.0,True,False,True,False,False,-3.0
+P60981,DSTN,Destrin,1.0,0.0,4.0,True,False,True,False,False,-3.0
+P62269,RPS18,Small ribosomal subunit protein uS13,1.0,0.0,4.0,True,False,True,False,False,-3.0
+Q13576,IQGAP2,Ras GTPase-activating-like protein IQGAP2,1.0,0.0,4.0,True,False,True,False,False,-3.0
+Q3LXA3,TKFC,Triokinase/FMN cyclase,1.0,0.0,4.0,True,False,True,False,False,-3.0
+Q7Z406,MYH14,Myosin-14,1.0,1.0,4.0,True,True,True,False,True,-3.0
+Q7Z5P4,HSD17B13,17-beta-hydroxysteroid dehydrogenase 13,1.0,0.0,4.0,True,False,True,False,False,-3.0
+Q9Y2Q3,GSTK1,Glutathione S-transferase kappa 1,1.0,0.0,4.0,True,False,True,False,False,-3.0
+O14950,MYL12B,Myosin regulatory light chain 12B,0.0,0.0,3.0,False,False,True,False,False,-3.0
+O43242,PSMD3,26S proteasome non-ATPase regulatory subunit 3,0.0,0.0,3.0,False,False,True,False,False,-3.0
+O60656,UGT1A9,UDP-glucuronosyltransferase 1A9,0.0,0.0,3.0,False,False,True,False,False,-3.0
+O75356,ENTPD5,Nucleoside diphosphate phosphatase ENTPD5,0.0,0.0,3.0,False,False,True,False,False,-3.0
+O75521,ECI2,Enoyl-CoA delta isomerase 2,0.0,0.0,3.0,False,False,True,False,False,-3.0
+O75964,ATP5MG,"ATP synthase F(0) complex subunit g, mitochondrial",0.0,0.0,3.0,False,False,True,False,False,-3.0
+O95954,FTCD,Formimidoyltransferase-cyclodeaminase,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P04040,CAT,Catalase,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P04406,GAPDH,Glyceraldehyde-3-phosphate dehydrogenase,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P04843,RPN1,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P05388,RPLP0,Large ribosomal subunit protein uL10,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P06733,ENO1,Alpha-enolase,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P07237,P4HB,Protein disulfide-isomerase,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P08134,RHOC,Rho-related GTP-binding protein RhoC,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P08263,GSTA1,Glutathione S-transferase A1,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P09210,GSTA2,Glutathione S-transferase A2,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P09467,FBP1,"Fructose-1,6-bisphosphatase 1",0.0,0.0,3.0,False,False,True,False,False,-3.0
+P10632,CYP2C8,Cytochrome P450 2C8,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P13667,PDIA4,Protein disulfide-isomerase A4,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P14649,MYL6B,Myosin light chain 6B,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P14923,JUP,Junction plakoglobin,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P16152,CBR1,Carbonyl reductase [NADPH] 1,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P17480,UBTF,Nucleolar transcription factor 1,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P18124,RPL7,Large ribosomal subunit protein uL30,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P19105,MYL12A,Myosin regulatory light chain 12A,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P19224,UGT1A6,UDP-glucuronosyltransferase 1A6,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P19971,TYMP,Thymidine phosphorylase,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P20853,CYP2A7,Cytochrome P450 2A7,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P21695,GPD1,"Glycerol-3-phosphate dehydrogenase [NAD(+)], cytoplasmic",0.0,0.0,3.0,False,False,True,False,False,-3.0
+P21980,TGM2,Protein-glutamine gamma-glutamyltransferase 2,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P22090,RPS4Y1,"Small ribosomal subunit protein eS4, Y isoform 1",0.0,0.0,3.0,False,False,True,False,False,-3.0
+P22309,UGT1A1,UDP-glucuronosyltransferase 1A1,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P24539,ATP5PB,"ATP synthase peripheral stalk subunit b, mitochondrial",0.0,0.0,3.0,False,False,True,False,False,-3.0
+P26641,EEF1G,Elongation factor 1-gamma,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P30041,PRDX6,Peroxiredoxin-6,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P30086,PEBP1,Phosphatidylethanolamine-binding protein 1,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P30101,PDIA3,Protein disulfide-isomerase A3,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P33261,CYP2C19,Cytochrome P450 2C19,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P40261,NNMT,Nicotinamide N-methyltransferase,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P43490,NAMPT,Nicotinamide phosphoribosyltransferase,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P49411,TUFM,"Elongation factor Tu, mitochondrial",0.0,0.0,3.0,False,False,True,False,False,-3.0
+P50053,KHK,Ketohexokinase,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P50225,SULT1A1,Sulfotransferase 1A1,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P52895,AKR1C2,Aldo-keto reductase family 1 member C2,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P61019,RAB2A,Ras-related protein Rab-2A,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P61026,RAB10,Ras-related protein Rab-10,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P61247,RPS3A,Small ribosomal subunit protein eS1,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P62701,RPS4X,"Small ribosomal subunit protein eS4, X isoform",0.0,0.0,3.0,False,False,True,False,False,-3.0
+P63244,RACK1,Small ribosomal subunit protein RACK1,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P78329,CYP4F2,Cytochrome P450 4F2,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q06210,GFPT1,Glutamine--fructose-6-phosphate aminotransferase [isomerizing] 1,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q13243,SRSF5,Serine/arginine-rich splicing factor 5,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q13247,SRSF6,Serine/arginine-rich splicing factor 6,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q14117,DPYS,Dihydropyrimidinase,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q14914,PTGR1,Prostaglandin reductase 1,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q15365,PCBP1,Poly(rC)-binding protein 1,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q15392,DHCR24,Delta(24)-sterol reductase,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q16696,CYP2A13,Cytochrome P450 2A13,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q3ZCM7,TUBB8,Tubulin beta-8 chain,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q6PEY2,TUBA3E,Tubulin alpha-3E chain,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q709F0,ACAD11,Acyl-CoA dehydrogenase family member 11,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q8NBS9,TXNDC5,Thioredoxin domain-containing protein 5,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q8NHW5,RPLP0P6,Putative ribosomal protein uL10-like,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q969Z3,MTARC2,Mitochondrial amidoxime reducing component 2,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q96RQ3,MCCC1,"Methylcrotonoyl-CoA carboxylase subunit alpha, mitochondrial",0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q9BY49,PECR,Peroxisomal trans-2-enoyl-CoA reductase,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q9H2M3,BHMT2,S-methylmethionine--homocysteine S-methyltransferase BHMT2,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q9HAW7,UGT1A7,UDP-glucuronosyltransferase 1A7,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q9HAW8,UGT1A10,UDP-glucuronosyltransferase 1A10,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q9HAW9,UGT1A8,UDP-glucuronosyltransferase 1A8,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q9HDC9,APMAP,Adipocyte plasma membrane-associated protein,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q9NR77,PXMP2,Peroxisomal membrane protein 2,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q9NS86,LANCL2,LanC-like protein 2,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q9NUI1,DECR2,"Peroxisomal 2,4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing]",0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q9NZ01,TECR,Very-long-chain enoyl-CoA reductase,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q9NZ45,CISD1,CDGSH iron-sulfur domain-containing protein 1,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q9UI10,EIF2B4,Translation initiation factor eIF2B subunit delta,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q9Y2P5,SLC27A5,Long-chain fatty acid transport protein 5,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q9Y5B9,SUPT16H,FACT complex subunit SPT16,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q9Y5M8,SRPRB,Signal recognition particle receptor subunit beta,0.0,0.0,3.0,False,False,True,False,False,-3.0
+Q9Y678,COPG1,Coatomer subunit gamma-1,0.0,0.0,3.0,False,False,True,False,False,-3.0
+P02768,ALB,Albumin,2.0,2.0,6.0,True,True,True,False,True,-4.0
+P42765,ACAA2,"3-ketoacyl-CoA thiolase, mitochondrial",2.0,0.0,6.0,True,False,True,False,False,-4.0
+P35580,MYH10,Myosin-10,1.0,2.0,5.0,True,True,True,False,True,-4.0
+A0A8I5KW96,AK4P3,"Adenylate kinase 4, mitochondrial",0.0,0.0,4.0,False,False,True,False,False,-4.0
+B2RPK0,HMGB1P1,High mobility group protein B1-like 1,0.0,0.0,4.0,False,False,True,False,False,-4.0
+B5ME19,EIF3CL,Eukaryotic translation initiation factor 3 subunit C-like protein,0.0,0.0,4.0,False,False,True,False,False,-4.0
+O43795,MYO1B,Unconventional myosin-Ib,0.0,0.0,4.0,False,False,True,False,False,-4.0
+O75452,RDH16,Retinol dehydrogenase 16,0.0,0.0,4.0,False,False,True,False,False,-4.0
+O75874,IDH1,Isocitrate dehydrogenase [NADP] cytoplasmic,0.0,0.0,4.0,False,False,True,False,False,-4.0
+O95831,AIFM1,"Apoptosis-inducing factor 1, mitochondrial",0.0,0.0,4.0,False,False,True,False,False,-4.0
+O95864,FADS2,Acyl-CoA 6-desaturase,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P00352,ALDH1A1,Aldehyde dehydrogenase 1A1,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P00439,PAH,Phenylalanine-4-hydroxylase,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P04350,TUBB4A,Tubulin beta-4A chain,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P04792,HSPB1,Heat shock protein beta-1,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P05091,ALDH2,"Aldehyde dehydrogenase, mitochondrial",0.0,0.0,4.0,False,False,True,False,False,-4.0
+P06133,UGT2B4,UDP-glucuronosyltransferase 2B4,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P06753,TPM3,Tropomyosin alpha-3 chain,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P07858,CTSB,Cathepsin B,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P07900,HSP90AA1,Heat shock protein HSP 90-alpha,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P08238,HSP90AB1,Heat shock protein HSP 90-beta,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P0DMV8,HSPA1A,Heat shock 70 kDa protein 1A,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P0DMV9,HSPA1B,Heat shock 70 kDa protein 1B,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P0DPH7,TUBA3C,Tubulin alpha-3C chain,0.0,1.0,4.0,False,True,True,False,False,-4.0
+P0DPH8,TUBA3D,Tubulin alpha-3D chain,0.0,1.0,4.0,False,True,True,False,False,-4.0
+P11021,HSPA5,Endoplasmic reticulum chaperone BiP,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P11142,HSPA8,Heat shock cognate 71 kDa protein,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P11498,PC,"Pyruvate carboxylase, mitochondrial",0.0,0.0,4.0,False,False,True,False,False,-4.0
+P11509,CYP2A6,Cytochrome P450 2A6,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P11586,MTHFD1,"C-1-tetrahydrofolate synthase, cytoplasmic",0.0,0.0,4.0,False,False,True,False,False,-4.0
+P11712,CYP2C9,Cytochrome P450 2C9,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P12235,SLC25A4,ADP/ATP translocase 1,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P15924,DSP,Desmoplakin,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P17987,TCP1,T-complex protein 1 subunit alpha,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P23141,CES1,Liver carboxylesterase 1,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P27144,AK4,"Adenylate kinase 4, mitochondrial",0.0,0.0,4.0,False,False,True,False,False,-4.0
+P30039,PBLD,Phenazine biosynthesis-like domain-containing protein,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P30084,ECHS1,"Enoyl-CoA hydratase, mitochondrial",0.0,0.0,4.0,False,False,True,False,False,-4.0
+P34896,SHMT1,"Serine hydroxymethyltransferase, cytosolic",0.0,0.0,4.0,False,False,True,False,False,-4.0
+P38646,HSPA9,"Stress-70 protein, mitochondrial",0.0,0.0,4.0,False,False,True,False,False,-4.0
+P39019,RPS19,Small ribosomal subunit protein eS19,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P42330,AKR1C3,Aldo-keto reductase family 1 member C3,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P46782,RPS5,Small ribosomal subunit protein uS7,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P48047,ATP5PO,"ATP synthase peripheral stalk subunit OSCP, mitochondrial",0.0,0.0,4.0,False,False,True,False,False,-4.0
+P49327,FASN,Fatty acid synthase,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P49368,CCT3,T-complex protein 1 subunit gamma,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P49419,ALDH7A1,Alpha-aminoadipic semialdehyde dehydrogenase,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P49448,GLUD2,"Glutamate dehydrogenase 2, mitochondrial",0.0,0.0,4.0,False,False,True,False,False,-4.0
+P50416,CPT1A,"Carnitine O-palmitoyltransferase 1, liver isoform",0.0,0.0,4.0,False,False,True,False,False,-4.0
+P50440,GATM,"Glycine amidinotransferase, mitochondrial",0.0,0.0,4.0,False,False,True,False,False,-4.0
+P50991,CCT4,T-complex protein 1 subunit delta,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P51648,ALDH3A2,Aldehyde dehydrogenase family 3 member A2,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P51659,HSD17B4,Peroxisomal multifunctional enzyme type 2,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P53621,COPA,Coatomer subunit alpha,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P55084,HADHB,"Trifunctional enzyme subunit beta, mitochondrial",0.0,0.0,4.0,False,False,True,False,False,-4.0
+P60866,RPS20,Small ribosomal subunit protein uS10,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P62249,RPS16,Small ribosomal subunit protein uS9,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P62263,RPS14,Small ribosomal subunit protein uS11,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P62280,RPS11,Small ribosomal subunit protein uS17,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P62937,PPIA,Peptidyl-prolyl cis-trans isomerase A,0.0,0.0,4.0,False,False,True,False,False,-4.0
+P84085,ARF5,ADP-ribosylation factor 5,0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q00325,SLC25A3,Solute carrier family 25 member 3,0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q04828,AKR1C1,Aldo-keto reductase family 1 member C1,0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q08426,EHHADH,Peroxisomal bifunctional enzyme,0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q13885,TUBB2A,Tubulin beta-2A chain,0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q15075,EEA1,Early endosome antigen 1,0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q15084,PDIA6,Protein disulfide-isomerase A6,0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q16134,ETFDH,"Electron transfer flavoprotein-ubiquinone oxidoreductase, mitochondrial",0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q16698,DECR1,"2,4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing], mitochondrial",0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q53GQ0,HSD17B12,Very-long-chain 3-oxoacyl-CoA reductase,0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q5R3I4,TTC38,Tetratricopeptide repeat protein 38,0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q6UW68,TMEM205,Transmembrane protein 205,0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q6YN16,HSDL2,Hydroxysteroid dehydrogenase-like protein 2,0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q93099,HGD,"Homogentisate 1,2-dioxygenase",0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q96CW1,AP2M1,AP-2 complex subunit mu,0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q96DG6,CMBL,Carboxymethylenebutenolidase homolog,0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q96I99,SUCLG2,"Succinate--CoA ligase [GDP-forming] subunit beta, mitochondrial",0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q99424,ACOX2,Peroxisomal acyl-coenzyme A oxidase 2,0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q99613,EIF3C,Eukaryotic translation initiation factor 3 subunit C,0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q9BQE5,APOL2,Apolipoprotein L2,0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q9BVA1,TUBB2B,Tubulin beta-2B chain,0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q9H0U3,MAGT1,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit MAGT1,0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q9H2A2,ALDH8A1,2-aminomuconic semialdehyde dehydrogenase,0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q9NTX5,ECHDC1,Ethylmalonyl-CoA decarboxylase,0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q9UBM7,DHCR7,7-dehydrocholesterol reductase,0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q9ULC5,ACSL5,Long-chain-fatty-acid--CoA ligase 5,0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q9Y2S2,CRYL1,Lambda-crystallin homolog,0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q9Y6N5,SQOR,"Sulfide:quinone oxidoreductase, mitochondrial",0.0,0.0,4.0,False,False,True,False,False,-4.0
+Q9H8H3,TMT1A,Thiol S-methyltransferase TMT1A,1.0,0.0,6.0,True,False,True,False,False,-5.0

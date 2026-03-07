@@ -1,0 +1,44 @@
+id,label,node_type
+HPX,HPX,Condition
+Tf,Tf,Condition
+control,control,Condition
+Q07954,LRP1,Protein
+O75636,FCN3,Protein
+O95479,H6PD,Protein
+P00450,CP,Protein
+P00738,HP,Protein
+P00739,HPR,Protein
+P00748,F12,Protein
+P01009,SERPINA1,Protein
+P01023,A2M,Protein
+P01834,IGKC,Protein
+P01860,IGHG3,Protein
+P01876,IGHA1,Protein
+P01877,IGHA2,Protein
+P02647,APOA1,Protein
+P02652,APOA2,Protein
+P02654,APOC1,Protein
+P02746,C1QB,Protein
+P02747,C1QC,Protein
+P02786,TFRC,Protein
+P03951,F11,Protein
+P04114,APOB,Protein
+P05090,APOD,Protein
+P06681,C2,Protein
+P0CF74,IGLC6,Protein
+receptor-mediated endocytosis,receptor-mediated endocytosis,Process
+lipoprotein particle binding,lipoprotein particle binding,Process
+innate immune response,innate immune response,Process
+lectin pathway of complement activation,lectin pathway of complement activation,Process
+glucose metabolism,glucose metabolism,Process
+iron homeostasis,iron homeostasis,Process
+oxidation-reduction process,oxidation-reduction process,Process
+heme/hemoglobin scavenging,heme/hemoglobin scavenging,Process
+coagulation,coagulation,Process
+proteolytic cascade,proteolytic cascade,Process
+protease inhibition,protease inhibition,Process
+extracellular protein binding,extracellular protein binding,Process
+immunoglobulin complex,immunoglobulin complex,Process
+lipoprotein metabolism,lipoprotein metabolism,Process
+complement activation,complement activation,Process
+iron uptake,iron uptake,Process

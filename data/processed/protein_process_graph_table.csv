@@ -1,0 +1,31 @@
+protein_accession_clean,gene_symbol,protein_name_final,HPX,Tf,control,present_in_HPX,present_in_Tf,present_in_control,candidate_HPX_specific,candidate_shared_HPX_Tf,candidate_HPX_over_background_score,process_label,process_group,annotation_source,evidence_note
+Q07954,LRP1,Prolow-density lipoprotein receptor-related protein 1,4.0,0.0,0.0,True,False,False,True,False,4.0,receptor-mediated endocytosis,uptake,bootstrap_manual_override,Top HPX-specific candidate
+Q07954,LRP1,Prolow-density lipoprotein receptor-related protein 1,4.0,0.0,0.0,True,False,False,True,False,4.0,lipoprotein particle binding,uptake,bootstrap_manual_override,Top HPX-specific candidate
+O75636,FCN3,Ficolin-3,2.0,0.0,0.0,True,False,False,True,False,2.0,innate immune response,complement,bootstrap_manual_override,HPX-associated extracellular protein
+O75636,FCN3,Ficolin-3,2.0,0.0,0.0,True,False,False,True,False,2.0,lectin pathway of complement activation,complement,bootstrap_manual_override,HPX-associated extracellular protein
+O95479,H6PD,GDH/6PGL endoplasmic bifunctional protein,2.0,0.0,0.0,True,False,False,True,False,2.0,glucose metabolism,metabolism,bootstrap_manual_override,HPX-associated protein
+P00450,CP,Ceruloplasmin,2.0,0.0,0.0,True,False,False,True,False,2.0,iron homeostasis,iron_homeostasis,bootstrap_manual_override,HPX-associated extracellular protein
+P00450,CP,Ceruloplasmin,2.0,0.0,0.0,True,False,False,True,False,2.0,oxidation-reduction process,iron_homeostasis,bootstrap_manual_override,HPX-associated extracellular protein
+P00738,HP,Haptoglobin,2.0,0.0,0.0,True,False,False,True,False,2.0,heme/hemoglobin scavenging,heme_handling,bootstrap_manual_override,HPX-associated extracellular protein
+P00739,HPR,Haptoglobin-related protein,2.0,0.0,0.0,True,False,False,True,False,2.0,heme/hemoglobin scavenging,heme_handling,bootstrap_manual_override,HPX-associated extracellular protein
+P00748,F12,Coagulation factor XII,2.0,0.0,0.0,True,False,False,True,False,2.0,coagulation,coagulation,bootstrap_manual_override,HPX-associated extracellular protein
+P00748,F12,Coagulation factor XII,2.0,0.0,0.0,True,False,False,True,False,2.0,proteolytic cascade,coagulation,bootstrap_manual_override,HPX-associated extracellular protein
+P01009,SERPINA1,Alpha-1-antitrypsin,2.0,0.0,0.0,True,False,False,True,False,2.0,protease inhibition,protease_regulation,bootstrap_manual_override,HPX-associated extracellular protein
+P01023,A2M,Alpha-2-macroglobulin,2.0,0.0,0.0,True,False,False,True,False,2.0,protease inhibition,protease_regulation,bootstrap_manual_override,HPX-associated extracellular protein
+P01023,A2M,Alpha-2-macroglobulin,2.0,0.0,0.0,True,False,False,True,False,2.0,extracellular protein binding,protease_regulation,bootstrap_manual_override,HPX-associated extracellular protein
+P01834,IGKC,Immunoglobulin kappa constant,2.0,2.0,0.0,True,True,False,True,True,2.0,immunoglobulin complex,immune_background,bootstrap_name_keyword,Auto-filled from protein_name keyword rules
+P01860,IGHG3,Immunoglobulin heavy constant gamma 3,2.0,2.0,0.0,True,True,False,True,True,2.0,immunoglobulin complex,immune_background,bootstrap_name_keyword,Auto-filled from protein_name keyword rules
+P01876,IGHA1,Immunoglobulin heavy constant alpha 1,2.0,2.0,0.0,True,True,False,True,True,2.0,immunoglobulin complex,immune_background,bootstrap_name_keyword,Auto-filled from protein_name keyword rules
+P01877,IGHA2,Immunoglobulin heavy constant alpha 2,2.0,2.0,0.0,True,True,False,True,True,2.0,immunoglobulin complex,immune_background,bootstrap_name_keyword,Auto-filled from protein_name keyword rules
+P02647,APOA1,Apolipoprotein A-I,2.0,0.0,0.0,True,False,False,True,False,2.0,lipoprotein metabolism,lipoprotein_biology,bootstrap_name_keyword,Auto-filled from protein_name keyword rules
+P02652,APOA2,Apolipoprotein A-II,2.0,1.0,0.0,True,True,False,True,True,2.0,lipoprotein metabolism,lipoprotein_biology,bootstrap_name_keyword,Auto-filled from protein_name keyword rules
+P02654,APOC1,Apolipoprotein C-I,2.0,0.0,0.0,True,False,False,True,False,2.0,lipoprotein metabolism,lipoprotein_biology,bootstrap_name_keyword,Auto-filled from protein_name keyword rules
+P02746,C1QB,Complement C1q subcomponent subunit B,2.0,0.0,0.0,True,False,False,True,False,2.0,complement activation,complement,bootstrap_name_keyword,Auto-filled from protein_name keyword rules
+P02747,C1QC,Complement C1q subcomponent subunit C,2.0,0.0,0.0,True,False,False,True,False,2.0,complement activation,complement,bootstrap_name_keyword,Auto-filled from protein_name keyword rules
+P02786,TFRC,Transferrin receptor protein 1,2.0,2.0,0.0,True,True,False,True,True,2.0,iron uptake,iron_homeostasis,bootstrap_manual_override,Shared HPX/Tf uptake-related candidate
+P02786,TFRC,Transferrin receptor protein 1,2.0,2.0,0.0,True,True,False,True,True,2.0,receptor-mediated endocytosis,uptake,bootstrap_manual_override,Shared HPX/Tf uptake-related candidate
+P03951,F11,Coagulation factor XI,2.0,0.0,0.0,True,False,False,True,False,2.0,coagulation,coagulation,bootstrap_name_keyword,Auto-filled from protein_name keyword rules
+P04114,APOB,Apolipoprotein B-100,2.0,0.0,0.0,True,False,False,True,False,2.0,lipoprotein metabolism,lipoprotein_biology,bootstrap_name_keyword,Auto-filled from protein_name keyword rules
+P05090,APOD,Apolipoprotein D,2.0,0.0,0.0,True,False,False,True,False,2.0,lipoprotein metabolism,lipoprotein_biology,bootstrap_name_keyword,Auto-filled from protein_name keyword rules
+P06681,C2,Complement C2,2.0,2.0,0.0,True,True,False,True,True,2.0,complement activation,complement,bootstrap_name_keyword,Auto-filled from protein_name keyword rules
+P0CF74,IGLC6,Immunoglobulin lambda constant 6,2.0,2.0,0.0,True,True,False,True,True,2.0,immunoglobulin complex,immune_background,bootstrap_name_keyword,Auto-filled from protein_name keyword rules
