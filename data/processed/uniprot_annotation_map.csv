@@ -1,0 +1,1322 @@
+protein_accession_clean,uniprot_id,gene_symbol,protein_name_uniprot,organism_name,annotation_source
+A0A075B6P5,KV228_HUMAN,IGKV2-28,Immunoglobulin kappa variable 2-28,Homo sapiens,uniprot_api
+A0A075B6S6,KVD30_HUMAN,IGKV2D-30,Immunoglobulin kappa variable 2D-30,Homo sapiens,uniprot_api
+A0A075B767,PAL4H_HUMAN,PPIAL4H,Peptidyl-prolyl cis-trans isomerase A-like 4H,Homo sapiens,uniprot_api
+A0A087WW87,KV240_HUMAN,IGKV2-40,Immunoglobulin kappa variable 2-40,Homo sapiens,uniprot_api
+A0A0A0MRZ7,KVD26_HUMAN,IGKV2D-26,Immunoglobulin kappa variable 2D-26,Homo sapiens,uniprot_api
+A0A0A0MS14,HV145_HUMAN,IGHV1-45,Immunoglobulin heavy variable 1-45,Homo sapiens,uniprot_api
+A0A0C4DH25,KVD20_HUMAN,IGKV3D-20,Immunoglobulin kappa variable 3D-20,Homo sapiens,uniprot_api
+A0A075B6S2,KVD29_HUMAN,IGKV2D-29,Immunoglobulin kappa variable 2D-29,Homo sapiens,uniprot_api
+A0A0A0MS15,HV349_HUMAN,IGHV3-49,Immunoglobulin heavy variable 3-49,Homo sapiens,uniprot_api
+A0A0B4J1V6,HV373_HUMAN,IGHV3-73,Immunoglobulin heavy variable 3-73,Homo sapiens,uniprot_api
+A0A0C4DH42,HV366_HUMAN,IGHV3-66,Immunoglobulin heavy variable 3-66,Homo sapiens,uniprot_api
+A0A075B6H7,KV37_HUMAN,IGKV3-7,Probable non-functional immunoglobulin kappa variable 3-7,Homo sapiens,uniprot_api
+A0A0B4J1X5,HV374_HUMAN,IGHV3-74,Immunoglobulin heavy variable 3-74,Homo sapiens,uniprot_api
+A0A0C4DH26,KVD41_HUMAN,IGKV6D-41,Probable non-functional immunoglobulin kappa variable 6D-41,Homo sapiens,uniprot_api
+A0A075B6K5,LV39_HUMAN,IGLV3-9,Immunoglobulin lambda variable 3-9,Homo sapiens,uniprot_api
+A0A0A0MT36,KVD21_HUMAN,IGKV6D-21,Immunoglobulin kappa variable 6D-21,Homo sapiens,uniprot_api
+A0A0B4J2A2,PAL4C_HUMAN,PPIAL4C,Peptidyl-prolyl cis-trans isomerase A-like 4C,Homo sapiens,uniprot_api
+A0A075B759,PAL4E_HUMAN,PPIAL4E,Peptidyl-prolyl cis-trans isomerase A-like 4E,Homo sapiens,uniprot_api
+A0A087WYE8,A0A087WYE8_HUMAN,IGHV1OR21-1,Immunoglobulin heavy variable 1/OR21-1 (non-functional),Homo sapiens,uniprot_api
+A0A0B4J2B5,A0A0B4J2B5_HUMAN,IGHV3OR16-9,Immunoglobulin heavy variable 3/OR16-9 (non-functional),Homo sapiens,uniprot_api
+A0A075B7D0,A0A075B7D0_HUMAN,IGHV1OR15-1,Immunoglobulin heavy variable 1/OR15-1 (non-functional),Homo sapiens,uniprot_api
+A0A075B7B8,A0A075B7B8_HUMAN,IGHV3OR16-12,Immunoglobulin heavy variable 3/OR16-12 (non-functional),Homo sapiens,uniprot_api
+A0A075B7E8,A0A075B7E8_HUMAN,IGHV3OR16-13,Immunoglobulin heavy variable 3/OR16-13 (non-functional),Homo sapiens,uniprot_api
+A0A0B4J2B8,A0A0B4J2B8_HUMAN,IGHV1OR15-9,Immunoglobulin heavy variable 1/OR15-9 (non-functional),Homo sapiens,uniprot_api
+A0A0B4J2D5,GAL3B_HUMAN,,,,uniprot_api
+A1L0T0,HACL2_HUMAN,HACL2,2-hydroxyacyl-CoA lyase 2,Homo sapiens,uniprot_api
+A6NHL2,TBAL3_HUMAN,TUBAL3,Tubulin alpha chain-like 3,Homo sapiens,uniprot_api
+A6NNZ2,TBB8B_HUMAN,TUBB8B,Tubulin beta 8B,Homo sapiens,uniprot_api
+A8CG34,P121C_HUMAN,POM121C,Nuclear envelope pore membrane protein POM 121C,Homo sapiens,uniprot_api
+A5A3E0,POTEF_HUMAN,POTEF,POTE ankyrin domain family member F,Homo sapiens,uniprot_api
+B0L3A2,DESPR_HUMAN,FBXW7-AS1,Dual endothelin-1/VEGF signal peptide receptor,Homo sapiens,uniprot_api
+A6NMY6,AXA2L_HUMAN,ANXA2P2,Putative annexin A2-like protein,Homo sapiens,uniprot_api
+A0A8I5KQE6,RPSA2_HUMAN,RPSA2,Small ribosomal subunit protein uS2B,Homo sapiens,uniprot_api
+A0M8Q6,IGLC7_HUMAN,IGLC7,Immunoglobulin lambda constant 7,Homo sapiens,uniprot_api
+A4D256,CC14C_HUMAN,CDC14C,Dual specificity protein phosphatase CDC14C,Homo sapiens,uniprot_api
+A0A8I5KW96,A0A8I5KW96_HUMAN,AK4P3,"Adenylate kinase 4, mitochondrial",Homo sapiens,uniprot_api
+A2NJV5,KV229_HUMAN,IGKV2-29,Immunoglobulin kappa variable 2-29,Homo sapiens,uniprot_api
+A0A0C4DH55,KVD07_HUMAN,IGKV3D-7,Immunoglobulin kappa variable 3D-7,Homo sapiens,uniprot_api
+A6NIZ1,RP1BL_HUMAN,RAP1BL,Ras-related protein Rap-1b-like protein,Homo sapiens,uniprot_api
+A0A2R8Y4L2,RA1L3_HUMAN,HNRNPA1L3,Heterogeneous nuclear ribonucleoprotein A1-like 3,Homo sapiens,uniprot_api
+A6NKH3,RL37L_HUMAN,RPL37AP8,Putative ribosomal protein eL43-like,Homo sapiens,uniprot_api
+A0A1B0GUV7,TEX48_HUMAN,TEX48,Testis-expressed protein 48,Homo sapiens,uniprot_api
+A0A0J9YY99,A0A0J9YY99_HUMAN,,Ig-like domain-containing protein,Homo sapiens,uniprot_api
+A0AAG2TTP8,A0AAG2TTP8_HUMAN,,40S ribosomal protein S8,Homo sapiens,uniprot_api
+A0A0C4DH90,A0A0C4DH90_HUMAN,IGKV3OR2-268,Immunoglobulin kappa variable 3/OR2-268 (non-functional),Homo sapiens,uniprot_api
+A0AAG2UXZ5,A0AAG2UXZ5_HUMAN,COL18A1,Collagen type XVIII alpha 1 chain,Homo sapiens,uniprot_api
+A0AAG2TVE0,A0AAG2TVE0_HUMAN,,Ig-like domain-containing protein,Homo sapiens,uniprot_api
+A0AAG2T1P6,A0AAG2T1P6_HUMAN,,POM121-like protein 1,Homo sapiens,uniprot_api
+A0AAG2SVT6,A0AAG2SVT6_HUMAN,,Ig-like domain-containing protein,Homo sapiens,uniprot_api
+A0AAG2TV02,A0AAG2TV02_HUMAN,,HCG2003024,Homo sapiens,uniprot_api
+O00635,TRI38_HUMAN,TRIM38,E3 ubiquitin-protein ligase TRIM38,Homo sapiens,uniprot_api
+O00116,ADAS_HUMAN,AGPS,"Alkyldihydroxyacetonephosphate synthase, peroxisomal",Homo sapiens,uniprot_api
+O00168,PLM_HUMAN,FXYD1,Phospholemman,Homo sapiens,uniprot_api
+O14756,H17B6_HUMAN,HSD17B6,17-beta-hydroxysteroid dehydrogenase type 6,Homo sapiens,uniprot_api
+O14949,QCR8_HUMAN,UQCRQ,Cytochrome b-c1 complex subunit 8,Homo sapiens,uniprot_api
+B2RPK0,HGB1A_HUMAN,HMGB1P1,High mobility group protein B1-like 1,Homo sapiens,uniprot_api
+K9M1U5,IFNL4_HUMAN,IFNL4,Interferon lambda-4,Homo sapiens,uniprot_api
+O00203,AP3B1_HUMAN,AP3B1,AP-3 complex subunit beta-1,Homo sapiens,uniprot_api
+O00461,GOLI4_HUMAN,GOLIM4,Golgi integral membrane protein 4,Homo sapiens,uniprot_api
+O00483,CXFA4_HUMAN,COXFA4,Cytochrome c oxidase subunit FA4,Homo sapiens,uniprot_api
+O00767,SCD_HUMAN,SCD,Stearoyl-CoA desaturase,Homo sapiens,uniprot_api
+O00160,MYO1F_HUMAN,MYO1F,Unconventional myosin-If,Homo sapiens,uniprot_api
+O14556,G3PT_HUMAN,GAPDHS,"Glyceraldehyde-3-phosphate dehydrogenase, testis-specific",Homo sapiens,uniprot_api
+O14773,TPP1_HUMAN,TPP1,Tripeptidyl-peptidase 1,Homo sapiens,uniprot_api
+O00264,PGRC1_HUMAN,PGRMC1,Membrane-associated progesterone receptor component 1,Homo sapiens,uniprot_api
+O00159,MYO1C_HUMAN,MYO1C,Unconventional myosin-Ic,Homo sapiens,uniprot_api
+O00410,IPO5_HUMAN,IPO5,Importin-5,Homo sapiens,uniprot_api
+O00468,AGRIN_HUMAN,AGRN,Agrin,Homo sapiens,uniprot_api
+O14617,AP3D1_HUMAN,AP3D1,AP-3 complex subunit delta-1,Homo sapiens,uniprot_api
+O00267,SPT5H_HUMAN,SUPT5H,Transcription elongation factor SPT5,Homo sapiens,uniprot_api
+O14874,BCKD_HUMAN,BCKDK,Branched-chain alpha-ketoacid dehydrogenase kinase,Homo sapiens,uniprot_api
+B5ME19,EIFCL_HUMAN,EIF3CL,Eukaryotic translation initiation factor 3 subunit C-like protein,Homo sapiens,uniprot_api
+B9A064,IGLL5_HUMAN,IGLL5,Immunoglobulin lambda-like polypeptide 5,Homo sapiens,uniprot_api
+F5H284,PAL4D_HUMAN,PPIAL4D,Peptidyl-prolyl cis-trans isomerase A-like 4D,Homo sapiens,uniprot_api
+Q92882,OSTF1_HUMAN,OSTF1,Osteoclast-stimulating factor 1,Homo sapiens,uniprot_api
+O43169,CYB5B_HUMAN,CYB5B,Cytochrome b5 type B,Homo sapiens,uniprot_api
+O14975,S27A2_HUMAN,SLC27A2,Long-chain fatty acid transport protein 2,Homo sapiens,uniprot_api
+O15260,SURF4_HUMAN,SURF4,Surfeit locus protein 4,Homo sapiens,uniprot_api
+O43823,AKAP8_HUMAN,AKAP8,A-kinase anchor protein 8,Homo sapiens,uniprot_api
+O43826,G6PT1_HUMAN,SLC37A4,Glucose-6-phosphate exchanger SLC37A4,Homo sapiens,uniprot_api
+O60307,MAST3_HUMAN,MAST3,Microtubule-associated serine/threonine-protein kinase 3,Homo sapiens,uniprot_api
+O43242,PSMD3_HUMAN,PSMD3,26S proteasome non-ATPase regulatory subunit 3,Homo sapiens,uniprot_api
+O43390,HNRPR_HUMAN,HNRNPR,Heterogeneous nuclear ribonucleoprotein R,Homo sapiens,uniprot_api
+O43795,MYO1B_HUMAN,MYO1B,Unconventional myosin-Ib,Homo sapiens,uniprot_api
+O43707,ACTN4_HUMAN,ACTN4,Alpha-actinin-4,Homo sapiens,uniprot_api
+O14966,RAB7L_HUMAN,RAB29,Ras-related protein Rab-29,Homo sapiens,uniprot_api
+O15131,IMA6_HUMAN,KPNA5,Importin subunit alpha-6,Homo sapiens,uniprot_api
+O15258,RER1_HUMAN,RER1,Protein RER1,Homo sapiens,uniprot_api
+O43772,MCAT_HUMAN,SLC25A20,Mitochondrial carnitine/acylcarnitine carrier protein,Homo sapiens,uniprot_api
+O60427,FADS1_HUMAN,FADS1,Acyl-CoA (8-3)-desaturase,Homo sapiens,uniprot_api
+O14950,ML12B_HUMAN,MYL12B,Myosin regulatory light chain 12B,Homo sapiens,uniprot_api
+O43175,SERA_HUMAN,PHGDH,D-3-phosphoglycerate dehydrogenase,Homo sapiens,uniprot_api
+O43506,ADA20_HUMAN,ADAM20,Disintegrin and metalloproteinase domain-containing protein 20,Homo sapiens,uniprot_api
+O43837,IDH3B_HUMAN,IDH3B,"Isocitrate dehydrogenase [NAD] subunit beta, mitochondrial",Homo sapiens,uniprot_api
+O60313,OPA1_HUMAN,OPA1,"Dynamin-like GTPase OPA1, mitochondrial",Homo sapiens,uniprot_api
+O43426,SYNJ1_HUMAN,SYNJ1,Synaptojanin-1,Homo sapiens,uniprot_api
+O60506,HNRPQ_HUMAN,SYNCRIP,Heterogeneous nuclear ribonucleoprotein Q,Homo sapiens,uniprot_api
+O15371,EIF3D_HUMAN,EIF3D,Eukaryotic translation initiation factor 3 subunit D,Homo sapiens,uniprot_api
+O43423,AN32C_HUMAN,ANP32CP,Putative uncharacterized protein ANP32CP,Homo sapiens,uniprot_api
+Q9NR22,ANM8_HUMAN,PRMT8,Protein arginine N-methyltransferase 8,Homo sapiens,uniprot_api
+O75396,SC22B_HUMAN,SEC22B,Vesicle-trafficking protein SEC22b,Homo sapiens,uniprot_api
+O60763,USO1_HUMAN,USO1,General vesicular transport factor p115,Homo sapiens,uniprot_api
+O60783,RT14_HUMAN,MRPS14,Small ribosomal subunit protein uS14m,Homo sapiens,uniprot_api
+O75521,ECI2_HUMAN,ECI2,Enoyl-CoA delta isomerase 2,Homo sapiens,uniprot_api
+O75533,SF3B1_HUMAN,SF3B1,Splicing factor 3B subunit 1,Homo sapiens,uniprot_api
+O75083,WDR1_HUMAN,WDR1,WD repeat-containing protein 1,Homo sapiens,uniprot_api
+O75452,RDH16_HUMAN,RDH16,Retinol dehydrogenase 16,Homo sapiens,uniprot_api
+O75874,IDHC_HUMAN,IDH1,Isocitrate dehydrogenase [NADP] cytoplasmic,Homo sapiens,uniprot_api
+O75891,AL1L1_HUMAN,ALDH1L1,Cytosolic 10-formyltetrahydrofolate dehydrogenase,Homo sapiens,uniprot_api
+O60684,IMA7_HUMAN,KPNA6,Importin subunit alpha-7,Homo sapiens,uniprot_api
+O60701,UGDH_HUMAN,UGDH,UDP-glucose 6-dehydrogenase,Homo sapiens,uniprot_api
+O60762,DPM1_HUMAN,DPM1,Dolichol-phosphate mannosyltransferase subunit 1,Homo sapiens,uniprot_api
+O75031,HSF2B_HUMAN,HSF2BP,Heat shock factor 2-binding protein,Homo sapiens,uniprot_api
+O75131,CPNE3_HUMAN,CPNE3,Copine-3,Homo sapiens,uniprot_api
+O75356,ENTP5_HUMAN,ENTPD5,Nucleoside diphosphate phosphatase ENTPD5,Homo sapiens,uniprot_api
+O75509,TNR21_HUMAN,TNFRSF21,Tumor necrosis factor receptor superfamily member 21,Homo sapiens,uniprot_api
+O60656,UD19_HUMAN,UGT1A9,UDP-glucuronosyltransferase 1A9,Homo sapiens,uniprot_api
+O60841,IF2P_HUMAN,EIF5B,Eukaryotic translation initiation factor 5B,Homo sapiens,uniprot_api
+O75636,FCN3_HUMAN,FCN3,Ficolin-3,Homo sapiens,uniprot_api
+O60729,CC14B_HUMAN,CDC14B,Dual specificity protein phosphatase CDC14B,Homo sapiens,uniprot_api
+O75369,FLNB_HUMAN,FLNB,Filamin-B,Homo sapiens,uniprot_api
+O60524,NEMF_HUMAN,NEMF,Ribosome quality control complex subunit NEMF,Homo sapiens,uniprot_api
+O75310,UDB11_HUMAN,UGT2B11,UDP-glucuronosyltransferase 2B11,Homo sapiens,uniprot_api
+O75352,MPU1_HUMAN,MPDU1,Mannose-P-dolichol utilization defect 1 protein,Homo sapiens,uniprot_api
+O60518,RNBP6_HUMAN,RANBP6,Ran-binding protein 6,Homo sapiens,uniprot_api
+O75964,ATP5L_HUMAN,ATP5MG,"ATP synthase F(0) complex subunit g, mitochondrial",Homo sapiens,uniprot_api
+O95373,IPO7_HUMAN,IPO7,Importin-7,Homo sapiens,uniprot_api
+O95394,AGM1_HUMAN,PGM3,Phosphoacetylglucosamine mutase,Homo sapiens,uniprot_api
+O95470,SGPL1_HUMAN,SGPL1,Sphingosine-1-phosphate lyase 1,Homo sapiens,uniprot_api
+O95479,G6PE_HUMAN,H6PD,GDH/6PGL endoplasmic bifunctional protein,Homo sapiens,uniprot_api
+O95741,CPNE6_HUMAN,CPNE6,Copine-6,Homo sapiens,uniprot_api
+O95782,AP2A1_HUMAN,AP2A1,AP-2 complex subunit alpha-1,Homo sapiens,uniprot_api
+O75907,DGAT1_HUMAN,DGAT1,Diacylglycerol O-acyltransferase 1,Homo sapiens,uniprot_api
+O75936,BODG_HUMAN,BBOX1,Gamma-butyrobetaine dioxygenase,Homo sapiens,uniprot_api
+O76094,SRP72_HUMAN,SRP72,Signal recognition particle subunit SRP72,Homo sapiens,uniprot_api
+O94885,SASH1_HUMAN,SASH1,SAM and SH3 domain-containing protein 1,Homo sapiens,uniprot_api
+O95218,ZRAB2_HUMAN,ZRANB2,Zinc finger Ran-binding domain-containing protein 2,Homo sapiens,uniprot_api
+O95573,ACSL3_HUMAN,ACSL3,Fatty acid CoA ligase Acsl3,Homo sapiens,uniprot_api
+O76031,CLPX_HUMAN,CLPX,"ATP-dependent clpX-like chaperone, mitochondrial",Homo sapiens,uniprot_api
+O76062,ERG24_HUMAN,TM7SF2,Delta(14)-sterol reductase TM7SF2,Homo sapiens,uniprot_api
+O95340,PAPS2_HUMAN,PAPSS2,Bifunctional 3'-phosphoadenosine 5'-phosphosulfate synthase 2,Homo sapiens,uniprot_api
+O94832,MYO1D_HUMAN,MYO1D,Unconventional myosin-Id,Homo sapiens,uniprot_api
+O95563,MPC2_HUMAN,MPC2,Mitochondrial pyruvate carrier 2,Homo sapiens,uniprot_api
+O75947,ATP5H_HUMAN,ATP5PD,"ATP synthase peripheral stalk subunit d, mitochondrial",Homo sapiens,uniprot_api
+O94973,AP2A2_HUMAN,AP2A2,AP-2 complex subunit alpha-2,Homo sapiens,uniprot_api
+O95180,CAC1H_HUMAN,CACNA1H,Voltage-dependent T-type calcium channel subunit alpha-1H,Homo sapiens,uniprot_api
+O75908,SOAT2_HUMAN,SOAT2,Sterol O-acyltransferase 2,Homo sapiens,uniprot_api
+O94979,SC31A_HUMAN,SEC31A,Protein transport protein Sec31A,Homo sapiens,uniprot_api
+O94903,PLPHP_HUMAN,PLPBP,Pyridoxal phosphate homeostasis protein,Homo sapiens,uniprot_api
+O95626,AN32D_HUMAN,ANP32D,Acidic leucine-rich nuclear phosphoprotein 32 family member D,Homo sapiens,uniprot_api
+P00326,ADH1G_HUMAN,ADH1C,Alcohol dehydrogenase 1C,Homo sapiens,uniprot_api
+P00325,ADH1B_HUMAN,ADH1B,All-trans-retinol dehydrogenase [NAD(+)] ADH1B,Homo sapiens,uniprot_api
+O96000,NDUBA_HUMAN,NDUFB10,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 10,Homo sapiens,uniprot_api
+O96005,CLPT1_HUMAN,CLPTM1,Putative lipid scramblase CLPTM1,Homo sapiens,uniprot_api
+P00338,LDHA_HUMAN,LDHA,L-lactate dehydrogenase A chain,Homo sapiens,uniprot_api
+P00480,OTC_HUMAN,OTC,"Ornithine transcarbamylase, mitochondrial",Homo sapiens,uniprot_api
+P00505,AATM_HUMAN,GOT2,"Aspartate aminotransferase, mitochondrial",Homo sapiens,uniprot_api
+O95870,ABHGA_HUMAN,ABHD16A,Phosphatidylserine lipase ABHD16A,Homo sapiens,uniprot_api
+P00352,AL1A1_HUMAN,ALDH1A1,Aldehyde dehydrogenase 1A1,Homo sapiens,uniprot_api
+P00367,DHE3_HUMAN,GLUD1,"Glutamate dehydrogenase 1, mitochondrial",Homo sapiens,uniprot_api
+P00387,NB5R3_HUMAN,CYB5R3,NADH-cytochrome b5 reductase 3,Homo sapiens,uniprot_api
+O95954,FTCD_HUMAN,FTCD,Formimidoyltransferase-cyclodeaminase,Homo sapiens,uniprot_api
+P00167,CYB5_HUMAN,CYB5A,Cytochrome b5,Homo sapiens,uniprot_api
+P00450,CERU_HUMAN,CP,Ceruloplasmin,Homo sapiens,uniprot_api
+P00734,THRB_HUMAN,F2,Prothrombin,Homo sapiens,uniprot_api
+P00439,PH4H_HUMAN,PAH,Phenylalanine-4-hydroxylase,Homo sapiens,uniprot_api
+P00739,HPTR_HUMAN,HPR,Haptoglobin-related protein,Homo sapiens,uniprot_api
+P00746,CFAD_HUMAN,CFD,Complement factor D,Homo sapiens,uniprot_api
+P00747,PLMN_HUMAN,PLG,Plasminogen,Homo sapiens,uniprot_api
+P00748,FA12_HUMAN,F12,Coagulation factor XII,Homo sapiens,uniprot_api
+O95793,STAU1_HUMAN,STAU1,Double-stranded RNA-binding protein Staufen homolog 1,Homo sapiens,uniprot_api
+O95864,FADS2_HUMAN,FADS2,Acyl-CoA 6-desaturase,Homo sapiens,uniprot_api
+P00738,HPT_HUMAN,HP,Haptoglobin,Homo sapiens,uniprot_api
+O96011,PX11B_HUMAN,PEX11B,Peroxisomal membrane protein 11B,Homo sapiens,uniprot_api
+O95831,AIFM1_HUMAN,AIFM1,"Apoptosis-inducing factor 1, mitochondrial",Homo sapiens,uniprot_api
+P01834,IGKC_HUMAN,IGKC,Immunoglobulin kappa constant,Homo sapiens,uniprot_api
+P00846,ATP6_HUMAN,MT-ATP6,ATP synthase F(0) complex subunit a,Homo sapiens,uniprot_api
+P01615,KVD28_HUMAN,IGKV2D-28,Immunoglobulin kappa variable 2D-28,Homo sapiens,uniprot_api
+P01764,HV323_HUMAN,IGHV3-23,Immunoglobulin heavy variable 3-23,Homo sapiens,uniprot_api
+P01023,A2MG_HUMAN,A2M,Alpha-2-macroglobulin,Homo sapiens,uniprot_api
+P00915,CAH1_HUMAN,CA1,Carbonic anhydrase 1,Homo sapiens,uniprot_api
+P01008,ANT3_HUMAN,SERPINC1,Antithrombin-III,Homo sapiens,uniprot_api
+P01009,A1AT_HUMAN,SERPINA1,Alpha-1-antitrypsin,Homo sapiens,uniprot_api
+P01019,ANGT_HUMAN,AGT,Angiotensinogen,Homo sapiens,uniprot_api
+P01033,TIMP1_HUMAN,TIMP1,Metalloproteinase inhibitor 1,Homo sapiens,uniprot_api
+P01768,HV330_HUMAN,IGHV3-30,Immunoglobulin heavy variable 3-30,Homo sapiens,uniprot_api
+P00966,ASSY_HUMAN,ASS1,Argininosuccinate synthase,Homo sapiens,uniprot_api
+P01772,HV333_HUMAN,IGHV3-33,Immunoglobulin heavy variable 3-33,Homo sapiens,uniprot_api
+P01037,CYTN_HUMAN,CST1,Cystatin-SN,Homo sapiens,uniprot_api
+P00918,CAH2_HUMAN,CA2,Carbonic anhydrase 2,Homo sapiens,uniprot_api
+P01036,CYTS_HUMAN,CST4,Cystatin-S,Homo sapiens,uniprot_api
+P01619,KV320_HUMAN,IGKV3-20,Immunoglobulin kappa variable 3-20,Homo sapiens,uniprot_api
+P01857,IGHG1_HUMAN,IGHG1,Immunoglobulin heavy constant gamma 1,Homo sapiens,uniprot_api
+P01011,AACT_HUMAN,SERPINA3,Alpha-1-antichymotrypsin,Homo sapiens,uniprot_api
+P01042,KNG1_HUMAN,KNG1,Kininogen-1,Homo sapiens,uniprot_api
+P00751,CFAB_HUMAN,CFB,Complement factor B,Homo sapiens,uniprot_api
+P01714,LV319_HUMAN,IGLV3-19,Immunoglobulin lambda variable 3-19,Homo sapiens,uniprot_api
+P01624,KV315_HUMAN,IGKV3-15,Immunoglobulin kappa variable 3-15,Homo sapiens,uniprot_api
+P01767,HV353_HUMAN,IGHV3-53,Immunoglobulin heavy variable 3-53,Homo sapiens,uniprot_api
+P01614,KVD40_HUMAN,IGKV2D-40,Immunoglobulin kappa variable 2D-40,Homo sapiens,uniprot_api
+P02008,HBAZ_HUMAN,HBZ,Hemoglobin subunit zeta,Homo sapiens,uniprot_api
+P02100,HBE_HUMAN,HBE1,Hemoglobin subunit epsilon,Homo sapiens,uniprot_api
+P02786,TFR1_HUMAN,TFRC,Transferrin receptor protein 1,Homo sapiens,uniprot_api
+P02042,HBD_HUMAN,HBD,Hemoglobin subunit delta,Homo sapiens,uniprot_api
+P02787,TRFE_HUMAN,TF,Serotransferrin,Homo sapiens,uniprot_api
+P02768,ALBU_HUMAN,ALB,Albumin,Homo sapiens,uniprot_api
+P01877,IGHA2_HUMAN,IGHA2,Immunoglobulin heavy constant alpha 2,Homo sapiens,uniprot_api
+P02511,CRYAB_HUMAN,CRYAB,Alpha-crystallin B chain,Homo sapiens,uniprot_api
+P02538,K2C6A_HUMAN,KRT6A,"Keratin, type II cytoskeletal 6A",Homo sapiens,uniprot_api
+P02649,APOE_HUMAN,APOE,Apolipoprotein E,Homo sapiens,uniprot_api
+P02743,SAMP_HUMAN,APCS,Serum amyloid P-component,Homo sapiens,uniprot_api
+P02747,C1QC_HUMAN,C1QC,Complement C1q subcomponent subunit C,Homo sapiens,uniprot_api
+P01861,IGHG4_HUMAN,IGHG4,Immunoglobulin heavy constant gamma 4,Homo sapiens,uniprot_api
+P02656,APOC3_HUMAN,APOC3,Apolipoprotein C-III,Homo sapiens,uniprot_api
+P02746,C1QB_HUMAN,C1QB,Complement C1q subcomponent subunit B,Homo sapiens,uniprot_api
+P01859,IGHG2_HUMAN,IGHG2,Immunoglobulin heavy constant gamma 2,Homo sapiens,uniprot_api
+P01860,IGHG3_HUMAN,IGHG3,Immunoglobulin heavy constant gamma 3,Homo sapiens,uniprot_api
+P02533,K1C14_HUMAN,KRT14,"Keratin, type I cytoskeletal 14",Homo sapiens,uniprot_api
+P02654,APOC1_HUMAN,APOC1,Apolipoprotein C-I,Homo sapiens,uniprot_api
+P01893,HLAH_HUMAN,HLA-H,"Putative HLA class I histocompatibility antigen, alpha chain H",Homo sapiens,uniprot_api
+P02647,APOA1_HUMAN,APOA1,Apolipoprotein A-I,Homo sapiens,uniprot_api
+P02652,APOA2_HUMAN,APOA2,Apolipoprotein A-II,Homo sapiens,uniprot_api
+P02749,APOH_HUMAN,APOH,Beta-2-glycoprotein 1,Homo sapiens,uniprot_api
+P02790,HEMO_HUMAN,HPX,Hemopexin,Homo sapiens,uniprot_api
+P01876,IGHA1_HUMAN,IGHA1,Immunoglobulin heavy constant alpha 1,Homo sapiens,uniprot_api
+P04259,K2C6B_HUMAN,KRT6B,"Keratin, type II cytoskeletal 6B",Homo sapiens,uniprot_api
+P03951,FA11_HUMAN,F11,Coagulation factor XI,Homo sapiens,uniprot_api
+P04080,CYTB_HUMAN,CSTB,Cystatin-B,Homo sapiens,uniprot_api
+P04406,G3P_HUMAN,GAPDH,Glyceraldehyde-3-phosphate dehydrogenase,Homo sapiens,uniprot_api
+P04844,RPN2_HUMAN,RPN2,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 2,Homo sapiens,uniprot_api
+P03928,ATP8_HUMAN,MT-ATP8,ATP synthase F(0) complex subunit 8,Homo sapiens,uniprot_api
+P04004,VTNC_HUMAN,VTN,Vitronectin,Homo sapiens,uniprot_api
+P04114,APOB_HUMAN,APOB,Apolipoprotein B-100,Homo sapiens,uniprot_api
+P04196,HRG_HUMAN,HRG,Histidine-rich glycoprotein,Homo sapiens,uniprot_api
+P04350,TBB4A_HUMAN,TUBB4A,Tubulin beta-4A chain,Homo sapiens,uniprot_api
+P04746,AMYP_HUMAN,AMY2A,Pancreatic alpha-amylase,Homo sapiens,uniprot_api
+P02810,PRPC_HUMAN,PRH1,Salivary acidic proline-rich phosphoprotein 1/2,Homo sapiens,uniprot_api
+P03952,KLKB1_HUMAN,KLKB1,Plasma kallikrein,Homo sapiens,uniprot_api
+P04040,CATA_HUMAN,CAT,Catalase,Homo sapiens,uniprot_api
+P04083,ANXA1_HUMAN,ANXA1,Annexin A1,Homo sapiens,uniprot_api
+P04843,RPN1_HUMAN,RPN1,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1,Homo sapiens,uniprot_api
+P04075,ALDOA_HUMAN,ALDOA,Fructose-bisphosphate aldolase A,Homo sapiens,uniprot_api
+P02795,MT2_HUMAN,MT2A,Metallothionein-2,Homo sapiens,uniprot_api
+P04264,K2C1_HUMAN,KRT1,"Keratin, type II cytoskeletal 1",Homo sapiens,uniprot_api
+P04732,MT1E_HUMAN,MT1E,Metallothionein-1E,Homo sapiens,uniprot_api
+P04792,HSPB1_HUMAN,HSPB1,Heat shock protein beta-1,Homo sapiens,uniprot_api
+P04179,SODM_HUMAN,SOD2,"Superoxide dismutase [Mn], mitochondrial",Homo sapiens,uniprot_api
+P04439,HLAA_HUMAN,HLA-A,"HLA class I histocompatibility antigen, A alpha chain",Homo sapiens,uniprot_api
+P04278,SHBG_HUMAN,SHBG,Sex hormone-binding globulin,Homo sapiens,uniprot_api
+P04424,ARLY_HUMAN,ASL,Argininosuccinate lyase,Homo sapiens,uniprot_api
+P05787,K2C8_HUMAN,KRT8,"Keratin, type II cytoskeletal 8",Homo sapiens,uniprot_api
+P05783,K1C18_HUMAN,KRT18,"Keratin, type I cytoskeletal 18",Homo sapiens,uniprot_api
+P05090,APOD_HUMAN,APOD,Apolipoprotein D,Homo sapiens,uniprot_api
+P05452,TETN_HUMAN,CLEC3B,Tetranectin,Homo sapiens,uniprot_api
+P05062,ALDOB_HUMAN,ALDOB,Fructose-bisphosphate aldolase B,Homo sapiens,uniprot_api
+P05156,CFAI_HUMAN,CFI,Complement factor I,Homo sapiens,uniprot_api
+P05091,ALDH2_HUMAN,ALDH2,"Aldehyde dehydrogenase, mitochondrial",Homo sapiens,uniprot_api
+P05154,IPSP_HUMAN,SERPINA5,Plasma serine protease inhibitor,Homo sapiens,uniprot_api
+P05181,CP2E1_HUMAN,CYP2E1,Cytochrome P450 2E1,Homo sapiens,uniprot_api
+P05387,RLA2_HUMAN,RPLP2,Large ribosomal subunit protein P2,Homo sapiens,uniprot_api
+P05455,LA_HUMAN,SSB,Lupus La protein,Homo sapiens,uniprot_api
+P05089,ARGI1_HUMAN,ARG1,Arginase-1,Homo sapiens,uniprot_api
+P05109,S10A8_HUMAN,S100A8,Protein S100-A8,Homo sapiens,uniprot_api
+P05164,PERM_HUMAN,MPO,Myeloperoxidase,Homo sapiens,uniprot_api
+P05198,IF2A_HUMAN,EIF2S1,Eukaryotic translation initiation factor 2 subunit 1,Homo sapiens,uniprot_api
+P05388,RLA0_HUMAN,RPLP0,Large ribosomal subunit protein uL10,Homo sapiens,uniprot_api
+P06312,KV401_HUMAN,IGKV4-1,Immunoglobulin kappa variable 4-1,Homo sapiens,uniprot_api
+P06576,ATPB_HUMAN,ATP5F1B,"ATP synthase F(1) complex subunit beta, mitochondrial",Homo sapiens,uniprot_api
+P04908,H2A1B_HUMAN,H2AC4,Histone H2A type 1-B/E,Homo sapiens,uniprot_api
+P05141,ADT2_HUMAN,SLC25A5,ADP/ATP translocase 2,Homo sapiens,uniprot_api
+P05155,IC1_HUMAN,SERPING1,Plasma protease C1 inhibitor,Homo sapiens,uniprot_api
+P06454,PTMA_HUMAN,PTMA,Prothymosin alpha,Homo sapiens,uniprot_api
+P05023,AT1A1_HUMAN,ATP1A1,Sodium/potassium-transporting ATPase subunit alpha-1,Homo sapiens,uniprot_api
+P06133,UD2B4_HUMAN,UGT2B4,UDP-glucuronosyltransferase 2B4,Homo sapiens,uniprot_api
+P06310,KV230_HUMAN,IGKV2-30,Immunoglobulin kappa variable 2-30,Homo sapiens,uniprot_api
+P07306,ASGR1_HUMAN,ASGR1,Asialoglycoprotein receptor 1,Homo sapiens,uniprot_api
+P07737,PROF1_HUMAN,PFN1,Profilin-1,Homo sapiens,uniprot_api
+P06748,NPM_HUMAN,NPM1,Nucleophosmin,Homo sapiens,uniprot_api
+P07099,HYEP_HUMAN,EPHX1,Epoxide hydrolase 1,Homo sapiens,uniprot_api
+P07864,LDHC_HUMAN,LDHC,L-lactate dehydrogenase C chain,Homo sapiens,uniprot_api
+P07900,HS90A_HUMAN,HSP90AA1,Heat shock protein HSP 90-alpha,Homo sapiens,uniprot_api
+P07951,TPM2_HUMAN,TPM2,Tropomyosin beta chain,Homo sapiens,uniprot_api
+P07148,FABPL_HUMAN,FABP1,"Fatty acid-binding protein, liver",Homo sapiens,uniprot_api
+P07237,PDIA1_HUMAN,P4HB,Protein disulfide-isomerase,Homo sapiens,uniprot_api
+P07437,TBB5_HUMAN,TUBB,Tubulin beta chain,Homo sapiens,uniprot_api
+P07858,CATB_HUMAN,CTSB,Cathepsin B,Homo sapiens,uniprot_api
+P07988,PSPB_HUMAN,SFTPB,Pulmonary surfactant-associated protein B,Homo sapiens,uniprot_api
+P08134,RHOC_HUMAN,RHOC,Rho-related GTP-binding protein RhoC,Homo sapiens,uniprot_api
+P08263,GSTA1_HUMAN,GSTA1,Glutathione S-transferase A1,Homo sapiens,uniprot_api
+P06733,ENOA_HUMAN,ENO1,Alpha-enolase,Homo sapiens,uniprot_api
+P07327,ADH1A_HUMAN,ADH1A,Alcohol dehydrogenase 1A,Homo sapiens,uniprot_api
+P07339,CATD_HUMAN,CTSD,Cathepsin D,Homo sapiens,uniprot_api
+P07358,CO8B_HUMAN,C8B,Complement component C8 beta chain,Homo sapiens,uniprot_api
+P07919,QCR6_HUMAN,UQCRH,"Cytochrome b-c1 complex subunit 6, mitochondrial",Homo sapiens,uniprot_api
+P08238,HS90B_HUMAN,HSP90AB1,Heat shock protein HSP 90-beta,Homo sapiens,uniprot_api
+P06753,TPM3_HUMAN,TPM3,Tropomyosin alpha-3 chain,Homo sapiens,uniprot_api
+P07203,GPX1_HUMAN,GPX1,Glutathione peroxidase 1,Homo sapiens,uniprot_api
+P07355,ANXA2_HUMAN,ANXA2,Annexin A2,Homo sapiens,uniprot_api
+P06681,CO2_HUMAN,C2,Complement C2,Homo sapiens,uniprot_api
+P07741,APT_HUMAN,APRT,Adenine phosphoribosyltransferase,Homo sapiens,uniprot_api
+P09172,DOPO_HUMAN,DBH,Dopamine beta-hydroxylase,Homo sapiens,uniprot_api
+P08727,K1C19_HUMAN,KRT19,"Keratin, type I cytoskeletal 19",Homo sapiens,uniprot_api
+P08865,RSSA_HUMAN,RPSA,Small ribosomal subunit protein uS2,Homo sapiens,uniprot_api
+P09467,F16P1_HUMAN,FBP1,"Fructose-1,6-bisphosphatase 1",Homo sapiens,uniprot_api
+P09543,CN37_HUMAN,CNP,"2',3'-cyclic-nucleotide 3'-phosphodiesterase",Homo sapiens,uniprot_api
+P09914,IFIT1_HUMAN,IFIT1,Antiviral innate immune response effector IFIT1,Homo sapiens,uniprot_api
+P08779,K1C16_HUMAN,KRT16,"Keratin, type I cytoskeletal 16",Homo sapiens,uniprot_api
+P09327,VILI_HUMAN,VIL1,Villin-1,Homo sapiens,uniprot_api
+P09651,ROA1_HUMAN,HNRNPA1,Heterogeneous nuclear ribonucleoprotein A1,Homo sapiens,uniprot_api
+P09960,LKHA4_HUMAN,LTA4H,Leukotriene A-4 hydrolase,Homo sapiens,uniprot_api
+P0C0L4,CO4A_HUMAN,C4A,Complement C4-A,Homo sapiens,uniprot_api
+P08574,CY1_HUMAN,CYC1,"Cytochrome c1, heme protein, mitochondrial",Homo sapiens,uniprot_api
+P09210,GSTA2_HUMAN,GSTA2,Glutathione S-transferase A2,Homo sapiens,uniprot_api
+P09382,LEG1_HUMAN,LGALS1,Galectin-1,Homo sapiens,uniprot_api
+P08697,A2AP_HUMAN,SERPINF2,Alpha-2-antiplasmin,Homo sapiens,uniprot_api
+P08708,RS17_HUMAN,RPS17,Small ribosomal subunit protein eS17,Homo sapiens,uniprot_api
+P09429,HMGB1_HUMAN,HMGB1,High mobility group protein B1,Homo sapiens,uniprot_api
+P09629,HXB7_HUMAN,HOXB7,Homeobox protein Hox-B7,Homo sapiens,uniprot_api
+P09669,COX6C_HUMAN,COX6C,Cytochrome c oxidase subunit 6C,Homo sapiens,uniprot_api
+P09493,TPM1_HUMAN,TPM1,Tropomyosin alpha-1 chain,Homo sapiens,uniprot_api
+P09525,ANXA4_HUMAN,ANXA4,Annexin A4,Homo sapiens,uniprot_api
+P09110,THIK_HUMAN,ACAA1,"3-ketoacyl-CoA thiolase, peroxisomal",Homo sapiens,uniprot_api
+P09132,SRP19_HUMAN,SRP19,Signal recognition particle 19 kDa protein,Homo sapiens,uniprot_api
+P08319,ADH4_HUMAN,ADH4,All-trans-retinol dehydrogenase [NAD(+)] ADH4,Homo sapiens,uniprot_api
+P09622,DLDH_HUMAN,DLD,"Dihydrolipoyl dehydrogenase, mitochondrial",Homo sapiens,uniprot_api
+P0C0S8,H2A1_HUMAN,H2AC11,Histone H2A type 1,Homo sapiens,uniprot_api
+P0C0L5,CO4B_HUMAN,C4B,Complement C4-B,Homo sapiens,uniprot_api
+P0C0S5,H2AZ_HUMAN,H2AZ1,Histone H2A.Z,Homo sapiens,uniprot_api
+P0DMM9,ST1A3_HUMAN,SULT1A3,Sulfotransferase 1A3,Homo sapiens,uniprot_api
+P0DP23,CALM1_HUMAN,CALM1,Calmodulin-1,Homo sapiens,uniprot_api
+P0DMV8,HS71A_HUMAN,HSPA1A,Heat shock 70 kDa protein 1A,Homo sapiens,uniprot_api
+P0DOY3,IGLC3_HUMAN,IGLC3,Immunoglobulin lambda constant 3,Homo sapiens,uniprot_api
+P0DP24,CALM2_HUMAN,CALM2,Calmodulin-2,Homo sapiens,uniprot_api
+P0CG47,UBB_HUMAN,UBB,Polyubiquitin-B,Homo sapiens,uniprot_api
+P0DMN0,ST1A4_HUMAN,SULT1A4,Sulfotransferase 1A4,Homo sapiens,uniprot_api
+P0CG04,IGLC1_HUMAN,IGLC1,Immunoglobulin lambda constant 1,Homo sapiens,uniprot_api
+P0CG48,UBC_HUMAN,UBC,Polyubiquitin-C,Homo sapiens,uniprot_api
+P0DMV9,HS71B_HUMAN,HSPA1B,Heat shock 70 kDa protein 1B,Homo sapiens,uniprot_api
+P0DOY2,IGLC2_HUMAN,IGLC2,Immunoglobulin lambda constant 2,Homo sapiens,uniprot_api
+P0DP25,CALM3_HUMAN,CALM3,Calmodulin-3,Homo sapiens,uniprot_api
+P0DME0,SETLP_HUMAN,SETSIP,Protein SETSIP,Homo sapiens,uniprot_api
+P0CG38,POTEI_HUMAN,POTEI,POTE ankyrin domain family member I,Homo sapiens,uniprot_api
+P0CG39,POTEJ_HUMAN,POTEJ,POTE ankyrin domain family member J,Homo sapiens,uniprot_api
+P0CF74,IGLC6_HUMAN,IGLC6,Immunoglobulin lambda constant 6,Homo sapiens,uniprot_api
+P0CG22,DR4L1_HUMAN,DHRS4L1,Putative dehydrogenase/reductase SDR family member 4-like 1,Homo sapiens,uniprot_api
+P0DP03,HVC05_HUMAN,IGHV3-30-5,Immunoglobulin heavy variable 3-30-5,Homo sapiens,uniprot_api
+P0DJD0,RGPD1_HUMAN,RGPD1,RANBP2-like and GRIP domain-containing protein 1,Homo sapiens,uniprot_api
+P0DP02,HVC33_HUMAN,IGHV3-30-3,Immunoglobulin heavy variable 3-30-3,Homo sapiens,uniprot_api
+P0DN26,PAL4F_HUMAN,PPIAL4F,Peptidyl-prolyl cis-trans isomerase A-like 4F,Homo sapiens,uniprot_api
+P0DPD5,ZN723_HUMAN,ZNF723,Zinc finger protein 723,Homo sapiens,uniprot_api
+P0DPH7,TBA3C_HUMAN,TUBA3C,Tubulin alpha-3C chain,Homo sapiens,uniprot_api
+P10620,MGST1_HUMAN,MGST1,Microsomal glutathione S-transferase 1,Homo sapiens,uniprot_api
+P10632,CP2C8_HUMAN,CYP2C8,Cytochrome P450 2C8,Homo sapiens,uniprot_api
+P10767,FGF6_HUMAN,FGF6,Fibroblast growth factor 6,Homo sapiens,uniprot_api
+P0DTE7,AMY1B_HUMAN,AMY1B,Alpha-amylase 1B,Homo sapiens,uniprot_api
+P11021,BIP_HUMAN,HSPA5,Endoplasmic reticulum chaperone BiP,Homo sapiens,uniprot_api
+P11498,PYC_HUMAN,PC,"Pyruvate carboxylase, mitochondrial",Homo sapiens,uniprot_api
+P11509,CP2A6_HUMAN,CYP2A6,Cytochrome P450 2A6,Homo sapiens,uniprot_api
+P11387,TOP1_HUMAN,TOP1,DNA topoisomerase 1,Homo sapiens,uniprot_api
+P11712,CP2C9_HUMAN,CYP2C9,Cytochrome P450 2C9,Homo sapiens,uniprot_api
+P0DPH8,TBA3D_HUMAN,TUBA3D,Tubulin alpha-3D chain,Homo sapiens,uniprot_api
+P0DUB6,AMY1A_HUMAN,AMY1A,Alpha-amylase 1A,Homo sapiens,uniprot_api
+P10809,CH60_HUMAN,HSPD1,"60 kDa heat shock protein, mitochondrial",Homo sapiens,uniprot_api
+P11586,C1TC_HUMAN,MTHFD1,"C-1-tetrahydrofolate synthase, cytoplasmic",Homo sapiens,uniprot_api
+P0DTE8,AMY1C_HUMAN,AMY1C,Alpha-amylase 1C,Homo sapiens,uniprot_api
+P10321,HLAC_HUMAN,HLA-C,"HLA class I histocompatibility antigen, C alpha chain",Homo sapiens,uniprot_api
+P10412,H14_HUMAN,H1-4,Histone H1.4,Homo sapiens,uniprot_api
+P10909,CLUS_HUMAN,CLU,Clusterin,Homo sapiens,uniprot_api
+P10599,THIO_HUMAN,TXN,Thioredoxin,Homo sapiens,uniprot_api
+P11310,ACADM_HUMAN,ACADM,"Medium-chain specific acyl-CoA dehydrogenase, mitochondrial",Homo sapiens,uniprot_api
+P0DTE5,UD2A2_HUMAN,UGT2A2,UDP-glucuronosyltransferase 2A2,Homo sapiens,uniprot_api
+P11142,HSP7C_HUMAN,HSPA8,Heat shock cognate 71 kDa protein,Homo sapiens,uniprot_api
+P11908,PRPS2_HUMAN,PRPS2,Ribose-phosphate pyrophosphokinase 2,Homo sapiens,uniprot_api
+P0DPI2,GAL3A_HUMAN,GATD3,"Glutamine amidotransferase-like class 1 domain-containing protein 3, mitochondrial",Homo sapiens,uniprot_api
+P0DTE2,HV511_HUMAN,IGHV8-51-1,Probable non-functional immunoglobulin heavy variable 8-51-1,Homo sapiens,uniprot_api
+P12236,ADT3_HUMAN,SLC25A6,ADP/ATP translocase 3,Homo sapiens,uniprot_api
+P12235,ADT1_HUMAN,SLC25A4,ADP/ATP translocase 1,Homo sapiens,uniprot_api
+P13010,XRCC5_HUMAN,XRCC5,DNA repair protein Ku80,Homo sapiens,uniprot_api
+P12956,XRCC6_HUMAN,XRCC6,DNA repair protein Ku70,Homo sapiens,uniprot_api
+P13646,K1C13_HUMAN,KRT13,"Keratin, type I cytoskeletal 13",Homo sapiens,uniprot_api
+P12036,NFH_HUMAN,NEFH,Neurofilament heavy polypeptide,Homo sapiens,uniprot_api
+P12814,ACTN1_HUMAN,ACTN1,Alpha-actinin-1,Homo sapiens,uniprot_api
+P13489,RINI_HUMAN,RNH1,Ribonuclease inhibitor,Homo sapiens,uniprot_api
+P13647,K2C5_HUMAN,KRT5,"Keratin, type II cytoskeletal 5",Homo sapiens,uniprot_api
+P14174,MIF_HUMAN,MIF,Macrophage migration inhibitory factor,Homo sapiens,uniprot_api
+P14550,AK1A1_HUMAN,AKR1A1,Aldo-keto reductase family 1 member A1,Homo sapiens,uniprot_api
+P14649,MYL6B_HUMAN,MYL6B,Myosin light chain 6B,Homo sapiens,uniprot_api
+P12259,FA5_HUMAN,F5,Coagulation factor V,Homo sapiens,uniprot_api
+P13667,PDIA4_HUMAN,PDIA4,Protein disulfide-isomerase A4,Homo sapiens,uniprot_api
+P11940,PABP1_HUMAN,PABPC1,Polyadenylate-binding protein 1,Homo sapiens,uniprot_api
+P13797,PLST_HUMAN,PLS3,Plastin-3,Homo sapiens,uniprot_api
+P13804,ETFA_HUMAN,ETFA,"Electron transfer flavoprotein subunit alpha, mitochondrial",Homo sapiens,uniprot_api
+P14625,ENPL_HUMAN,HSP90B1,Endoplasmin,Homo sapiens,uniprot_api
+P14923,PLAK_HUMAN,JUP,Junction plakoglobin,Homo sapiens,uniprot_api
+P13637,AT1A3_HUMAN,ATP1A3,Sodium/potassium-transporting ATPase subunit alpha-3,Homo sapiens,uniprot_api
+P13639,EF2_HUMAN,EEF2,Elongation factor 2,Homo sapiens,uniprot_api
+P13645,K1C10_HUMAN,KRT10,"Keratin, type I cytoskeletal 10",Homo sapiens,uniprot_api
+P14868,SYDC_HUMAN,DARS1,"Aspartate--tRNA ligase, cytoplasmic",Homo sapiens,uniprot_api
+P12111,CO6A3_HUMAN,COL6A3,Collagen alpha-3(VI) chain,Homo sapiens,uniprot_api
+P14324,FPPS_HUMAN,FDPS,Farnesyl pyrophosphate synthase,Homo sapiens,uniprot_api
+P15880,RS2_HUMAN,RPS2,Small ribosomal subunit protein uS5,Homo sapiens,uniprot_api
+P17812,PYRG1_HUMAN,CTPS1,CTP synthase 1,Homo sapiens,uniprot_api
+P16104,H2AX_HUMAN,H2AX,Histone H2AX,Homo sapiens,uniprot_api
+P16435,NCPR_HUMAN,POR,NADPH--cytochrome P450 reductase,Homo sapiens,uniprot_api
+P17844,DDX5_HUMAN,DDX5,Probable ATP-dependent RNA helicase DDX5,Homo sapiens,uniprot_api
+P15153,RAC2_HUMAN,RAC2,Ras-related C3 botulinum toxin substrate 2,Homo sapiens,uniprot_api
+P15169,CBPN_HUMAN,CPN1,Carboxypeptidase N catalytic chain,Homo sapiens,uniprot_api
+P15924,DESP_HUMAN,DSP,Desmoplakin,Homo sapiens,uniprot_api
+P16219,ACADS_HUMAN,ACADS,"Short-chain specific acyl-CoA dehydrogenase, mitochondrial",Homo sapiens,uniprot_api
+P16403,H12_HUMAN,H1-2,Histone H1.2,Homo sapiens,uniprot_api
+P17174,AATC_HUMAN,GOT1,"Aspartate aminotransferase, cytoplasmic",Homo sapiens,uniprot_api
+P17516,AK1C4_HUMAN,AKR1C4,Aldo-keto reductase family 1 member C4,Homo sapiens,uniprot_api
+P17655,CAN2_HUMAN,CAPN2,Calpain-2 catalytic subunit,Homo sapiens,uniprot_api
+P16402,H13_HUMAN,H1-3,Histone H1.3,Homo sapiens,uniprot_api
+P16662,UD2B7_HUMAN,UGT2B7,UDP-glucuronosyltransferase 2B7,Homo sapiens,uniprot_api
+P17066,HSP76_HUMAN,HSPA6,Heat shock 70 kDa protein 6,Homo sapiens,uniprot_api
+P17081,RHOQ_HUMAN,RHOQ,Rho-related GTP-binding protein RhoQ,Homo sapiens,uniprot_api
+P17480,UBF1_HUMAN,UBTF,Nucleolar transcription factor 1,Homo sapiens,uniprot_api
+P17858,PFKAL_HUMAN,PFKL,"ATP-dependent 6-phosphofructokinase, liver type",Homo sapiens,uniprot_api
+P16615,AT2A2_HUMAN,ATP2A2,Sarcoplasmic/endoplasmic reticulum calcium ATPase 2,Homo sapiens,uniprot_api
+P16930,FAAA_HUMAN,FAH,Fumarylacetoacetase,Homo sapiens,uniprot_api
+P15531,NDKA_HUMAN,NME1,Nucleoside diphosphate kinase A,Homo sapiens,uniprot_api
+P16152,CBR1_HUMAN,CBR1,Carbonyl reductase [NADPH] 1,Homo sapiens,uniprot_api
+P16520,GBB3_HUMAN,GNB3,Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-3,Homo sapiens,uniprot_api
+P15428,PGDH_HUMAN,HPGD,15-hydroxyprostaglandin dehydrogenase [NAD(+)],Homo sapiens,uniprot_api
+P19013,K2C4_HUMAN,KRT4,"Keratin, type II cytoskeletal 4",Homo sapiens,uniprot_api
+P19012,K1C15_HUMAN,KRT15,"Keratin, type I cytoskeletal 15",Homo sapiens,uniprot_api
+P17987,TCPA_HUMAN,TCP1,T-complex protein 1 subunit alpha,Homo sapiens,uniprot_api
+P18124,RL7_HUMAN,RPL7,Large ribosomal subunit protein uL30,Homo sapiens,uniprot_api
+P18621,RL17_HUMAN,RPL17,Large ribosomal subunit protein uL22,Homo sapiens,uniprot_api
+P17980,PRS6A_HUMAN,PSMC3,26S proteasome regulatory subunit 6A,Homo sapiens,uniprot_api
+P19474,RO52_HUMAN,TRIM21,E3 ubiquitin-protein ligase TRIM21,Homo sapiens,uniprot_api
+P20848,A1ATR_HUMAN,SERPINA2,Alpha-1-antitrypsin-related protein,Homo sapiens,uniprot_api
+P20853,CP2A7_HUMAN,CYP2A7,Cytochrome P450 2A7,Homo sapiens,uniprot_api
+P17931,LEG3_HUMAN,LGALS3,Galectin-3,Homo sapiens,uniprot_api
+P18077,RL35A_HUMAN,RPL35A,Large ribosomal subunit protein eL33,Homo sapiens,uniprot_api
+P19105,ML12A_HUMAN,MYL12A,Myosin regulatory light chain 12A,Homo sapiens,uniprot_api
+P18085,ARF4_HUMAN,ARF4,ADP-ribosylation factor 4,Homo sapiens,uniprot_api
+P20042,IF2B_HUMAN,EIF2S2,Eukaryotic translation initiation factor 2 subunit 2,Homo sapiens,uniprot_api
+P20339,RAB5A_HUMAN,RAB5A,Ras-related protein Rab-5A,Homo sapiens,uniprot_api
+P20671,H2A1D_HUMAN,H2AC7,Histone H2A type 1-D,Homo sapiens,uniprot_api
+P17936,IBP3_HUMAN,IGFBP3,Insulin-like growth factor-binding protein 3,Homo sapiens,uniprot_api
+P18827,SDC1_HUMAN,SDC1,Syndecan-1,Homo sapiens,uniprot_api
+P19338,NUCL_HUMAN,NCL,Nucleolin,Homo sapiens,uniprot_api
+P21108,PRPS3_HUMAN,PRPS1L1,Ribose-phosphate pyrophosphokinase 3,Homo sapiens,uniprot_api
+P19224,UD16_HUMAN,UGT1A6,UDP-glucuronosyltransferase 1A6,Homo sapiens,uniprot_api
+P19827,ITIH1_HUMAN,ITIH1,Inter-alpha-trypsin inhibitor heavy chain H1,Homo sapiens,uniprot_api
+P19971,TYPH_HUMAN,TYMP,Thymidine phosphorylase,Homo sapiens,uniprot_api
+P20742,PZP_HUMAN,PZP,Pregnancy zone protein,Homo sapiens,uniprot_api
+P19961,AMY2B_HUMAN,AMY2B,Alpha-amylase 2B,Homo sapiens,uniprot_api
+P21980,TGM2_HUMAN,TGM2,Protein-glutamine gamma-glutamyltransferase 2,Homo sapiens,uniprot_api
+P22492,H1T_HUMAN,H1-6,Histone H1t,Homo sapiens,uniprot_api
+P22760,AAAD_HUMAN,AADAC,Arylacetamide deacetylase,Homo sapiens,uniprot_api
+P22830,HEMH_HUMAN,FECH,"Ferrochelatase, mitochondrial",Homo sapiens,uniprot_api
+P21549,AGT1_HUMAN,AGXT,Alanine--glyoxylate aminotransferase,Homo sapiens,uniprot_api
+P21912,SDHB_HUMAN,SDHB,"Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial",Homo sapiens,uniprot_api
+P22309,UD11_HUMAN,UGT1A1,UDP-glucuronosyltransferase 1A1,Homo sapiens,uniprot_api
+P22392,NDKB_HUMAN,NME2,Nucleoside diphosphate kinase B,Homo sapiens,uniprot_api
+P22695,QCR2_HUMAN,UQCRC2,"Cytochrome b-c1 complex subunit 2, mitochondrial",Homo sapiens,uniprot_api
+P21397,AOFA_HUMAN,MAOA,Amine oxidase [flavin-containing] A,Homo sapiens,uniprot_api
+P21399,ACOHC_HUMAN,ACO1,Cytoplasmic aconitate hydratase,Homo sapiens,uniprot_api
+P22234,PUR6_HUMAN,PAICS,Bifunctional phosphoribosylaminoimidazole carboxylase/phosphoribosylaminoimidazole succinocarboxamide synthetase,Homo sapiens,uniprot_api
+P21695,GPDA_HUMAN,GPD1,"Glycerol-3-phosphate dehydrogenase [NAD(+)], cytoplasmic",Homo sapiens,uniprot_api
+P22061,PIMT_HUMAN,PCMT1,Protein-L-isoaspartate(D-aspartate) O-methyltransferase,Homo sapiens,uniprot_api
+P22310,UD14_HUMAN,UGT1A4,UDP-glucuronosyltransferase 1A4,Homo sapiens,uniprot_api
+P22891,PROZ_HUMAN,PROZ,Vitamin K-dependent protein Z,Homo sapiens,uniprot_api
+P23141,EST1_HUMAN,CES1,Liver carboxylesterase 1,Homo sapiens,uniprot_api
+P23284,PPIB_HUMAN,PPIB,Peptidyl-prolyl cis-trans isomerase B,Homo sapiens,uniprot_api
+P23378,GCSP_HUMAN,GLDC,"Glycine dehydrogenase (decarboxylating), mitochondrial",Homo sapiens,uniprot_api
+P22626,ROA2_HUMAN,HNRNPA2B1,Heterogeneous nuclear ribonucleoproteins A2/B1,Homo sapiens,uniprot_api
+P21127,CD11B_HUMAN,CDK11B,Cyclin-dependent kinase 11B,Homo sapiens,uniprot_api
+P22307,SCP2_HUMAN,SCP2,Sterol carrier protein 2,Homo sapiens,uniprot_api
+P22531,SPR2E_HUMAN,SPRR2E,Small proline-rich protein 2E,Homo sapiens,uniprot_api
+P22090,RS4Y1_HUMAN,RPS4Y1,"Small ribosomal subunit protein eS4, Y isoform 1",Homo sapiens,uniprot_api
+P22532,SPR2D_HUMAN,SPRR2D,Small proline-rich protein 2D,Homo sapiens,uniprot_api
+P24539,AT5F1_HUMAN,ATP5PB,"ATP synthase peripheral stalk subunit b, mitochondrial",Homo sapiens,uniprot_api
+P25705,ATPA_HUMAN,ATP5F1A,"ATP synthase F(1) complex subunit alpha, mitochondrial",Homo sapiens,uniprot_api
+P23786,CPT2_HUMAN,CPT2,"Carnitine O-palmitoyltransferase 2, mitochondrial",Homo sapiens,uniprot_api
+P25445,TNR6_HUMAN,FAS,Tumor necrosis factor receptor superfamily member 6,Homo sapiens,uniprot_api
+P27144,KAD4_HUMAN,AK4,"Adenylate kinase 4, mitochondrial",Homo sapiens,uniprot_api
+P27348,1433T_HUMAN,YWHAQ,14-3-3 protein theta,Homo sapiens,uniprot_api
+P26373,RL13_HUMAN,RPL13,Large ribosomal subunit protein eL13,Homo sapiens,uniprot_api
+P27816,MAP4_HUMAN,MAP4,Microtubule-associated protein 4,Homo sapiens,uniprot_api
+P28332,ADH6_HUMAN,ADH6,Alcohol dehydrogenase 6,Homo sapiens,uniprot_api
+P23528,COF1_HUMAN,CFL1,Cofilin-1,Homo sapiens,uniprot_api
+P24752,THIL_HUMAN,ACAT1,"Acetyl-CoA acetyltransferase, mitochondrial",Homo sapiens,uniprot_api
+P27169,PON1_HUMAN,PON1,Serum paraoxonase/arylesterase 1,Homo sapiens,uniprot_api
+P28838,AMPL_HUMAN,LAP3,Cytosol aminopeptidase,Homo sapiens,uniprot_api
+P23526,SAHH_HUMAN,AHCY,Adenosylhomocysteinase,Homo sapiens,uniprot_api
+P25398,RS12_HUMAN,RPS12,Small ribosomal subunit protein eS12,Homo sapiens,uniprot_api
+P27708,PYR1_HUMAN,CAD,Multifunctional protein CAD,Homo sapiens,uniprot_api
+P23396,RS3_HUMAN,RPS3,Small ribosomal subunit protein uS3,Homo sapiens,uniprot_api
+P26640,SYVC_HUMAN,VARS1,Valine--tRNA ligase,Homo sapiens,uniprot_api
+P27105,STOM_HUMAN,STOM,Stomatin,Homo sapiens,uniprot_api
+P27635,RL10_HUMAN,RPL10,Large ribosomal subunit protein uL16,Homo sapiens,uniprot_api
+P27797,CALR_HUMAN,CALR,Calreticulin,Homo sapiens,uniprot_api
+P27824,CALX_HUMAN,CANX,Calnexin,Homo sapiens,uniprot_api
+P26641,EF1G_HUMAN,EEF1G,Elongation factor 1-gamma,Homo sapiens,uniprot_api
+P27338,AOFB_HUMAN,MAOB,Amine oxidase [flavin-containing] B,Homo sapiens,uniprot_api
+P24844,MYL9_HUMAN,MYL9,Myosin regulatory light polypeptide 9,Homo sapiens,uniprot_api
+P30039,PBLD_HUMAN,PBLD,Phenazine biosynthesis-like domain-containing protein,Homo sapiens,uniprot_api
+P29622,KAIN_HUMAN,SERPINA4,Kallistatin,Homo sapiens,uniprot_api
+P30043,BLVRB_HUMAN,BLVRB,Flavin reductase (NADPH),Homo sapiens,uniprot_api
+P30533,AMRP_HUMAN,LRPAP1,Alpha-2-macroglobulin receptor-associated protein,Homo sapiens,uniprot_api
+P30838,AL3A1_HUMAN,ALDH3A1,"Aldehyde dehydrogenase, dimeric NADP-preferring",Homo sapiens,uniprot_api
+P31040,SDHA_HUMAN,SDHA,"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial",Homo sapiens,uniprot_api
+P30101,PDIA3_HUMAN,PDIA3,Protein disulfide-isomerase A3,Homo sapiens,uniprot_api
+P30153,2AAA_HUMAN,PPP2R1A,Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform,Homo sapiens,uniprot_api
+P30740,ILEU_HUMAN,SERPINB1,Leukocyte elastase inhibitor,Homo sapiens,uniprot_api
+P31025,LCN1_HUMAN,LCN1,Lipocalin-1,Homo sapiens,uniprot_api
+P30041,PRDX6_HUMAN,PRDX6,Peroxiredoxin-6,Homo sapiens,uniprot_api
+P30613,KPYR_HUMAN,PKLR,Pyruvate kinase PKLR,Homo sapiens,uniprot_api
+P30711,GSTT1_HUMAN,GSTT1,Glutathione S-transferase theta-1,Homo sapiens,uniprot_api
+P31327,CPSM_HUMAN,CPS1,"Carbamoyl-phosphate synthase [ammonia], mitochondrial",Homo sapiens,uniprot_api
+P30038,AL4A1_HUMAN,ALDH4A1,"Delta-1-pyrroline-5-carboxylate dehydrogenase, mitochondrial",Homo sapiens,uniprot_api
+P30084,ECHM_HUMAN,ECHS1,"Enoyl-CoA hydratase, mitochondrial",Homo sapiens,uniprot_api
+P30086,PEBP1_HUMAN,PEBP1,Phosphatidylethanolamine-binding protein 1,Homo sapiens,uniprot_api
+P30837,AL1B1_HUMAN,ALDH1B1,"Aldehyde dehydrogenase X, mitochondrial",Homo sapiens,uniprot_api
+P31512,FMO4_HUMAN,FMO4,Dimethylaniline monooxygenase [N-oxide-forming] 4,Homo sapiens,uniprot_api
+P31689,DNJA1_HUMAN,DNAJA1,DnaJ homolog subfamily A member 1,Homo sapiens,uniprot_api
+P31153,METK2_HUMAN,MAT2A,S-adenosylmethionine synthase isoform type-2,Homo sapiens,uniprot_api
+P31513,FMO3_HUMAN,FMO3,Flavin-containing monooxygenase 3,Homo sapiens,uniprot_api
+P29692,EF1D_HUMAN,EEF1D,Elongation factor 1-delta,Homo sapiens,uniprot_api
+P30048,PRDX3_HUMAN,PRDX3,"Thioredoxin-dependent peroxide reductase, mitochondrial",Homo sapiens,uniprot_api
+P30050,RL12_HUMAN,RPL12,Large ribosomal subunit protein uL11,Homo sapiens,uniprot_api
+P34741,SDC2_HUMAN,SDC2,Syndecan-2,Homo sapiens,uniprot_api
+P32754,HPPD_HUMAN,HPD,4-hydroxyphenylpyruvate dioxygenase,Homo sapiens,uniprot_api
+P34897,GLYM_HUMAN,SHMT2,"Serine hydroxymethyltransferase, mitochondrial",Homo sapiens,uniprot_api
+P35326,SPR2A_HUMAN,SPRR2A,Small proline-rich protein 2A,Homo sapiens,uniprot_api
+P31943,HNRH1_HUMAN,HNRNPH1,Heterogeneous nuclear ribonucleoprotein H,Homo sapiens,uniprot_api
+P33151,CADH5_HUMAN,CDH5,Cadherin-5,Homo sapiens,uniprot_api
+P35609,ACTN2_HUMAN,ACTN2,Alpha-actinin-2,Homo sapiens,uniprot_api
+P31930,QCR1_HUMAN,UQCRC1,"Cytochrome b-c1 complex subunit 1, mitochondrial",Homo sapiens,uniprot_api
+P35580,MYH10_HUMAN,MYH10,Myosin-10,Homo sapiens,uniprot_api
+P32119,PRDX2_HUMAN,PRDX2,Peroxiredoxin-2,Homo sapiens,uniprot_api
+P35080,PROF2_HUMAN,PFN2,Profilin-2,Homo sapiens,uniprot_api
+P35520,CBS_HUMAN,CBS,Cystathionine beta-synthase,Homo sapiens,uniprot_api
+P35606,COPB2_HUMAN,COPB2,Coatomer subunit beta',Homo sapiens,uniprot_api
+P32969,RL9_HUMAN,RPL9,Large ribosomal subunit protein uL6,Homo sapiens,uniprot_api
+P33261,CP2CJ_HUMAN,CYP2C19,Cytochrome P450 2C19,Homo sapiens,uniprot_api
+P35268,RL22_HUMAN,RPL22,Large ribosomal subunit protein eL22,Homo sapiens,uniprot_api
+P35527,K1C9_HUMAN,KRT9,"Keratin, type I cytoskeletal 9",Homo sapiens,uniprot_api
+P34896,GLYC_HUMAN,SHMT1,"Serine hydroxymethyltransferase, cytosolic",Homo sapiens,uniprot_api
+P35579,MYH9_HUMAN,MYH9,Myosin-9,Homo sapiens,uniprot_api
+P33121,ACSL1_HUMAN,ACSL1,Long-chain-fatty-acid--CoA ligase 1,Homo sapiens,uniprot_api
+P35557,HXK4_HUMAN,GCK,Hexokinase-4,Homo sapiens,uniprot_api
+P35558,PCKGC_HUMAN,PCK1,"Phosphoenolpyruvate carboxykinase, cytosolic [GTP]",Homo sapiens,uniprot_api
+P31942,HNRH3_HUMAN,HNRNPH3,Heterogeneous nuclear ribonucleoprotein H3,Homo sapiens,uniprot_api
+P35030,TRY3_HUMAN,PRSS3,Trypsin-3,Homo sapiens,uniprot_api
+P35325,SPR2B_HUMAN,SPRR2B,Small proline-rich protein 2B,Homo sapiens,uniprot_api
+P35900,K1C20_HUMAN,KRT20,"Keratin, type I cytoskeletal 20",Homo sapiens,uniprot_api
+P40123,CAP2_HUMAN,CAP2,Adenylyl cyclase-associated protein 2,Homo sapiens,uniprot_api
+P35914,HMGCL_HUMAN,HMGCL,"Hydroxymethylglutaryl-CoA lyase, mitochondrial",Homo sapiens,uniprot_api
+P36776,LONM_HUMAN,LONP1,"Lon protease homolog, mitochondrial",Homo sapiens,uniprot_api
+P36871,PGM1_HUMAN,PGM1,Phosphoglucomutase-1,Homo sapiens,uniprot_api
+P37059,DHB2_HUMAN,HSD17B2,17-beta-hydroxysteroid dehydrogenase type 2,Homo sapiens,uniprot_api
+P39019,RS19_HUMAN,RPS19,Small ribosomal subunit protein eS19,Homo sapiens,uniprot_api
+P39023,RL3_HUMAN,RPL3,Large ribosomal subunit protein uL3,Homo sapiens,uniprot_api
+P35908,K22E_HUMAN,KRT2,"Keratin, type II cytoskeletal 2 epidermal",Homo sapiens,uniprot_api
+P39687,AN32A_HUMAN,ANP32A,Acidic leucine-rich nuclear phosphoprotein 32 family member A,Homo sapiens,uniprot_api
+P35659,DEK_HUMAN,DEK,Protein DEK,Homo sapiens,uniprot_api
+P36542,ATPG_HUMAN,ATP5F1C,"ATP synthase F(1) complex subunit gamma, mitochondrial",Homo sapiens,uniprot_api
+P36578,RL4_HUMAN,RPL4,Large ribosomal subunit protein uL4,Homo sapiens,uniprot_api
+P37108,SRP14_HUMAN,SRP14,Signal recognition particle 14 kDa protein,Homo sapiens,uniprot_api
+P38117,ETFB_HUMAN,ETFB,Electron transfer flavoprotein subunit beta,Homo sapiens,uniprot_api
+P39060,COIA1_HUMAN,COL18A1,Collagen alpha-1(XVIII) chain,Homo sapiens,uniprot_api
+P35998,PRS7_HUMAN,PSMC2,26S proteasome regulatory subunit 7,Homo sapiens,uniprot_api
+P36957,ODO2_HUMAN,DLST,"Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex, mitochondrial",Homo sapiens,uniprot_api
+P38646,HSPA9_HUMAN,HSPA9,"Stress-70 protein, mitochondrial",Homo sapiens,uniprot_api
+P40227,TCPZ_HUMAN,CCT6A,T-complex protein 1 subunit zeta,Homo sapiens,uniprot_api
+P37268,FDFT_HUMAN,FDFT1,Squalene synthase,Homo sapiens,uniprot_api
+P38606,VATA_HUMAN,ATP6V1A,V-type proton ATPase catalytic subunit A,Homo sapiens,uniprot_api
+P40189,IL6RB_HUMAN,IL6ST,Interleukin-6 receptor subunit beta,Homo sapiens,uniprot_api
+P35749,MYH11_HUMAN,MYH11,Myosin-11,Homo sapiens,uniprot_api
+P36537,UDB10_HUMAN,UGT2B10,UDP-glucuronosyltransferase 2B10,Homo sapiens,uniprot_api
+P46781,RS9_HUMAN,RPS9,Small ribosomal subunit protein uS4,Homo sapiens,uniprot_api
+P40429,RL13A_HUMAN,RPL13A,Large ribosomal subunit protein uL13,Homo sapiens,uniprot_api
+P41091,IF2G_HUMAN,EIF2S3,Eukaryotic translation initiation factor 2 subunit 3,Homo sapiens,uniprot_api
+P42330,AK1C3_HUMAN,AKR1C3,Aldo-keto reductase family 1 member C3,Homo sapiens,uniprot_api
+P42765,THIM_HUMAN,ACAA2,"3-ketoacyl-CoA thiolase, mitochondrial",Homo sapiens,uniprot_api
+P46777,RL5_HUMAN,RPL5,Large ribosomal subunit protein uL18,Homo sapiens,uniprot_api
+P41222,PTGDS_HUMAN,PTGDS,Prostaglandin-H2 D-isomerase,Homo sapiens,uniprot_api
+P45954,ACDSB_HUMAN,ACADSB,"Short/branched chain specific acyl-CoA dehydrogenase, mitochondrial",Homo sapiens,uniprot_api
+P46087,NOP2_HUMAN,NOP2,28S rRNA (cytosine(4447)-C(5))-methyltransferase,Homo sapiens,uniprot_api
+P46778,RL21_HUMAN,RPL21,Large ribosomal subunit protein eL21,Homo sapiens,uniprot_api
+P46779,RL28_HUMAN,RPL28,Large ribosomal subunit protein eL28,Homo sapiens,uniprot_api
+P42677,RS27_HUMAN,RPS27,Small ribosomal subunit protein eS27,Homo sapiens,uniprot_api
+P42704,LPPRC_HUMAN,LRPPRC,"Leucine-rich PPR motif-containing protein, mitochondrial",Homo sapiens,uniprot_api
+P42766,RL35_HUMAN,RPL35,Large ribosomal subunit protein uL29,Homo sapiens,uniprot_api
+P46776,RL27A_HUMAN,RPL27A,Large ribosomal subunit protein uL15,Homo sapiens,uniprot_api
+P40261,NNMT_HUMAN,NNMT,Nicotinamide N-methyltransferase,Homo sapiens,uniprot_api
+P40939,ECHA_HUMAN,HADHA,"Trifunctional enzyme subunit alpha, mitochondrial",Homo sapiens,uniprot_api
+P41250,GARS_HUMAN,GARS1,Glycine--tRNA ligase,Homo sapiens,uniprot_api
+P42785,PCP_HUMAN,PRCP,Lysosomal Pro-X carboxypeptidase,Homo sapiens,uniprot_api
+P43490,NAMPT_HUMAN,NAMPT,Nicotinamide phosphoribosyltransferase,Homo sapiens,uniprot_api
+P43686,PRS6B_HUMAN,PSMC4,26S proteasome regulatory subunit 6B,Homo sapiens,uniprot_api
+P40763,STAT3_HUMAN,STAT3,Signal transducer and activator of transcription 3,Homo sapiens,uniprot_api
+P40616,ARL1_HUMAN,ARL1,ADP-ribosylation factor-like protein 1,Homo sapiens,uniprot_api
+P41229,KDM5C_HUMAN,KDM5C,Lysine-specific demethylase 5C,Homo sapiens,uniprot_api
+P43307,SSRA_HUMAN,SSR1,Translocon-associated protein subunit alpha,Homo sapiens,uniprot_api
+P46783,RS10_HUMAN,RPS10,Small ribosomal subunit protein eS10,Homo sapiens,uniprot_api
+P47756,CAPZB_HUMAN,CAPZB,F-actin-capping protein subunit beta,Homo sapiens,uniprot_api
+P47914,RL29_HUMAN,RPL29,Large ribosomal subunit protein eL29,Homo sapiens,uniprot_api
+P48735,IDHP_HUMAN,IDH2,"Isocitrate dehydrogenase [NADP], mitochondrial",Homo sapiens,uniprot_api
+P49189,AL9A1_HUMAN,ALDH9A1,4-trimethylaminobutyraldehyde dehydrogenase,Homo sapiens,uniprot_api
+P46940,IQGA1_HUMAN,IQGAP1,Ras GTPase-activating-like protein IQGAP1,Homo sapiens,uniprot_api
+P47897,SYQ_HUMAN,QARS1,Glutamine--tRNA ligase,Homo sapiens,uniprot_api
+P48448,AL3B2_HUMAN,ALDH3B2,Aldehyde dehydrogenase family 3 member B2,Homo sapiens,uniprot_api
+P48668,K2C6C_HUMAN,KRT6C,"Keratin, type II cytoskeletal 6C",Homo sapiens,uniprot_api
+P49207,RL34_HUMAN,RPL34,Large ribosomal subunit protein eL34,Homo sapiens,uniprot_api
+P49257,LMAN1_HUMAN,LMAN1,Protein ERGIC-53,Homo sapiens,uniprot_api
+P49327,FAS_HUMAN,FASN,Fatty acid synthase,Homo sapiens,uniprot_api
+P48643,TCPE_HUMAN,CCT5,T-complex protein 1 subunit epsilon,Homo sapiens,uniprot_api
+P49368,TCPG_HUMAN,CCT3,T-complex protein 1 subunit gamma,Homo sapiens,uniprot_api
+P49411,EFTU_HUMAN,TUFM,"Elongation factor Tu, mitochondrial",Homo sapiens,uniprot_api
+P46782,RS5_HUMAN,RPS5,Small ribosomal subunit protein uS7,Homo sapiens,uniprot_api
+P47755,CAZA2_HUMAN,CAPZA2,F-actin-capping protein subunit alpha-2,Homo sapiens,uniprot_api
+P48047,ATPO_HUMAN,ATP5PO,"ATP synthase peripheral stalk subunit OSCP, mitochondrial",Homo sapiens,uniprot_api
+P48443,RXRG_HUMAN,RXRG,Retinoic acid receptor RXR-gamma,Homo sapiens,uniprot_api
+P49326,FMO5_HUMAN,FMO5,Flavin-containing monooxygenase 5,Homo sapiens,uniprot_api
+P48449,LSS_HUMAN,LSS,Lanosterol synthase,Homo sapiens,uniprot_api
+P48507,GSH0_HUMAN,GCLM,Glutamate--cysteine ligase regulatory subunit,Homo sapiens,uniprot_api
+P47893,OR3A2_HUMAN,OR3A2,Olfactory receptor 3A2,Homo sapiens,uniprot_api
+P47888,OR3A3_HUMAN,OR3A3,Olfactory receptor 3A3,Homo sapiens,uniprot_api
+P48741,HSP77_HUMAN,HSPA7,Putative heat shock 70 kDa protein 7,Homo sapiens,uniprot_api
+P49458,SRP09_HUMAN,SRP9,Signal recognition particle 9 kDa protein,Homo sapiens,uniprot_api
+P49908,SEPP1_HUMAN,SELENOP,Selenoprotein P,Homo sapiens,uniprot_api
+P50226,ST1A2_HUMAN,SULT1A2,Sulfotransferase 1A2,Homo sapiens,uniprot_api
+P50416,CPT1A_HUMAN,CPT1A,"Carnitine O-palmitoyltransferase 1, liver isoform",Homo sapiens,uniprot_api
+P50993,AT1A2_HUMAN,ATP1A2,Sodium/potassium-transporting ATPase subunit alpha-2,Homo sapiens,uniprot_api
+P51114,FXR1_HUMAN,FXR1,RNA-binding protein FXR1,Homo sapiens,uniprot_api
+P49588,SYAC_HUMAN,AARS1,"Alanine--tRNA ligase, cytoplasmic",Homo sapiens,uniprot_api
+P49755,TMEDA_HUMAN,TMED10,Transmembrane emp24 domain-containing protein 10,Homo sapiens,uniprot_api
+P50053,KHK_HUMAN,KHK,Ketohexokinase,Homo sapiens,uniprot_api
+P50991,TCPD_HUMAN,CCT4,T-complex protein 1 subunit delta,Homo sapiens,uniprot_api
+P51148,RAB5C_HUMAN,RAB5C,Ras-related protein Rab-5C,Homo sapiens,uniprot_api
+P51149,RAB7A_HUMAN,RAB7A,Ras-related protein Rab-7a,Homo sapiens,uniprot_api
+P51153,RAB13_HUMAN,RAB13,Ras-related protein Rab-13,Homo sapiens,uniprot_api
+P49419,AL7A1_HUMAN,ALDH7A1,Alpha-aminoadipic semialdehyde dehydrogenase,Homo sapiens,uniprot_api
+P49448,DHE4_HUMAN,GLUD2,"Glutamate dehydrogenase 2, mitochondrial",Homo sapiens,uniprot_api
+P51570,GALK1_HUMAN,GALK1,Galactokinase,Homo sapiens,uniprot_api
+P51572,BAP31_HUMAN,BCAP31,B-cell receptor-associated protein 31,Homo sapiens,uniprot_api
+P50502,F10A1_HUMAN,ST13,Hsc70-interacting protein,Homo sapiens,uniprot_api
+P50613,CDK7_HUMAN,CDK7,Cyclin-dependent kinase 7,Homo sapiens,uniprot_api
+P50990,TCPQ_HUMAN,CCT8,T-complex protein 1 subunit theta,Homo sapiens,uniprot_api
+P51589,CP2J2_HUMAN,CYP2J2,Cytochrome P450 2J2,Homo sapiens,uniprot_api
+P50225,ST1A1_HUMAN,SULT1A1,Sulfotransferase 1A1,Homo sapiens,uniprot_api
+P50914,RL14_HUMAN,RPL14,Large ribosomal subunit protein eL14,Homo sapiens,uniprot_api
+P49748,ACADV_HUMAN,ACADVL,"Very long-chain acyl-CoA dehydrogenase, mitochondrial",Homo sapiens,uniprot_api
+P50440,GATM_HUMAN,GATM,"Glycine amidinotransferase, mitochondrial",Homo sapiens,uniprot_api
+P52597,HNRPF_HUMAN,HNRNPF,Heterogeneous nuclear ribonucleoprotein F,Homo sapiens,uniprot_api
+P55036,PSMD4_HUMAN,PSMD4,26S proteasome non-ATPase regulatory subunit 4,Homo sapiens,uniprot_api
+P51648,AL3A2_HUMAN,ALDH3A2,Aldehyde dehydrogenase family 3 member A2,Homo sapiens,uniprot_api
+P51884,LUM_HUMAN,LUM,Lumican,Homo sapiens,uniprot_api
+P53618,COPB_HUMAN,COPB1,Coatomer subunit beta,Homo sapiens,uniprot_api
+P54855,UDB15_HUMAN,UGT2B15,UDP-glucuronosyltransferase 2B15,Homo sapiens,uniprot_api
+P55072,TERA_HUMAN,VCP,Transitional endoplasmic reticulum ATPase,Homo sapiens,uniprot_api
+P51659,DHB4_HUMAN,HSD17B4,Peroxisomal multifunctional enzyme type 2,Homo sapiens,uniprot_api
+P52895,AK1C2_HUMAN,AKR1C2,Aldo-keto reductase family 1 member C2,Homo sapiens,uniprot_api
+P53621,COPA_HUMAN,COPA,Coatomer subunit alpha,Homo sapiens,uniprot_api
+P54652,HSP72_HUMAN,HSPA2,Heat shock-related 70 kDa protein 2,Homo sapiens,uniprot_api
+P53675,CLH2_HUMAN,CLTCL1,Clathrin heavy chain 2,Homo sapiens,uniprot_api
+P54868,HMCS2_HUMAN,HMGCS2,"Hydroxymethylglutaryl-CoA synthase, mitochondrial",Homo sapiens,uniprot_api
+P53007,TXTP_HUMAN,SLC25A1,"Tricarboxylate transport protein, mitochondrial",Homo sapiens,uniprot_api
+P53999,TCP4_HUMAN,SUB1,Activated RNA polymerase II transcriptional coactivator p15,Homo sapiens,uniprot_api
+P55058,PLTP_HUMAN,PLTP,Phospholipid transfer protein,Homo sapiens,uniprot_api
+P51690,ARSL_HUMAN,ARSL,Arylsulfatase L,Homo sapiens,uniprot_api
+P51991,ROA3_HUMAN,HNRNPA3,Heterogeneous nuclear ribonucleoprotein A3,Homo sapiens,uniprot_api
+P52294,IMA5_HUMAN,KPNA1,Importin subunit alpha-5,Homo sapiens,uniprot_api
+P53597,SUCA_HUMAN,SUCLG1,"Succinate--CoA ligase [ADP/GDP-forming] subunit alpha, mitochondrial",Homo sapiens,uniprot_api
+P52272,HNRPM_HUMAN,HNRNPM,Heterogeneous nuclear ribonucleoprotein M,Homo sapiens,uniprot_api
+P51857,AK1D1_HUMAN,AKR1D1,Aldo-keto reductase family 1 member D1,Homo sapiens,uniprot_api
+P54707,AT12A_HUMAN,ATP12A,Potassium-transporting ATPase alpha chain 2,Homo sapiens,uniprot_api
+P55084,ECHB_HUMAN,HADHB,"Trifunctional enzyme subunit beta, mitochondrial",Homo sapiens,uniprot_api
+P54136,SYRC_HUMAN,RARS1,"Arginine--tRNA ligase, cytoplasmic",Homo sapiens,uniprot_api
+P60709,ACTB_HUMAN,ACTB,"Actin, cytoplasmic 1",Homo sapiens,uniprot_api
+P55157,MTP_HUMAN,MTTP,Microsomal triglyceride transfer protein large subunit,Homo sapiens,uniprot_api
+P56385,ATP5I_HUMAN,ATP5ME,"ATP synthase F(0) complex subunit e, mitochondrial",Homo sapiens,uniprot_api
+P56470,LEG4_HUMAN,LGALS4,Galectin-4,Homo sapiens,uniprot_api
+P57088,TMM33_HUMAN,TMEM33,Transmembrane protein 33,Homo sapiens,uniprot_api
+P59666,DEF3_HUMAN,DEFA3,Neutrophil defensin 3,Homo sapiens,uniprot_api
+P60174,TPIS_HUMAN,TPI1,Triosephosphate isomerase,Homo sapiens,uniprot_api
+P60763,RAC3_HUMAN,RAC3,Ras-related C3 botulinum toxin substrate 3,Homo sapiens,uniprot_api
+P61020,RAB5B_HUMAN,RAB5B,Ras-related protein Rab-5B,Homo sapiens,uniprot_api
+P61019,RAB2A_HUMAN,RAB2A,Ras-related protein Rab-2A,Homo sapiens,uniprot_api
+P59190,RAB15_HUMAN,RAB15,Ras-related protein Rab-15,Homo sapiens,uniprot_api
+P60468,SC61B_HUMAN,SEC61B,Protein transport protein Sec61 subunit beta,Homo sapiens,uniprot_api
+P60660,MYL6_HUMAN,MYL6,Myosin light polypeptide 6,Homo sapiens,uniprot_api
+P60891,PRPS1_HUMAN,PRPS1,Ribose-phosphate pyrophosphokinase 1,Homo sapiens,uniprot_api
+P61006,RAB8A_HUMAN,RAB8A,Ras-related protein Rab-8A,Homo sapiens,uniprot_api
+P61026,RAB10_HUMAN,RAB10,Ras-related protein Rab-10,Homo sapiens,uniprot_api
+P55795,HNRH2_HUMAN,HNRNPH2,Heterogeneous nuclear ribonucleoprotein H2,Homo sapiens,uniprot_api
+P57729,RAB38_HUMAN,RAB38,Ras-related protein Rab-38,Homo sapiens,uniprot_api
+P59665,DEF1_HUMAN,DEFA1,Neutrophil defensin 1,Homo sapiens,uniprot_api
+P60866,RS20_HUMAN,RPS20,Small ribosomal subunit protein uS10,Homo sapiens,uniprot_api
+P60953,CDC42_HUMAN,CDC42,Cell division control protein 42 homolog,Homo sapiens,uniprot_api
+P60059,SC61G_HUMAN,SEC61G,Protein transport protein Sec61 subunit gamma,Homo sapiens,uniprot_api
+P60842,IF4A1_HUMAN,EIF4A1,Eukaryotic initiation factor 4A-I,Homo sapiens,uniprot_api
+P60981,DEST_HUMAN,DSTN,Destrin,Homo sapiens,uniprot_api
+P56134,ATPK_HUMAN,ATP5MF,"ATP synthase F(0) complex subunit f, mitochondrial",Homo sapiens,uniprot_api
+P61106,RAB14_HUMAN,RAB14,Ras-related protein Rab-14,Homo sapiens,uniprot_api
+P61158,ARP3_HUMAN,ACTR3,Actin-related protein 3,Homo sapiens,uniprot_api
+P61160,ARP2_HUMAN,ACTR2,Actin-related protein 2,Homo sapiens,uniprot_api
+P61204,ARF3_HUMAN,ARF3,ADP-ribosylation factor 3,Homo sapiens,uniprot_api
+P61247,RS3A_HUMAN,RPS3A,Small ribosomal subunit protein eS1,Homo sapiens,uniprot_api
+P61604,CH10_HUMAN,HSPE1,"10 kDa heat shock protein, mitochondrial",Homo sapiens,uniprot_api
+P62258,1433E_HUMAN,YWHAE,14-3-3 protein epsilon,Homo sapiens,uniprot_api
+P61086,UBE2K_HUMAN,UBE2K,Ubiquitin-conjugating enzyme E2 K,Homo sapiens,uniprot_api
+P61626,LYSC_HUMAN,LYZ,Lysozyme C,Homo sapiens,uniprot_api
+P61586,RHOA_HUMAN,RHOA,Transforming protein RhoA,Homo sapiens,uniprot_api
+P61619,S61A1_HUMAN,SEC61A1,Protein transport protein Sec61 subunit alpha isoform 1,Homo sapiens,uniprot_api
+P61221,ABCE1_HUMAN,ABCE1,ATP-binding cassette sub-family E member 1,Homo sapiens,uniprot_api
+P61254,RL26_HUMAN,RPL26,Large ribosomal subunit protein uL24,Homo sapiens,uniprot_api
+P61353,RL27_HUMAN,RPL27,Large ribosomal subunit protein eL27,Homo sapiens,uniprot_api
+P61513,RL37A_HUMAN,RPL37A,Large ribosomal subunit protein eL43,Homo sapiens,uniprot_api
+P62249,RS16_HUMAN,RPS16,Small ribosomal subunit protein uS9,Homo sapiens,uniprot_api
+P61313,RL15_HUMAN,RPL15,Large ribosomal subunit protein eL15,Homo sapiens,uniprot_api
+P61803,DAD1_HUMAN,DAD1,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit DAD1,Homo sapiens,uniprot_api
+P62081,RS7_HUMAN,RPS7,Small ribosomal subunit protein eS7,Homo sapiens,uniprot_api
+P62241,RS8_HUMAN,RPS8,Small ribosomal subunit protein eS8,Homo sapiens,uniprot_api
+P62244,RS15A_HUMAN,RPS15A,Small ribosomal subunit protein uS8,Homo sapiens,uniprot_api
+P61978,HNRPK_HUMAN,HNRNPK,Heterogeneous nuclear ribonucleoprotein K,Homo sapiens,uniprot_api
+P61224,RAP1B_HUMAN,RAP1B,Ras-related protein Rap-1b,Homo sapiens,uniprot_api
+P62195,PRS8_HUMAN,PSMC5,26S proteasome regulatory subunit 8,Homo sapiens,uniprot_api
+P62070,RRAS2_HUMAN,RRAS2,Ras-related protein R-Ras2,Homo sapiens,uniprot_api
+P62701,RS4X_HUMAN,RPS4X,"Small ribosomal subunit protein eS4, X isoform",Homo sapiens,uniprot_api
+P62314,SMD1_HUMAN,SNRPD1,Small nuclear ribonucleoprotein Sm D1,Homo sapiens,uniprot_api
+P62316,SMD2_HUMAN,SNRPD2,Small nuclear ribonucleoprotein Sm D2,Homo sapiens,uniprot_api
+P62826,RAN_HUMAN,RAN,GTP-binding nuclear protein Ran,Homo sapiens,uniprot_api
+P62805,H4_HUMAN,H4C1,Histone H4,Homo sapiens,uniprot_api
+P62266,RS23_HUMAN,RPS23,Small ribosomal subunit protein uS12,Homo sapiens,uniprot_api
+P62277,RS13_HUMAN,RPS13,Small ribosomal subunit protein uS15,Homo sapiens,uniprot_api
+P62280,RS11_HUMAN,RPS11,Small ribosomal subunit protein uS17,Homo sapiens,uniprot_api
+P62269,RS18_HUMAN,RPS18,Small ribosomal subunit protein uS13,Homo sapiens,uniprot_api
+P62330,ARF6_HUMAN,ARF6,ADP-ribosylation factor 6,Homo sapiens,uniprot_api
+P62736,ACTA_HUMAN,ACTA2,"Actin, aortic smooth muscle",Homo sapiens,uniprot_api
+P62834,RAP1A_HUMAN,RAP1A,Ras-related protein Rap-1A,Homo sapiens,uniprot_api
+P62841,RS15_HUMAN,RPS15,Small ribosomal subunit protein uS19,Homo sapiens,uniprot_api
+P62851,RS25_HUMAN,RPS25,Small ribosomal subunit protein eS25,Homo sapiens,uniprot_api
+P62854,RS26_HUMAN,RPS26,Small ribosomal subunit protein eS26,Homo sapiens,uniprot_api
+P62273,RS29_HUMAN,RPS29,Small ribosomal subunit protein uS14,Homo sapiens,uniprot_api
+P62753,RS6_HUMAN,RPS6,Small ribosomal subunit protein eS6,Homo sapiens,uniprot_api
+P62829,RL23_HUMAN,RPL23,Large ribosomal subunit protein uL14,Homo sapiens,uniprot_api
+P62847,RS24_HUMAN,RPS24,Small ribosomal subunit protein eS24,Homo sapiens,uniprot_api
+P62263,RS14_HUMAN,RPS14,Small ribosomal subunit protein uS11,Homo sapiens,uniprot_api
+P62424,RL7A_HUMAN,RPL7A,Large ribosomal subunit protein eL8,Homo sapiens,uniprot_api
+P62750,RL23A_HUMAN,RPL23A,Large ribosomal subunit protein uL23,Homo sapiens,uniprot_api
+P62318,SMD3_HUMAN,SNRPD3,Small nuclear ribonucleoprotein Sm D3,Homo sapiens,uniprot_api
+P62491,RB11A_HUMAN,RAB11A,Ras-related protein Rab-11A,Homo sapiens,uniprot_api
+P62820,RAB1A_HUMAN,RAB1A,Ras-related protein Rab-1A,Homo sapiens,uniprot_api
+P62906,RL10A_HUMAN,RPL10A,Large ribosomal subunit protein uL1,Homo sapiens,uniprot_api
+P62913,RL11_HUMAN,RPL11,Large ribosomal subunit protein uL5,Homo sapiens,uniprot_api
+P63167,DYL1_HUMAN,DYNLL1,"Dynein light chain 1, cytoplasmic",Homo sapiens,uniprot_api
+P63244,RACK1_HUMAN,RACK1,Small ribosomal subunit protein RACK1,Homo sapiens,uniprot_api
+P63104,1433Z_HUMAN,YWHAZ,14-3-3 protein zeta/delta,Homo sapiens,uniprot_api
+P62861,RS30_HUMAN,FAU,Ubiquitin-like FUBI-ribosomal protein eS30 fusion protein,Homo sapiens,uniprot_api
+P62937,PPIA_HUMAN,PPIA,Peptidyl-prolyl cis-trans isomerase A,Homo sapiens,uniprot_api
+P62879,GBB2_HUMAN,GNB2,Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-2,Homo sapiens,uniprot_api
+P62888,RL30_HUMAN,RPL30,Large ribosomal subunit protein eL30,Homo sapiens,uniprot_api
+P62979,RS27A_HUMAN,RPS27A,Ubiquitin-ribosomal protein eS31 fusion protein,Homo sapiens,uniprot_api
+P63151,2ABA_HUMAN,PPP2R2A,Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B alpha isoform,Homo sapiens,uniprot_api
+P63173,RL38_HUMAN,RPL38,Large ribosomal subunit protein eL38,Homo sapiens,uniprot_api
+P63208,SKP1_HUMAN,SKP1,S-phase kinase-associated protein 1,Homo sapiens,uniprot_api
+P67809,YBOX1_HUMAN,YBX1,Y-box-binding protein 1,Homo sapiens,uniprot_api
+P68032,ACTC_HUMAN,ACTC1,"Actin, alpha cardiac muscle 1",Homo sapiens,uniprot_api
+P62857,RS28_HUMAN,RPS28,Small ribosomal subunit protein eS28,Homo sapiens,uniprot_api
+P62891,RL39_HUMAN,RPL39,Large ribosomal subunit protein eL39,Homo sapiens,uniprot_api
+P62910,RL32_HUMAN,RPL32,Large ribosomal subunit protein eL32,Homo sapiens,uniprot_api
+P63267,ACTH_HUMAN,ACTG2,"Actin, gamma-enteric smooth muscle",Homo sapiens,uniprot_api
+P62917,RL8_HUMAN,RPL8,Large ribosomal subunit protein uL2,Homo sapiens,uniprot_api
+P62987,RL40_HUMAN,UBA52,Ubiquitin-ribosomal protein eL40 fusion protein,Homo sapiens,uniprot_api
+P63261,ACTG_HUMAN,ACTG1,"Actin, cytoplasmic 2",Homo sapiens,uniprot_api
+P62899,RL31_HUMAN,RPL31,Large ribosomal subunit protein eL31,Homo sapiens,uniprot_api
+P63000,RAC1_HUMAN,RAC1,Ras-related C3 botulinum toxin substrate 1,Homo sapiens,uniprot_api
+P63010,AP2B1_HUMAN,AP2B1,AP-2 complex subunit beta,Homo sapiens,uniprot_api
+P69892,HBG2_HUMAN,HBG2,Hemoglobin subunit gamma-2,Homo sapiens,uniprot_api
+P69905,HBA_HUMAN,HBA1,Hemoglobin subunit alpha,Homo sapiens,uniprot_api
+P68871,HBB_HUMAN,HBB,Hemoglobin subunit beta,Homo sapiens,uniprot_api
+P68363,TBA1B_HUMAN,TUBA1B,Tubulin alpha-1B chain,Homo sapiens,uniprot_api
+P80404,GABT_HUMAN,ABAT,"4-aminobutyrate aminotransferase, mitochondrial",Homo sapiens,uniprot_api
+P78417,GSTO1_HUMAN,GSTO1,Glutathione S-transferase omega-1,Homo sapiens,uniprot_api
+P84095,RHOG_HUMAN,RHOG,Rho-related GTP-binding protein RhoG,Homo sapiens,uniprot_api
+P84098,RL19_HUMAN,RPL19,Large ribosomal subunit protein eL19,Homo sapiens,uniprot_api
+P78362,SRPK2_HUMAN,SRPK2,SRSF protein kinase 2,Homo sapiens,uniprot_api
+P84085,ARF5_HUMAN,ARF5,ADP-ribosylation factor 5,Homo sapiens,uniprot_api
+P68133,ACTS_HUMAN,ACTA1,"Actin, alpha skeletal muscle",Homo sapiens,uniprot_api
+P69891,HBG1_HUMAN,HBG1,Hemoglobin subunit gamma-1,Homo sapiens,uniprot_api
+P82279,CRUM1_HUMAN,CRB1,Protein crumbs homolog 1,Homo sapiens,uniprot_api
+P83731,RL24_HUMAN,RPL24,Large ribosomal subunit protein eL24,Homo sapiens,uniprot_api
+P83881,RL36A_HUMAN,RPL36A,Large ribosomal subunit protein eL42,Homo sapiens,uniprot_api
+P68104,EF1A1_HUMAN,EEF1A1,Elongation factor 1-alpha 1,Homo sapiens,uniprot_api
+P68371,TBB4B_HUMAN,TUBB4B,Tubulin beta-4B chain,Homo sapiens,uniprot_api
+P78329,CP4F2_HUMAN,CYP4F2,Cytochrome P450 4F2,Homo sapiens,uniprot_api
+P78527,PRKDC_HUMAN,PRKDC,DNA-dependent protein kinase catalytic subunit,Homo sapiens,uniprot_api
+P80297,MT1X_HUMAN,MT1X,Metallothionein-1X,Homo sapiens,uniprot_api
+P80748,LV321_HUMAN,IGLV3-21,Immunoglobulin lambda variable 3-21,Homo sapiens,uniprot_api
+P84077,ARF1_HUMAN,ARF1,ADP-ribosylation factor 1,Homo sapiens,uniprot_api
+P80108,PHLD_HUMAN,GPLD1,Phosphatidylinositol-glycan-specific phospholipase D,Homo sapiens,uniprot_api
+P81605,DCD_HUMAN,DCD,Dermcidin,Homo sapiens,uniprot_api
+P78371,TCPB_HUMAN,CCT2,T-complex protein 1 subunit beta,Homo sapiens,uniprot_api
+Q01081,U2AF1_HUMAN,U2AF1,Splicing factor U2AF 35 kDa subunit,Homo sapiens,uniprot_api
+Q00325,S25A3_HUMAN,SLC25A3,Solute carrier family 25 member 3,Homo sapiens,uniprot_api
+Q01581,HMCS1_HUMAN,HMGCS1,"Hydroxymethylglutaryl-CoA synthase, cytoplasmic",Homo sapiens,uniprot_api
+Q00266,METK1_HUMAN,MAT1A,S-adenosylmethionine synthase isoform type-1,Homo sapiens,uniprot_api
+Q00839,HNRPU_HUMAN,HNRNPU,Heterogeneous nuclear ribonucleoprotein U,Homo sapiens,uniprot_api
+Q01469,FABP5_HUMAN,FABP5,Fatty acid-binding protein 5,Homo sapiens,uniprot_api
+Q02543,RL18A_HUMAN,RPL18A,Large ribosomal subunit protein eL20,Homo sapiens,uniprot_api
+Q00005,2ABB_HUMAN,PPP2R2B,Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B beta isoform,Homo sapiens,uniprot_api
+Q00577,PURA_HUMAN,PURA,Transcriptional activator protein Pur-alpha,Homo sapiens,uniprot_api
+Q00796,DHSO_HUMAN,SORD,Sorbitol dehydrogenase,Homo sapiens,uniprot_api
+Q02539,H11_HUMAN,H1-1,Histone H1.1,Homo sapiens,uniprot_api
+P98187,CP4F8_HUMAN,CYP4F8,Cytochrome P450 4F8,Homo sapiens,uniprot_api
+Q01105,SET_HUMAN,SET,Protein SET,Homo sapiens,uniprot_api
+Q03426,KIME_HUMAN,MVK,Mevalonate kinase,Homo sapiens,uniprot_api
+Q04695,K1C17_HUMAN,KRT17,"Keratin, type I cytoskeletal 17",Homo sapiens,uniprot_api
+Q00765,REEP5_HUMAN,REEP5,Receptor expression-enhancing protein 5,Homo sapiens,uniprot_api
+Q02252,MMSA_HUMAN,ALDH6A1,"Methylmalonate-semialdehyde/malonate-semialdehyde dehydrogenase [acylating], mitochondrial",Homo sapiens,uniprot_api
+Q02878,RL6_HUMAN,RPL6,Large ribosomal subunit protein eL6,Homo sapiens,uniprot_api
+Q02978,M2OM_HUMAN,SLC25A11,Mitochondrial 2-oxoglutarate/malate carrier protein,Homo sapiens,uniprot_api
+Q01130,SRSF2_HUMAN,SRSF2,Serine/arginine-rich splicing factor 2,Homo sapiens,uniprot_api
+Q01813,PFKAP_HUMAN,PFKP,"ATP-dependent 6-phosphofructokinase, platelet type",Homo sapiens,uniprot_api
+Q02413,DSG1_HUMAN,DSG1,Desmoglein-1,Homo sapiens,uniprot_api
+Q02928,CP4AB_HUMAN,CYP4A11,Cytochrome P450 4A11,Homo sapiens,uniprot_api
+Q00610,CLH1_HUMAN,CLTC,Clathrin heavy chain 1,Homo sapiens,uniprot_api
+Q02338,BDH_HUMAN,BDH1,"D-beta-hydroxybutyrate dehydrogenase, mitochondrial",Homo sapiens,uniprot_api
+Q08043,ACTN3_HUMAN,ACTN3,Alpha-actinin-3,Homo sapiens,uniprot_api
+Q07065,CKAP4_HUMAN,CKAP4,Cytoskeleton-associated protein 4,Homo sapiens,uniprot_api
+Q08554,DSC1_HUMAN,DSC1,Desmocollin-1,Homo sapiens,uniprot_api
+Q08945,SSRP1_HUMAN,SSRP1,FACT complex subunit SSRP1,Homo sapiens,uniprot_api
+Q04828,AK1C1_HUMAN,AKR1C1,Aldo-keto reductase family 1 member C1,Homo sapiens,uniprot_api
+Q08211,DHX9_HUMAN,DHX9,ATP-dependent RNA helicase A,Homo sapiens,uniprot_api
+Q08AH3,ACS2A_HUMAN,ACSM2A,"Acyl-coenzyme A synthetase ACSM2A, mitochondrial",Homo sapiens,uniprot_api
+Q06210,GFPT1_HUMAN,GFPT1,Glutamine--fructose-6-phosphate aminotransferase [isomerizing] 1,Homo sapiens,uniprot_api
+Q10588,BST1_HUMAN,BST1,ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 2,Homo sapiens,uniprot_api
+Q12905,ILF2_HUMAN,ILF2,Interleukin enhancer-binding factor 2,Homo sapiens,uniprot_api
+Q12906,ILF3_HUMAN,ILF3,Interleukin enhancer-binding factor 3,Homo sapiens,uniprot_api
+Q05639,EF1A2_HUMAN,EEF1A2,Elongation factor 1-alpha 2,Homo sapiens,uniprot_api
+Q06278,AOXA_HUMAN,AOX1,Aldehyde oxidase,Homo sapiens,uniprot_api
+Q06323,PSME1_HUMAN,PSME1,Proteasome activator complex subunit 1,Homo sapiens,uniprot_api
+Q06520,ST2A1_HUMAN,SULT2A1,Sulfotransferase 2A1,Homo sapiens,uniprot_api
+Q06828,FMOD_HUMAN,FMOD,Fibromodulin,Homo sapiens,uniprot_api
+Q06830,PRDX1_HUMAN,PRDX1,Peroxiredoxin-1,Homo sapiens,uniprot_api
+Q07020,RL18_HUMAN,RPL18,Large ribosomal subunit protein eL18,Homo sapiens,uniprot_api
+Q07954,LRP1_HUMAN,LRP1,Prolow-density lipoprotein receptor-related protein 1,Homo sapiens,uniprot_api
+Q08170,SRSF4_HUMAN,SRSF4,Serine/arginine-rich splicing factor 4,Homo sapiens,uniprot_api
+Q08477,CP4F3_HUMAN,CYP4F3,Cytochrome P450 4F3,Homo sapiens,uniprot_api
+Q07955,SRSF1_HUMAN,SRSF1,Serine/arginine-rich splicing factor 1,Homo sapiens,uniprot_api
+Q10567,AP1B1_HUMAN,AP1B1,AP-1 complex subunit beta-1,Homo sapiens,uniprot_api
+Q12772,SRBP2_HUMAN,SREBF2,Sterol regulatory element-binding protein 2,Homo sapiens,uniprot_api
+Q08426,ECHP_HUMAN,EHHADH,Peroxisomal bifunctional enzyme,Homo sapiens,uniprot_api
+Q13243,SRSF5_HUMAN,SRSF5,Serine/arginine-rich splicing factor 5,Homo sapiens,uniprot_api
+Q13247,SRSF6_HUMAN,SRSF6,Serine/arginine-rich splicing factor 6,Homo sapiens,uniprot_api
+Q12965,MYO1E_HUMAN,MYO1E,Unconventional myosin-Ie,Homo sapiens,uniprot_api
+Q13162,PRDX4_HUMAN,PRDX4,Peroxiredoxin-4,Homo sapiens,uniprot_api
+Q13822,ENPP2_HUMAN,ENPP2,Autotaxin,Homo sapiens,uniprot_api
+Q13011,ECH1_HUMAN,ECH1,"Delta(3,5)-Delta(2,4)-dienoyl-CoA isomerase, mitochondrial",Homo sapiens,uniprot_api
+Q13610,PWP1_HUMAN,PWP1,Periodic tryptophan protein 1 homolog,Homo sapiens,uniprot_api
+Q13733,AT1A4_HUMAN,ATP1A4,Sodium/potassium-transporting ATPase subunit alpha-4,Homo sapiens,uniprot_api
+Q13868,EXOS2_HUMAN,EXOSC2,Exosome complex component RRP4,Homo sapiens,uniprot_api
+Q13885,TBB2A_HUMAN,TUBB2A,Tubulin beta-2A chain,Homo sapiens,uniprot_api
+Q14165,MLEC_HUMAN,MLEC,Malectin,Homo sapiens,uniprot_api
+Q12907,LMAN2_HUMAN,LMAN2,Vesicular integral-membrane protein VIP36,Homo sapiens,uniprot_api
+Q13200,PSMD2_HUMAN,PSMD2,26S proteasome non-ATPase regulatory subunit 2,Homo sapiens,uniprot_api
+Q13445,TMED1_HUMAN,TMED1,Transmembrane emp24 domain-containing protein 1,Homo sapiens,uniprot_api
+Q13637,RAB32_HUMAN,RAB32,Ras-related protein Rab-32,Homo sapiens,uniprot_api
+Q13423,NNTM_HUMAN,NNT,"NAD(P) transhydrogenase, mitochondrial",Homo sapiens,uniprot_api
+Q14032,BAAT_HUMAN,BAAT,Bile acid-CoA:amino acid N-acyltransferase,Homo sapiens,uniprot_api
+Q13228,SBP1_HUMAN,SELENBP1,Methanethiol oxidase,Homo sapiens,uniprot_api
+Q13268,DHRS2_HUMAN,DHRS2,"Dehydrogenase/reductase SDR family member 2, mitochondrial",Homo sapiens,uniprot_api
+Q13835,PKP1_HUMAN,PKP1,Plakophilin-1,Homo sapiens,uniprot_api
+Q14117,DPYS_HUMAN,DPYS,Dihydropyrimidinase,Homo sapiens,uniprot_api
+Q13501,SQSTM_HUMAN,SQSTM1,Sequestosome-1,Homo sapiens,uniprot_api
+Q14103,HNRPD_HUMAN,HNRNPD,Heterogeneous nuclear ribonucleoprotein D0,Homo sapiens,uniprot_api
+Q13045,FLII_HUMAN,FLII,Protein flightless-1 homolog,Homo sapiens,uniprot_api
+Q13576,IQGA2_HUMAN,IQGAP2,Ras GTPase-activating-like protein IQGAP2,Homo sapiens,uniprot_api
+Q15041,AR6P1_HUMAN,ARL6IP1,ADP-ribosylation factor-like protein 6-interacting protein 1,Homo sapiens,uniprot_api
+Q14847,LASP1_HUMAN,LASP1,LIM and SH3 domain protein 1,Homo sapiens,uniprot_api
+Q14191,WRN_HUMAN,WRN,Bifunctional 3'-5' exonuclease/ATP-dependent helicase WRN,Homo sapiens,uniprot_api
+Q15005,SPCS2_HUMAN,SPCS2,Signal peptidase complex subunit 2,Homo sapiens,uniprot_api
+Q15075,EEA1_HUMAN,EEA1,Early endosome antigen 1,Homo sapiens,uniprot_api
+Q14258,TRI25_HUMAN,TRIM25,E3 ubiquitin/ISG15 ligase TRIM25,Homo sapiens,uniprot_api
+Q14344,GNA13_HUMAN,GNA13,Guanine nucleotide-binding protein subunit alpha-13,Homo sapiens,uniprot_api
+Q14568,HS902_HUMAN,HSP90AA2P,Heat shock protein HSP 90-alpha A2,Homo sapiens,uniprot_api
+Q14749,GNMT_HUMAN,GNMT,Glycine N-methyltransferase,Homo sapiens,uniprot_api
+Q14894,CRYM_HUMAN,CRYM,Ketimine reductase mu-crystallin,Homo sapiens,uniprot_api
+Q14964,RB39A_HUMAN,RAB39A,Ras-related protein Rab-39A,Homo sapiens,uniprot_api
+Q15043,S39AE_HUMAN,SLC39A14,Metal cation symporter ZIP14,Homo sapiens,uniprot_api
+Q14204,DYHC1_HUMAN,DYNC1H1,Cytoplasmic dynein 1 heavy chain 1,Homo sapiens,uniprot_api
+Q14534,ERG1_HUMAN,SQLE,Squalene monooxygenase,Homo sapiens,uniprot_api
+Q14678,KANK1_HUMAN,KANK1,KN motif and ankyrin repeat domain-containing protein 1,Homo sapiens,uniprot_api
+Q14764,MVP_HUMAN,MVP,Major vault protein,Homo sapiens,uniprot_api
+Q15029,U5S1_HUMAN,EFTUD2,116 kDa U5 small nuclear ribonucleoprotein component,Homo sapiens,uniprot_api
+Q15067,ACOX1_HUMAN,ACOX1,Peroxisomal acyl-coenzyme A oxidase 1,Homo sapiens,uniprot_api
+Q14520,HABP2_HUMAN,HABP2,Factor VII-activating protease,Homo sapiens,uniprot_api
+Q15020,SART3_HUMAN,SART3,"Spliceosome associated factor 3, U4/U6 recycling protein",Homo sapiens,uniprot_api
+Q14240,IF4A2_HUMAN,EIF4A2,Eukaryotic initiation factor 4A-II,Homo sapiens,uniprot_api
+Q14624,ITIH4_HUMAN,ITIH4,Inter-alpha-trypsin inhibitor heavy chain H4,Homo sapiens,uniprot_api
+Q15084,PDIA6_HUMAN,PDIA6,Protein disulfide-isomerase A6,Homo sapiens,uniprot_api
+Q14914,PTGR1_HUMAN,PTGR1,Prostaglandin reductase 1,Homo sapiens,uniprot_api
+Q14201,BTG3_HUMAN,BTG3,Protein BTG3,Homo sapiens,uniprot_api
+Q15125,EBP_HUMAN,EBP,"3-beta-hydroxysteroid-Delta(8),Delta(7)-isomerase",Homo sapiens,uniprot_api
+Q15746,MYLK_HUMAN,MYLK,"Myosin light chain kinase, smooth muscle",Homo sapiens,uniprot_api
+Q16629,SRSF7_HUMAN,SRSF7,Serine/arginine-rich splicing factor 7,Homo sapiens,uniprot_api
+Q16696,CP2AD_HUMAN,CYP2A13,Cytochrome P450 2A13,Homo sapiens,uniprot_api
+Q16777,H2A2C_HUMAN,H2AC20,Histone H2A type 2-C,Homo sapiens,uniprot_api
+Q15800,MSMO1_HUMAN,MSMO1,Methylsterol monooxygenase 1,Homo sapiens,uniprot_api
+Q16134,ETFD_HUMAN,ETFDH,"Electron transfer flavoprotein-ubiquinone oxidoreductase, mitochondrial",Homo sapiens,uniprot_api
+Q16527,CSRP2_HUMAN,CSRP2,Cysteine and glycine-rich protein 2,Homo sapiens,uniprot_api
+Q15274,NADC_HUMAN,QPRT,Nicotinate-nucleotide pyrophosphorylase [carboxylating],Homo sapiens,uniprot_api
+Q15363,TMED2_HUMAN,TMED2,Transmembrane emp24 domain-containing protein 2,Homo sapiens,uniprot_api
+Q15365,PCBP1_HUMAN,PCBP1,Poly(rC)-binding protein 1,Homo sapiens,uniprot_api
+Q16698,DECR_HUMAN,DECR1,"2,4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing], mitochondrial",Homo sapiens,uniprot_api
+Q15166,PON3_HUMAN,PON3,Serum paraoxonase/lactonase 3,Homo sapiens,uniprot_api
+Q15417,CNN3_HUMAN,CNN3,Calponin-3,Homo sapiens,uniprot_api
+Q15436,SC23A_HUMAN,SEC23A,Protein transport protein Sec23A,Homo sapiens,uniprot_api
+Q15907,RB11B_HUMAN,RAB11B,Ras-related protein Rab-11B,Homo sapiens,uniprot_api
+Q15717,ELAV1_HUMAN,ELAVL1,ELAV-like protein 1,Homo sapiens,uniprot_api
+Q15828,CYTM_HUMAN,CST6,Cystatin-M,Homo sapiens,uniprot_api
+Q16762,THTR_HUMAN,TST,Thiosulfate sulfurtransferase,Homo sapiens,uniprot_api
+Q16772,GSTA3_HUMAN,GSTA3,Glutathione S-transferase A3,Homo sapiens,uniprot_api
+Q15393,SF3B3_HUMAN,SF3B3,Splicing factor 3B subunit 3,Homo sapiens,uniprot_api
+Q15646,OASL_HUMAN,OASL,2'-5'-oligoadenylate synthase-like protein,Homo sapiens,uniprot_api
+Q16775,GLO2_HUMAN,HAGH,"Hydroxyacylglutathione hydrolase, mitochondrial",Homo sapiens,uniprot_api
+Q15392,DHC24_HUMAN,DHCR24,Delta(24)-sterol reductase,Homo sapiens,uniprot_api
+Q15181,IPYR_HUMAN,PPA1,Inorganic pyrophosphatase,Homo sapiens,uniprot_api
+Q53FV1,ORML2_HUMAN,ORMDL2,ORM1-like protein 2,Homo sapiens,uniprot_api
+Q2M389,WASC4_HUMAN,WASHC4,WASH complex subunit 4,Homo sapiens,uniprot_api
+Q3LXA3,TKFC_HUMAN,TKFC,Triokinase/FMN cyclase,Homo sapiens,uniprot_api
+Q3ZCM7,TBB8_HUMAN,TUBB8,Tubulin beta-8 chain,Homo sapiens,uniprot_api
+Q4G0J3,LARP7_HUMAN,LARP7,La-related protein 7,Homo sapiens,uniprot_api
+Q53GQ0,DHB12_HUMAN,HSD17B12,Very-long-chain 3-oxoacyl-CoA reductase,Homo sapiens,uniprot_api
+Q16851,UGPA_HUMAN,UGP2,UTP--glucose-1-phosphate uridylyltransferase,Homo sapiens,uniprot_api
+Q4AC94,C2CD3_HUMAN,C2CD3,C2 domain-containing protein 3,Homo sapiens,uniprot_api
+Q58FF7,H90B3_HUMAN,HSP90AB3P,Putative heat shock protein HSP 90-beta-3,Homo sapiens,uniprot_api
+Q16850,CP51A_HUMAN,CYP51A1,Lanosterol 14-alpha demethylase,Homo sapiens,uniprot_api
+Q3SY69,AL1L2_HUMAN,ALDH1L2,Mitochondrial 10-formyltetrahydrofolate dehydrogenase,Homo sapiens,uniprot_api
+Q5D862,FILA2_HUMAN,FLG2,Filaggrin-2,Homo sapiens,uniprot_api
+Q4G0N4,NADK2_HUMAN,NADK2,"NAD kinase 2, mitochondrial",Homo sapiens,uniprot_api
+Q5BJD5,TM41B_HUMAN,TMEM41B,Transmembrane protein 41B,Homo sapiens,uniprot_api
+Q5BJF2,SGMR2_HUMAN,TMEM97,Sigma intracellular receptor 2,Homo sapiens,uniprot_api
+Q16787,LAMA3_HUMAN,LAMA3,Laminin subunit alpha-3,Homo sapiens,uniprot_api
+Q16822,PCKGM_HUMAN,PCK2,"Phosphoenolpyruvate carboxykinase [GTP], mitochondrial",Homo sapiens,uniprot_api
+Q16853,AOC3_HUMAN,AOC3,Amine oxidase [copper-containing] 3,Homo sapiens,uniprot_api
+Q58FF8,H90B2_HUMAN,HSP90AB2P,Putative heat shock protein HSP 90-beta 2,Homo sapiens,uniprot_api
+Q5JU69,TOR2A_HUMAN,TOR2A,Torsin-2A,Homo sapiens,uniprot_api
+Q2VIR3,IF2GL_HUMAN,EIF2S3B,Eukaryotic translation initiation factor 2 subunit 3B,Homo sapiens,uniprot_api
+Q58FG0,HS905_HUMAN,HSP90AA5P,Putative heat shock protein HSP 90-alpha A5,Homo sapiens,uniprot_api
+Q58FF3,ENPLL_HUMAN,HSP90B2P,Putative endoplasmin-like protein,Homo sapiens,uniprot_api
+Q59GN2,R39L5_HUMAN,RPL39P5,Putative ribosomal protein eL39-like 5,Homo sapiens,uniprot_api
+Q5JNZ5,RS26L_HUMAN,RPS26P11,Putative ribosomal protein eS26-like,Homo sapiens,uniprot_api
+Q5T749,KPRP_HUMAN,KPRP,Keratinocyte proline-rich protein,Homo sapiens,uniprot_api
+Q5TAQ9,DCAF8_HUMAN,DCAF8,DDB1- and CUL4-associated factor 8,Homo sapiens,uniprot_api
+Q5VWZ2,LYPL1_HUMAN,LYPLAL1,Lysophospholipase-like protein 1,Homo sapiens,uniprot_api
+Q6FI13,H2A2A_HUMAN,H2AC18,Histone H2A type 2-A,Homo sapiens,uniprot_api
+Q6IE81,JADE1_HUMAN,JADE1,Protein Jade-1,Homo sapiens,uniprot_api
+Q6IB77,GLYAT_HUMAN,GLYAT,Glycine N-acyltransferase,Homo sapiens,uniprot_api
+Q6P1A2,MBOA5_HUMAN,LPCAT3,Lysophospholipid acyltransferase 5,Homo sapiens,uniprot_api
+Q5SRE7,PHYD1_HUMAN,PHYHD1,Phytanoyl-CoA dioxygenase domain-containing protein 1,Homo sapiens,uniprot_api
+Q5T2W1,NHRF3_HUMAN,PDZK1,Na(+)/H(+) exchange regulatory cofactor NHE-RF3,Homo sapiens,uniprot_api
+Q5TCH4,CP4AM_HUMAN,CYP4A22,Cytochrome P450 4A22,Homo sapiens,uniprot_api
+Q6P3W7,SCYL2_HUMAN,SCYL2,SCY1-like protein 2,Homo sapiens,uniprot_api
+Q5TA31,RN187_HUMAN,RNF187,E3 ubiquitin-protein ligase RNF187,Homo sapiens,uniprot_api
+Q5VT66,MARC1_HUMAN,MTARC1,Mitochondrial amidoxime-reducing component 1,Homo sapiens,uniprot_api
+Q658P3,STEA3_HUMAN,STEAP3,Metalloreductase STEAP3,Homo sapiens,uniprot_api
+Q68CK6,ACS2B_HUMAN,ACSM2B,"Acyl-coenzyme A synthetase ACSM2B, mitochondrial",Homo sapiens,uniprot_api
+Q6DD88,ATLA3_HUMAN,ATL3,Atlastin-3,Homo sapiens,uniprot_api
+Q6NZI2,CAVN1_HUMAN,CAVIN1,Caveolae-associated protein 1,Homo sapiens,uniprot_api
+Q5VW38,GP107_HUMAN,GPR107,Protein GPR107,Homo sapiens,uniprot_api
+Q6N069,NAA16_HUMAN,NAA16,"N-alpha-acetyltransferase 16, NatA auxiliary subunit",Homo sapiens,uniprot_api
+Q5VTE0,EF1A3_HUMAN,EEF1A1P5,Putative elongation factor 1-alpha-like 3,Homo sapiens,uniprot_api
+Q66LE6,2ABD_HUMAN,PPP2R2D,Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B delta isoform,Homo sapiens,uniprot_api
+Q6IAN0,PEXRP_HUMAN,DHRS7B,Peroxisomal reductase activating PPAR-gamma,Homo sapiens,uniprot_api
+Q5SYE7,NHSL1_HUMAN,NHSL1,NHS-like protein 1,Homo sapiens,uniprot_api
+Q6NVV1,R13P3_HUMAN,RPL13AP3,Putative ribosomal protein uL13-like,Homo sapiens,uniprot_api
+Q5R3I4,TTC38_HUMAN,TTC38,Tetratricopeptide repeat protein 38,Homo sapiens,uniprot_api
+Q7RTS7,K2C74_HUMAN,KRT74,"Keratin, type II cytoskeletal 74",Homo sapiens,uniprot_api
+Q7Z3Y9,K1C26_HUMAN,KRT26,"Keratin, type I cytoskeletal 26",Homo sapiens,uniprot_api
+Q7Z3Z0,K1C25_HUMAN,KRT25,"Keratin, type I cytoskeletal 25",Homo sapiens,uniprot_api
+Q7Z3Y8,K1C27_HUMAN,KRT27,"Keratin, type I cytoskeletal 27",Homo sapiens,uniprot_api
+Q6UW68,TM205_HUMAN,TMEM205,Transmembrane protein 205,Homo sapiens,uniprot_api
+Q6YN16,HSDL2_HUMAN,HSDL2,Hydroxysteroid dehydrogenase-like protein 2,Homo sapiens,uniprot_api
+Q70CQ2,UBP34_HUMAN,USP34,Ubiquitin carboxyl-terminal hydrolase 34,Homo sapiens,uniprot_api
+Q7L7L0,H2A3_HUMAN,H2AC25,Histone H2A type 3,Homo sapiens,uniprot_api
+Q6XQN6,PNCB_HUMAN,NAPRT,Nicotinate phosphoribosyltransferase,Homo sapiens,uniprot_api
+Q6UXV4,MIC27_HUMAN,APOOL,MICOS complex subunit MIC27,Homo sapiens,uniprot_api
+Q6S8J3,POTEE_HUMAN,POTEE,POTE ankyrin domain family member E,Homo sapiens,uniprot_api
+Q6UX53,TMT1B_HUMAN,TMT1B,Thiol S-methyltransferase TMT1B,Homo sapiens,uniprot_api
+Q6PEY2,TBA3E_HUMAN,TUBA3E,Tubulin alpha-3E chain,Homo sapiens,uniprot_api
+Q709F0,ACD11_HUMAN,ACAD11,Acyl-CoA dehydrogenase family member 11,Homo sapiens,uniprot_api
+Q71U36,TBA1A_HUMAN,TUBA1A,Tubulin alpha-1A chain,Homo sapiens,uniprot_api
+Q7L2E3,DHX30_HUMAN,DHX30,ATP-dependent RNA helicase DHX30,Homo sapiens,uniprot_api
+Q7Z406,MYH14_HUMAN,MYH14,Myosin-14,Homo sapiens,uniprot_api
+Q6UY14,ATL4_HUMAN,ADAMTSL4,ADAMTS-like protein 4,Homo sapiens,uniprot_api
+Q71UI9,H2AV_HUMAN,H2AZ2,Histone H2A.V,Homo sapiens,uniprot_api
+Q7Z2W4,ZCCHV_HUMAN,ZC3HAV1,Zinc finger CCCH-type antiviral protein 1,Homo sapiens,uniprot_api
+Q6ZMR3,LDH6A_HUMAN,LDHAL6A,L-lactate dehydrogenase A-like 6A,Homo sapiens,uniprot_api
+Q6ZS86,GLPK5_HUMAN,GK5,Glycerol kinase 5,Homo sapiens,uniprot_api
+Q7RTV2,GSTA5_HUMAN,GSTA5,Glutathione S-transferase A5,Homo sapiens,uniprot_api
+Q71UM5,RS27L_HUMAN,RPS27L,Ribosomal protein eS27-like,Homo sapiens,uniprot_api
+Q6UWP8,SBSN_HUMAN,SBSN,Suprabasin,Homo sapiens,uniprot_api
+Q86W24,NAL14_HUMAN,NLRP14,"NACHT, LRR and PYD domains-containing protein 14",Homo sapiens,uniprot_api
+Q86WA6,BPHL_HUMAN,BPHL,Serine hydrolase BPHL,Homo sapiens,uniprot_api
+Q86WU2,LDHD_HUMAN,LDHD,"D-lactate dehydrogenase, mitochondrial",Homo sapiens,uniprot_api
+Q7Z4W1,DCXR_HUMAN,DCXR,L-xylulose reductase,Homo sapiens,uniprot_api
+Q7Z5P4,DHB13_HUMAN,HSD17B13,17-beta-hydroxysteroid dehydrogenase 13,Homo sapiens,uniprot_api
+Q86UE4,LYRIC_HUMAN,MTDH,Protein LYRIC,Homo sapiens,uniprot_api
+Q86VI3,IQGA3_HUMAN,IQGAP3,Ras GTPase-activating-like protein IQGAP3,Homo sapiens,uniprot_api
+Q86VP6,CAND1_HUMAN,CAND1,Cullin-associated NEDD8-dissociated protein 1,Homo sapiens,uniprot_api
+Q86XE5,HOGA1_HUMAN,HOGA1,"4-hydroxy-2-oxoglutarate aldolase, mitochondrial",Homo sapiens,uniprot_api
+Q86YV5,PRAG1_HUMAN,PRAG1,Inactive tyrosine-protein kinase PRAG1,Homo sapiens,uniprot_api
+Q8IWA0,WDR75_HUMAN,WDR75,WD repeat-containing protein 75,Homo sapiens,uniprot_api
+Q7Z7H5,TMED4_HUMAN,TMED4,Transmembrane emp24 domain-containing protein 4,Homo sapiens,uniprot_api
+Q86YZ3,HORN_HUMAN,HRNR,Hornerin,Homo sapiens,uniprot_api
+Q8IV36,HID1_HUMAN,HID1,Protein HID1,Homo sapiens,uniprot_api
+Q8IVH4,MMAA_HUMAN,MMAA,"Methylmalonic aciduria type A protein, mitochondrial",Homo sapiens,uniprot_api
+Q86U42,PABP2_HUMAN,PABPN1,Polyadenylate-binding protein 2,Homo sapiens,uniprot_api
+Q8IUE6,H2A2B_HUMAN,H2AC21,Histone H2A type 2-B,Homo sapiens,uniprot_api
+Q8IVS8,GLCTK_HUMAN,GLYCTK,Glycerate kinase,Homo sapiens,uniprot_api
+Q86Y46,K2C73_HUMAN,KRT73,"Keratin, type II cytoskeletal 73",Homo sapiens,uniprot_api
+Q7Z7A1,CNTRL_HUMAN,CNTRL,Centriolin,Homo sapiens,uniprot_api
+Q8IVF2,AHNK2_HUMAN,AHNAK2,Protein AHNAK2,Homo sapiens,uniprot_api
+Q7Z4V5,HDGR2_HUMAN,HDGFL2,Hepatoma-derived growth factor-related protein 2,Homo sapiens,uniprot_api
+Q8IUD2,RB6I2_HUMAN,ERC1,ELKS/Rab6-interacting/CAST family member 1,Homo sapiens,uniprot_api
+Q86YQ8,CPNE8_HUMAN,CPNE8,Copine-8,Homo sapiens,uniprot_api
+Q8IUB2,WFDC3_HUMAN,WFDC3,WAP four-disulfide core domain protein 3,Homo sapiens,uniprot_api
+Q8N2U9,S66A2_HUMAN,SLC66A2,Solute carrier family 66 member 2,Homo sapiens,uniprot_api
+Q8N1A0,KT222_HUMAN,KRT222,Keratin-like protein KRT222,Homo sapiens,uniprot_api
+Q8NBQ5,DHB11_HUMAN,HSD17B11,Estradiol 17-beta-dehydrogenase 11,Homo sapiens,uniprot_api
+Q8NDH6,ICA1L_HUMAN,ICA1L,Islet cell autoantigen 1-like protein,Homo sapiens,uniprot_api
+Q8N138,ORML3_HUMAN,ORMDL3,ORM1-like protein 3,Homo sapiens,uniprot_api
+Q8NFQ8,TOIP2_HUMAN,TOR1AIP2,Torsin-1A-interacting protein 2,Homo sapiens,uniprot_api
+Q8N339,MT1M_HUMAN,MT1M,Metallothionein-1M,Homo sapiens,uniprot_api
+Q8N4T8,CBR4_HUMAN,CBR4,3-oxoacyl-[acyl-carrier-protein] reductase,Homo sapiens,uniprot_api
+Q8NC51,SERB1_HUMAN,SERBP1,SERPINE1 mRNA-binding protein 1,Homo sapiens,uniprot_api
+Q8IYJ1,CPNE9_HUMAN,CPNE9,Copine-9,Homo sapiens,uniprot_api
+Q8N149,LIRA2_HUMAN,LILRA2,Leukocyte immunoglobulin-like receptor subfamily A member 2,Homo sapiens,uniprot_api
+Q8N1N4,K2C78_HUMAN,KRT78,"Keratin, type II cytoskeletal 78",Homo sapiens,uniprot_api
+Q8N7U6,EFHB_HUMAN,EFHB,EF-hand domain-containing family member B,Homo sapiens,uniprot_api
+Q8NDL9,CBPC5_HUMAN,AGBL5,Cytosolic carboxypeptidase-like protein 5,Homo sapiens,uniprot_api
+Q8IYE0,CC146_HUMAN,CCDC146,Coiled-coil domain-containing protein 146,Homo sapiens,uniprot_api
+Q8N1T3,MYO1H_HUMAN,MYO1H,Unconventional myosin-Ih,Homo sapiens,uniprot_api
+Q8NE71,ABCF1_HUMAN,ABCF1,ATP-binding cassette sub-family F member 1,Homo sapiens,uniprot_api
+Q8NHU2,CFA61_HUMAN,CFAP61,Cilia- and flagella-associated protein 61,Homo sapiens,uniprot_api
+Q8IYA6,CKP2L_HUMAN,CKAP2L,Cytoskeleton-associated protein 2-like,Homo sapiens,uniprot_api
+Q8NBS9,TXND5_HUMAN,TXNDC5,Thioredoxin domain-containing protein 5,Homo sapiens,uniprot_api
+Q8N2I9,STK40_HUMAN,STK40,Serine/threonine-protein kinase 40,Homo sapiens,uniprot_api
+Q8N841,TTLL6_HUMAN,TTLL6,Tubulin polyglutamylase TTLL6,Homo sapiens,uniprot_api
+Q8N1G4,LRC47_HUMAN,LRRC47,Leucine-rich repeat-containing protein 47,Homo sapiens,uniprot_api
+Q8NBX0,SCPDL_HUMAN,SCCPDH,Saccharopine dehydrogenase-like oxidoreductase,Homo sapiens,uniprot_api
+Q8NFI4,F10A5_HUMAN,ST13P5,Putative protein FAM10A5,Homo sapiens,uniprot_api
+Q8WZ59,TM190_HUMAN,TMEM190,Transmembrane protein 190,Homo sapiens,uniprot_api
+Q92520,FAM3C_HUMAN,FAM3C,Protein FAM3C,Homo sapiens,uniprot_api
+Q92541,RTF1_HUMAN,RTF1,RNA polymerase-associated protein RTF1 homolog,Homo sapiens,uniprot_api
+Q8WUD1,RAB2B_HUMAN,RAB2B,Ras-related protein Rab-2B,Homo sapiens,uniprot_api
+Q92526,TCPW_HUMAN,CCT6B,Probable T-complex protein 1 subunit zeta-2,Homo sapiens,uniprot_api
+Q8TC12,RDH11_HUMAN,RDH11,Retinol dehydrogenase 11,Homo sapiens,uniprot_api
+Q8TEU7,RPGF6_HUMAN,RAPGEF6,Rap guanine nucleotide exchange factor 6,Homo sapiens,uniprot_api
+Q8TCT9,SPP_HUMAN,HM13,Signal peptide peptidase,Homo sapiens,uniprot_api
+Q8TF09,DLRB2_HUMAN,DYNLRB2,Dynein light chain roadblock-type 2,Homo sapiens,uniprot_api
+Q8WYK0,ACO12_HUMAN,ACOT12,Acetyl-coenzyme A thioesterase,Homo sapiens,uniprot_api
+Q8TCJ2,STT3B_HUMAN,STT3B,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit STT3B,Homo sapiens,uniprot_api
+Q92506,DHB8_HUMAN,HSD17B8,(3R)-3-hydroxyacyl-CoA dehydrogenase,Homo sapiens,uniprot_api
+Q92522,H1X_HUMAN,H1-10,Histone H1.10,Homo sapiens,uniprot_api
+Q92538,GBF1_HUMAN,GBF1,Golgi-specific brefeldin A-resistance guanine nucleotide exchange factor 1,Homo sapiens,uniprot_api
+Q92558,WASF1_HUMAN,WASF1,Actin-binding protein WASF1,Homo sapiens,uniprot_api
+Q92604,LGAT1_HUMAN,LPGAT1,Acyl-CoA:lysophosphatidylglycerol acyltransferase 1,Homo sapiens,uniprot_api
+Q8WU68,U2AF4_HUMAN,U2AF1L4,Splicing factor U2AF 26 kDa subunit,Homo sapiens,uniprot_api
+Q8WUM4,PDC6I_HUMAN,PDCD6IP,Programmed cell death 6-interacting protein,Homo sapiens,uniprot_api
+Q8WZ42,TITIN_HUMAN,TTN,Titin,Homo sapiens,uniprot_api
+Q8TC90,CCER1_HUMAN,CCER1,Coiled-coil domain-containing glutamate-rich protein 1,Homo sapiens,uniprot_api
+Q8WVC6,DCAKD_HUMAN,DCAKD,Dephospho-CoA kinase domain-containing protein,Homo sapiens,uniprot_api
+Q8WWU7,ITLN2_HUMAN,ITLN2,Intelectin-2,Homo sapiens,uniprot_api
+Q8NHW5,RLA0L_HUMAN,RPLP0P6,Putative ribosomal protein uL10-like,Homo sapiens,uniprot_api
+Q8TD47,RS4Y2_HUMAN,RPS4Y2,"Small ribosomal subunit protein eS4, Y isoform 2",Homo sapiens,uniprot_api
+Q8WUY1,THEM6_HUMAN,THEM6,Protein THEM6,Homo sapiens,uniprot_api
+Q93088,BHMT1_HUMAN,BHMT,Betaine--homocysteine S-methyltransferase 1,Homo sapiens,uniprot_api
+Q96CG8,CTHR1_HUMAN,CTHRC1,Collagen triple helix repeat-containing protein 1,Homo sapiens,uniprot_api
+Q92887,MRP2_HUMAN,ABCC2,ATP-binding cassette sub-family C member 2,Homo sapiens,uniprot_api
+Q93077,H2A1C_HUMAN,H2AC6,Histone H2A type 1-C,Homo sapiens,uniprot_api
+Q969V3,NCLN_HUMAN,NCLN,BOS complex subunit NCLN,Homo sapiens,uniprot_api
+Q969X5,ERGI1_HUMAN,ERGIC1,Endoplasmic reticulum-Golgi intermediate compartment protein 1,Homo sapiens,uniprot_api
+Q92688,AN32B_HUMAN,ANP32B,Acidic leucine-rich nuclear phosphoprotein 32 family member B,Homo sapiens,uniprot_api
+Q92928,RAB1C_HUMAN,RAB1C,Putative Ras-related protein Rab-1C,Homo sapiens,uniprot_api
+Q96CW1,AP2M1_HUMAN,AP2M1,AP-2 complex subunit mu,Homo sapiens,uniprot_api
+Q92616,GCN1_HUMAN,GCN1,Stalled ribosome sensor GCN1,Homo sapiens,uniprot_api
+Q92947,GCDH_HUMAN,GCDH,"Glutaryl-CoA dehydrogenase, mitochondrial",Homo sapiens,uniprot_api
+Q92973,TNPO1_HUMAN,TNPO1,Transportin-1,Homo sapiens,uniprot_api
+Q96A26,F162A_HUMAN,FAM162A,Protein FAM162A,Homo sapiens,uniprot_api
+Q92901,RL3L_HUMAN,RPL3L,Ribosomal protein uL3-like,Homo sapiens,uniprot_api
+Q92930,RAB8B_HUMAN,RAB8B,Ras-related protein Rab-8B,Homo sapiens,uniprot_api
+Q93099,HGD_HUMAN,HGD,"Homogentisate 1,2-dioxygenase",Homo sapiens,uniprot_api
+Q96BW5,PTER_HUMAN,PTER,N-acetyltaurine hydrolase,Homo sapiens,uniprot_api
+Q93008,USP9X_HUMAN,USP9X,Ubiquitin carboxyl-terminal hydrolase 9X,Homo sapiens,uniprot_api
+Q969Z3,MARC2_HUMAN,MTARC2,Mitochondrial amidoxime reducing component 2,Homo sapiens,uniprot_api
+Q969P6,TOP1M_HUMAN,TOP1MT,"DNA topoisomerase I, mitochondrial",Homo sapiens,uniprot_api
+Q93084,AT2A3_HUMAN,ATP2A3,Sarcoplasmic/endoplasmic reticulum calcium ATPase 3,Homo sapiens,uniprot_api
+Q96A23,CPNE4_HUMAN,CPNE4,Copine-4,Homo sapiens,uniprot_api
+Q969Q0,RL36L_HUMAN,RPL36AL,Ribosomal protein eL42-like,Homo sapiens,uniprot_api
+Q96DC8,ECHD3_HUMAN,ECHDC3,"Enoyl-CoA hydratase domain-containing protein 3, mitochondrial",Homo sapiens,uniprot_api
+Q96AB3,ISOC2_HUMAN,ISOC2,Isochorismatase domain-containing protein 2,Homo sapiens,uniprot_api
+Q96FN4,CPNE2_HUMAN,CPNE2,Copine-2,Homo sapiens,uniprot_api
+Q96FJ2,DYL2_HUMAN,DYNLL2,"Dynein light chain 2, cytoplasmic",Homo sapiens,uniprot_api
+Q96HR9,REEP6_HUMAN,REEP6,Receptor expression-enhancing protein 6,Homo sapiens,uniprot_api
+Q96FQ6,S10AG_HUMAN,S100A16,Protein S100-A16,Homo sapiens,uniprot_api
+Q96KP4,CNDP2_HUMAN,CNDP2,Cytosolic non-specific dipeptidase,Homo sapiens,uniprot_api
+Q96PD5,PGRP2_HUMAN,PGLYRP2,N-acetylmuramoyl-L-alanine amidase,Homo sapiens,uniprot_api
+Q96DG6,CMBL_HUMAN,CMBL,Carboxymethylenebutenolidase homolog,Homo sapiens,uniprot_api
+Q96G23,CERS2_HUMAN,CERS2,Ceramide synthase 2,Homo sapiens,uniprot_api
+Q96KG7,MEG10_HUMAN,MEGF10,Multiple epidermal growth factor-like domains protein 10,Homo sapiens,uniprot_api
+Q96N76,HUTU_HUMAN,UROC1,Urocanate hydratase,Homo sapiens,uniprot_api
+Q96QV6,H2A1A_HUMAN,H2AC1,Histone H2A type 1-A,Homo sapiens,uniprot_api
+Q96EY7,PTCD3_HUMAN,PTCD3,Small ribosomal subunit protein mS39,Homo sapiens,uniprot_api
+Q96HR3,MED30_HUMAN,MED30,Mediator of RNA polymerase II transcription subunit 30,Homo sapiens,uniprot_api
+Q96HY6,DDRGK_HUMAN,DDRGK1,DDRGK domain-containing protein 1,Homo sapiens,uniprot_api
+Q96KK5,H2A1H_HUMAN,H2AC12,Histone H2A type 1-H,Homo sapiens,uniprot_api
+Q96P63,SPB12_HUMAN,SERPINB12,Serpin B12,Homo sapiens,uniprot_api
+Q96I99,SUCB2_HUMAN,SUCLG2,"Succinate--CoA ligase [GDP-forming] subunit beta, mitochondrial",Homo sapiens,uniprot_api
+Q96IU4,ABHEB_HUMAN,ABHD14B,Putative protein-lysine deacylase ABHD14B,Homo sapiens,uniprot_api
+Q96IX5,ATPMK_HUMAN,ATP5MK,"ATP synthase F(0) complex subunit k, mitochondrial",Homo sapiens,uniprot_api
+Q96IY4,CBPB2_HUMAN,CPB2,Carboxypeptidase B2,Homo sapiens,uniprot_api
+Q96PD4,IL17F_HUMAN,IL17F,Interleukin-17F,Homo sapiens,uniprot_api
+Q96QR8,PURB_HUMAN,PURB,Transcriptional regulator protein Pur-beta,Homo sapiens,uniprot_api
+Q96IJ6,GMPPA_HUMAN,GMPPA,Mannose-1-phosphate guanylyltransferase regulatory subunit alpha,Homo sapiens,uniprot_api
+Q96HA1,P121A_HUMAN,POM121,Nuclear envelope pore membrane protein POM 121,Homo sapiens,uniprot_api
+Q96QD5,DEPD7_HUMAN,DEPDC7,DEP domain-containing protein 7,Homo sapiens,uniprot_api
+Q9BRL6,SRSF8_HUMAN,SRSF8,Serine/arginine-rich splicing factor 8,Homo sapiens,uniprot_api
+Q96SB4,SRPK1_HUMAN,SRPK1,SRSF protein kinase 1,Homo sapiens,uniprot_api
+Q9BQE5,APOL2_HUMAN,APOL2,Apolipoprotein L2,Homo sapiens,uniprot_api
+Q96RQ3,MCCA_HUMAN,MCCC1,"Methylcrotonoyl-CoA carboxylase subunit alpha, mitochondrial",Homo sapiens,uniprot_api
+Q99729,ROAA_HUMAN,HNRNPAB,Heterogeneous nuclear ribonucleoprotein A/B,Homo sapiens,uniprot_api
+Q9BSJ8,ESYT1_HUMAN,ESYT1,Extended synaptotagmin-1,Homo sapiens,uniprot_api
+Q99714,HCD2_HUMAN,HSD17B10,3-hydroxyacyl-CoA dehydrogenase type-2,Homo sapiens,uniprot_api
+Q9BQB6,VKOR1_HUMAN,VKORC1,Vitamin K epoxide reductase complex subunit 1,Homo sapiens,uniprot_api
+Q9BRP8,PYM1_HUMAN,PYM1,Partner of Y14 and mago,Homo sapiens,uniprot_api
+Q96S44,PRPK_HUMAN,TP53RK,EKC/KEOPS complex subunit TP53RK,Homo sapiens,uniprot_api
+Q99424,ACOX2_HUMAN,ACOX2,Peroxisomal acyl-coenzyme A oxidase 2,Homo sapiens,uniprot_api
+Q99575,POP1_HUMAN,POP1,Ribonucleases P/MRP protein subunit POP1,Homo sapiens,uniprot_api
+Q99613,EIF3C_HUMAN,EIF3C,Eukaryotic translation initiation factor 3 subunit C,Homo sapiens,uniprot_api
+Q99878,H2A1J_HUMAN,H2AC14,Histone H2A type 1-J,Homo sapiens,uniprot_api
+Q9BPW8,NIPS1_HUMAN,NIPSNAP1,Protein NipSnap homolog 1,Homo sapiens,uniprot_api
+Q9BQE3,TBA1C_HUMAN,TUBA1C,Tubulin alpha-1C chain,Homo sapiens,uniprot_api
+Q96SI9,STRBP_HUMAN,STRBP,Spermatid perinuclear RNA-binding protein,Homo sapiens,uniprot_api
+Q99735,MGST2_HUMAN,MGST2,Microsomal glutathione S-transferase 2,Homo sapiens,uniprot_api
+Q9BRZ2,TRI56_HUMAN,TRIM56,E3 ubiquitin-protein ligase TRIM56,Homo sapiens,uniprot_api
+Q99623,PHB2_HUMAN,PHB2,Prohibitin-2,Homo sapiens,uniprot_api
+Q9BRF8,CPPED_HUMAN,CPPED1,Serine/threonine-protein phosphatase CPPED1,Homo sapiens,uniprot_api
+Q9BSH5,HDHD3_HUMAN,HDHD3,Haloacid dehalogenase-like hydrolase domain-containing protein 3,Homo sapiens,uniprot_api
+Q9BTM1,H2AJ_HUMAN,H2AJ,Histone H2A.J,Homo sapiens,uniprot_api
+Q9BRJ6,CHOLN_HUMAN,CHLSN,Protein cholesin,Homo sapiens,uniprot_api
+Q96RM1,SPR2F_HUMAN,SPRR2F,Small proline-rich protein 2F,Homo sapiens,uniprot_api
+Q9BW85,YJU2_HUMAN,YJU2,Splicing factor YJU2,Homo sapiens,uniprot_api
+Q9BXS5,AP1M1_HUMAN,AP1M1,AP-1 complex subunit mu-1,Homo sapiens,uniprot_api
+Q9BYX7,ACTBM_HUMAN,POTEKP,Putative beta-actin-like protein 3,Homo sapiens,uniprot_api
+Q9H0C2,ADT4_HUMAN,SLC25A31,ADP/ATP translocase 4,Homo sapiens,uniprot_api
+Q9H0U4,RAB1B_HUMAN,RAB1B,Ras-related protein Rab-1B,Homo sapiens,uniprot_api
+Q9BVK6,TMED9_HUMAN,TMED9,Transmembrane emp24 domain-containing protein 9,Homo sapiens,uniprot_api
+Q9BXN1,ASPN_HUMAN,ASPN,Asporin,Homo sapiens,uniprot_api
+Q9BY64,UDB28_HUMAN,UGT2B28,UDP-glucuronosyltransferase 2B28,Homo sapiens,uniprot_api
+Q9BVA1,TBB2B_HUMAN,TUBB2B,Tubulin beta-2B chain,Homo sapiens,uniprot_api
+Q9BY49,PECR_HUMAN,PECR,Peroxisomal trans-2-enoyl-CoA reductase,Homo sapiens,uniprot_api
+Q9BY50,SC11C_HUMAN,SEC11C,Signal peptidase complex catalytic subunit SEC11C,Homo sapiens,uniprot_api
+Q9BYK8,HELZ2_HUMAN,HELZ2,3'-5' exoribonuclease HELZ2,Homo sapiens,uniprot_api
+Q9BUF5,TBB6_HUMAN,TUBB6,Tubulin beta-6 chain,Homo sapiens,uniprot_api
+Q9BXJ9,NAA15_HUMAN,NAA15,"N-alpha-acetyltransferase 15, NatA auxiliary subunit",Homo sapiens,uniprot_api
+Q9H1K4,GHC2_HUMAN,SLC25A18,Mitochondrial glutamate carrier 2,Homo sapiens,uniprot_api
+Q9H223,EHD4_HUMAN,EHD4,EH domain-containing protein 4,Homo sapiens,uniprot_api
+Q9BUJ2,HNRL1_HUMAN,HNRNPUL1,Heterogeneous nuclear ribonucleoprotein U-like protein 1,Homo sapiens,uniprot_api
+Q9BTT0,AN32E_HUMAN,ANP32E,Acidic leucine-rich nuclear phosphoprotein 32 family member E,Homo sapiens,uniprot_api
+Q9BTZ2,DHRS4_HUMAN,DHRS4,Dehydrogenase/reductase SDR family member 4,Homo sapiens,uniprot_api
+Q9H0U3,MAGT1_HUMAN,MAGT1,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit MAGT1,Homo sapiens,uniprot_api
+Q9H0W9,BKGD_HUMAN,BKGD,Beta-keto L-gulonate decarboxylase,Homo sapiens,uniprot_api
+Q9BY66,KDM5D_HUMAN,KDM5D,Lysine-specific demethylase 5D,Homo sapiens,uniprot_api
+Q9BX69,CARD6_HUMAN,CARD6,Caspase recruitment domain-containing protein 6,Homo sapiens,uniprot_api
+Q9BXN6,SPNXD_HUMAN,SPANXD,Sperm protein associated with the nucleus on the X chromosome D,Homo sapiens,uniprot_api
+Q9BYE4,SPR2G_HUMAN,SPRR2G,Small proline-rich protein 2G,Homo sapiens,uniprot_api
+Q9H7E9,CH033_HUMAN,C8orf33,UPF0488 protein C8orf33,Homo sapiens,uniprot_api
+Q9H7X3,ZN696_HUMAN,ZNF696,Zinc finger protein 696,Homo sapiens,uniprot_api
+Q9H4E5,RHOJ_HUMAN,RHOJ,Rho-related GTP-binding protein RhoJ,Homo sapiens,uniprot_api
+Q9H2K8,TAOK3_HUMAN,TAOK3,Serine/threonine-protein kinase TAO3,Homo sapiens,uniprot_api
+Q9H3K6,BOLA2_HUMAN,BOLA2,BolA-like protein 2,Homo sapiens,uniprot_api
+Q9H4B7,TBB1_HUMAN,TUBB1,Tubulin beta-1 chain,Homo sapiens,uniprot_api
+Q9H8H3,TMT1A_HUMAN,TMT1A,Thiol S-methyltransferase TMT1A,Homo sapiens,uniprot_api
+Q9HCC0,MCCB_HUMAN,MCCC2,"Methylcrotonoyl-CoA carboxylase beta chain, mitochondrial",Homo sapiens,uniprot_api
+Q9H9B4,SFXN1_HUMAN,SFXN1,Sideroflexin-1,Homo sapiens,uniprot_api
+Q9H479,FN3K_HUMAN,FN3K,Fructosamine-3-kinase,Homo sapiens,uniprot_api
+Q9H8L6,MMRN2_HUMAN,MMRN2,Multimerin-2,Homo sapiens,uniprot_api
+Q9HAW8,UD110_HUMAN,UGT1A10,UDP-glucuronosyltransferase 1A10,Homo sapiens,uniprot_api
+Q9H2A2,AL8A1_HUMAN,ALDH8A1,2-aminomuconic semialdehyde dehydrogenase,Homo sapiens,uniprot_api
+Q9H3S7,PTN23_HUMAN,PTPN23,Tyrosine-protein phosphatase non-receptor type 23,Homo sapiens,uniprot_api
+Q9H6S0,YTDC2_HUMAN,YTHDC2,3'-5' RNA helicase YTHDC2,Homo sapiens,uniprot_api
+Q9HAV0,GBB4_HUMAN,GNB4,Guanine nucleotide-binding protein subunit beta-4,Homo sapiens,uniprot_api
+Q9HCE9,ANO8_HUMAN,ANO8,Anoctamin-8,Homo sapiens,uniprot_api
+Q9HAW9,UD18_HUMAN,UGT1A8,UDP-glucuronosyltransferase 1A8,Homo sapiens,uniprot_api
+Q9H2G2,SLK_HUMAN,SLK,STE20-like serine/threonine-protein kinase,Homo sapiens,uniprot_api
+Q9H254,SPTN4_HUMAN,SPTBN4,"Spectrin beta chain, non-erythrocytic 4",Homo sapiens,uniprot_api
+Q9H2M3,BHMT2_HUMAN,BHMT2,S-methylmethionine--homocysteine S-methyltransferase BHMT2,Homo sapiens,uniprot_api
+Q9HAW7,UD17_HUMAN,UGT1A7,UDP-glucuronosyltransferase 1A7,Homo sapiens,uniprot_api
+Q9HCE1,MOV10_HUMAN,MOV10,Helicase MOV-10,Homo sapiens,uniprot_api
+Q9HA64,KT3K_HUMAN,FN3KRP,Ketosamine-3-kinase,Homo sapiens,uniprot_api
+Q9H9S3,S61A2_HUMAN,SEC61A2,Protein transport protein Sec61 subunit alpha isoform 2,Homo sapiens,uniprot_api
+Q9NRF8,PYRG2_HUMAN,CTPS2,CTP synthase 2,Homo sapiens,uniprot_api
+Q9NS86,LANC2_HUMAN,LANCL2,LanC-like protein 2,Homo sapiens,uniprot_api
+Q9NWS8,RMND1_HUMAN,RMND1,Required for meiotic nuclear division protein 1 homolog,Homo sapiens,uniprot_api
+Q9NP72,RAB18_HUMAN,RAB18,Ras-related protein Rab-18,Homo sapiens,uniprot_api
+Q9NTK5,OLA1_HUMAN,OLA1,Obg-like ATPase 1,Homo sapiens,uniprot_api
+Q9HCN8,SDF2L_HUMAN,SDF2L1,Stromal cell-derived factor 2-like protein 1,Homo sapiens,uniprot_api
+Q9NP97,DLRB1_HUMAN,DYNLRB1,Dynein light chain roadblock-type 1,Homo sapiens,uniprot_api
+Q9HCH3,CPNE5_HUMAN,CPNE5,Copine-5,Homo sapiens,uniprot_api
+Q9NQC3,RTN4_HUMAN,RTN4,Reticulon-4,Homo sapiens,uniprot_api
+Q9NQ94,A1CF_HUMAN,A1CF,APOBEC1 complementation factor,Homo sapiens,uniprot_api
+Q9NUL5,SHFL_HUMAN,SHFL,Shiftless antiviral inhibitor of ribosomal frameshifting protein,Homo sapiens,uniprot_api
+Q9NPJ3,ACO13_HUMAN,ACOT13,Acyl-coenzyme A thioesterase 13,Homo sapiens,uniprot_api
+Q9NVS9,PNPO_HUMAN,PNPO,Pyridoxine-5'-phosphate oxidase,Homo sapiens,uniprot_api
+Q9HDC9,APMAP_HUMAN,APMAP,Adipocyte plasma membrane-associated protein,Homo sapiens,uniprot_api
+Q9NUI1,DECR2_HUMAN,DECR2,"Peroxisomal 2,4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing]",Homo sapiens,uniprot_api
+Q9NR16,C163B_HUMAN,CD163L1,Scavenger receptor cysteine-rich type 1 protein M160,Homo sapiens,uniprot_api
+Q9NVQ4,FAIM1_HUMAN,FAIM,Fas apoptotic inhibitory molecule 1,Homo sapiens,uniprot_api
+Q9NS26,SPNXA_HUMAN,SPANXA1,Sperm protein associated with the nucleus on the X chromosome A,Homo sapiens,uniprot_api
+Q9HCJ6,VAT1L_HUMAN,VAT1L,Putative NADPH-dependent quinone oxidoreductase VAT1L,Homo sapiens,uniprot_api
+Q9NUQ6,SPS2L_HUMAN,SPATS2L,SPATS2-like protein,Homo sapiens,uniprot_api
+Q9NR77,PXMP2_HUMAN,PXMP2,Peroxisomal membrane protein 2,Homo sapiens,uniprot_api
+Q9NTZ6,RBM12_HUMAN,RBM12,RNA-binding protein 12,Homo sapiens,uniprot_api
+Q9NTX5,ECHD1_HUMAN,ECHDC1,Ethylmalonyl-CoA decarboxylase,Homo sapiens,uniprot_api
+Q9NQ39,RS10L_HUMAN,RPS10P5,Putative ribosomal protein eS10-like,Homo sapiens,uniprot_api
+Q9NSQ0,RRP7B_HUMAN,RRP7BP,Putative ribosomal RNA-processing protein 7 homolog B,Homo sapiens,uniprot_api
+Q9P0S3,ORML1_HUMAN,ORMDL1,ORM1-like protein 1,Homo sapiens,uniprot_api
+Q9P121,NTRI_HUMAN,NTM,Neurotrimin,Homo sapiens,uniprot_api
+Q9NZ01,TECR_HUMAN,TECR,Very-long-chain enoyl-CoA reductase,Homo sapiens,uniprot_api
+Q9NZT1,CALL5_HUMAN,CALML5,Calmodulin-like protein 5,Homo sapiens,uniprot_api
+Q9UBR1,BUP1_HUMAN,UPB1,Beta-ureidopropionase,Homo sapiens,uniprot_api
+Q9NX47,MARH5_HUMAN,MARCHF5,E3 ubiquitin-protein ligase MARCHF5,Homo sapiens,uniprot_api
+Q9NZ45,CISD1_HUMAN,CISD1,CDGSH iron-sulfur domain-containing protein 1,Homo sapiens,uniprot_api
+Q9NZI2,KCIP1_HUMAN,KCNIP1,A-type potassium channel modulatory protein KCNIP1,Homo sapiens,uniprot_api
+Q9P035,HACD3_HUMAN,HACD3,Very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase 3,Homo sapiens,uniprot_api
+Q9P0W0,IFNK_HUMAN,IFNK,Interferon kappa,Homo sapiens,uniprot_api
+Q9P0Z9,SOX_HUMAN,PIPOX,Peroxisomal sarcosine oxidase,Homo sapiens,uniprot_api
+Q9UBQ7,GRHPR_HUMAN,GRHPR,Glyoxylate reductase/hydroxypyruvate reductase,Homo sapiens,uniprot_api
+Q9UBV2,SE1L1_HUMAN,SEL1L,Protein sel-1 homolog 1,Homo sapiens,uniprot_api
+Q9UBF2,COPG2_HUMAN,COPG2,Coatomer subunit gamma-2,Homo sapiens,uniprot_api
+Q9UBM7,DHCR7_HUMAN,DHCR7,7-dehydrocholesterol reductase,Homo sapiens,uniprot_api
+Q9UBN7,HDAC6_HUMAN,HDAC6,Protein deacetylase HDAC6,Homo sapiens,uniprot_api
+Q9NZN3,EHD3_HUMAN,EHD3,EH domain-containing protein 3,Homo sapiens,uniprot_api
+Q9UBL6,CPNE7_HUMAN,CPNE7,Copine-7,Homo sapiens,uniprot_api
+Q9NY65,TBA8_HUMAN,TUBA8,Tubulin alpha-8 chain,Homo sapiens,uniprot_api
+Q9P2E9,RRBP1_HUMAN,RRBP1,Ribosome-binding protein 1,Homo sapiens,uniprot_api
+Q9NZB2,F120A_HUMAN,FAM120A,Constitutive coactivator of PPAR-gamma-like protein 1,Homo sapiens,uniprot_api
+Q9NZL9,MAT2B_HUMAN,MAT2B,Methionine adenosyltransferase 2 subunit beta,Homo sapiens,uniprot_api
+Q9NYL9,TMOD3_HUMAN,TMOD3,Tropomodulin-3,Homo sapiens,uniprot_api
+Q9NY87,SPNXC_HUMAN,SPANXC,Sperm protein associated with the nucleus on the X chromosome C,Homo sapiens,uniprot_api
+Q9NX05,F120C_HUMAN,FAM120C,Constitutive coactivator of PPAR-gamma-like protein 2,Homo sapiens,uniprot_api
+Q9UKR5,ERG28_HUMAN,ERG28,Ergosterol biosynthetic protein 28 homolog,Homo sapiens,uniprot_api
+Q9UG56,PISD_HUMAN,PISD,"Phosphatidylserine decarboxylase proenzyme, mitochondrial",Homo sapiens,uniprot_api
+Q9UIJ7,KAD3_HUMAN,AK3,"GTP:AMP phosphotransferase AK3, mitochondrial",Homo sapiens,uniprot_api
+Q9UJS0,S2513_HUMAN,SLC25A13,"Electrogenic aspartate/glutamate antiporter SLC25A13, mitochondrial",Homo sapiens,uniprot_api
+Q9UL25,RAB21_HUMAN,RAB21,Ras-related protein Rab-21,Homo sapiens,uniprot_api
+Q9UDR5,AASS_HUMAN,AASS,"Alpha-aminoadipic semialdehyde synthase, mitochondrial",Homo sapiens,uniprot_api
+Q9UGL1,KDM5B_HUMAN,KDM5B,Lysine-specific demethylase 5B,Homo sapiens,uniprot_api
+Q9UHE5,NAT8_HUMAN,NAT8,N-acetyltransferase 8,Homo sapiens,uniprot_api
+Q9UI17,M2GD_HUMAN,DMGDH,"Dimethylglycine dehydrogenase, mitochondrial",Homo sapiens,uniprot_api
+Q9UBX3,DIC_HUMAN,SLC25A10,Mitochondrial dicarboxylate carrier,Homo sapiens,uniprot_api
+Q9UI10,EI2BD_HUMAN,EIF2B4,Translation initiation factor eIF2B subunit delta,Homo sapiens,uniprot_api
+Q9UJM8,HAOX1_HUMAN,HAO1,2-Hydroxyacid oxidase 1,Homo sapiens,uniprot_api
+Q9UJV9,DDX41_HUMAN,DDX41,Probable ATP-dependent RNA helicase DDX41,Homo sapiens,uniprot_api
+Q9UHB9,SRP68_HUMAN,SRP68,Signal recognition particle subunit SRP68,Homo sapiens,uniprot_api
+Q9UL46,PSME2_HUMAN,PSME2,Proteasome activator complex subunit 2,Homo sapiens,uniprot_api
+Q9UHG3,PCYOX_HUMAN,PCYOX1,Prenylcysteine oxidase 1,Homo sapiens,uniprot_api
+Q9UK22,FBX2_HUMAN,FBXO2,F-box only protein 2,Homo sapiens,uniprot_api
+Q9ULC5,ACSL5_HUMAN,ACSL5,Long-chain-fatty-acid--CoA ligase 5,Homo sapiens,uniprot_api
+Q9UNU6,CP8B1_HUMAN,CYP8B1,7-alpha-hydroxycholest-4-en-3-one 12-alpha-hydroxylase,Homo sapiens,uniprot_api
+Q9ULT0,TTC7A_HUMAN,TTC7A,Tetratricopeptide repeat protein 7A,Homo sapiens,uniprot_api
+Q9UDW1,QCR9_HUMAN,UQCR10,Cytochrome b-c1 complex subunit 9,Homo sapiens,uniprot_api
+Q9ULD2,MTUS1_HUMAN,MTUS1,Microtubule-associated tumor suppressor 1,Homo sapiens,uniprot_api
+Q9UGM5,FETUB_HUMAN,FETUB,Fetuin-B,Homo sapiens,uniprot_api
+Q9UKD2,MRT4_HUMAN,MRTO4,mRNA turnover protein 4 homolog,Homo sapiens,uniprot_api
+Q9UKY3,CES1P_HUMAN,CES1P1,Putative inactive carboxylesterase 4,Homo sapiens,uniprot_api
+Q9Y241,HIG1A_HUMAN,HIGD1A,"HIG1 domain family member 1A, mitochondrial",Homo sapiens,uniprot_api
+Q9Y2P5,S27A5_HUMAN,SLC27A5,Long-chain fatty acid transport protein 5,Homo sapiens,uniprot_api
+Q9Y3E5,PTH2_HUMAN,PTRH2,"Peptidyl-tRNA hydrolase 2, mitochondrial",Homo sapiens,uniprot_api
+Q9Y5C1,ANGL3_HUMAN,ANGPTL3,Angiopoietin-related protein 3,Homo sapiens,uniprot_api
+Q9Y281,COF2_HUMAN,CFL2,Cofilin-2,Homo sapiens,uniprot_api
+Q9Y2Z0,SGT1_HUMAN,SUGT1,Protein SGT1 homolog,Homo sapiens,uniprot_api
+Q9Y3U8,RL36_HUMAN,RPL36,Large ribosomal subunit protein eL36,Homo sapiens,uniprot_api
+Q9Y3D6,FIS1_HUMAN,FIS1,Mitochondrial fission 1 protein,Homo sapiens,uniprot_api
+Q9Y3P9,RBGP1_HUMAN,RABGAP1,Rab GTPase-activating protein 1,Homo sapiens,uniprot_api
+Q9Y5B9,SP16H_HUMAN,SUPT16H,FACT complex subunit SPT16,Homo sapiens,uniprot_api
+Q9Y5K8,VATD_HUMAN,ATP6V1D,V-type proton ATPase subunit D,Homo sapiens,uniprot_api
+Q9Y4C0,NRX3A_HUMAN,NRXN3,Neurexin-3,Homo sapiens,uniprot_api
+Q9Y285,SYFA_HUMAN,FARSA,Phenylalanine--tRNA ligase alpha subunit,Homo sapiens,uniprot_api
+Q9Y2S2,CRYL1_HUMAN,CRYL1,Lambda-crystallin homolog,Homo sapiens,uniprot_api
+Q9Y5L4,TIM13_HUMAN,TIMM13,Mitochondrial import inner membrane translocase subunit Tim13,Homo sapiens,uniprot_api
+Q9UQ88,CD11A_HUMAN,CDK11A,Cyclin-dependent kinase 11A,Homo sapiens,uniprot_api
+Q9Y2T3,GUAD_HUMAN,GDA,Guanine deaminase,Homo sapiens,uniprot_api
+Q9Y2Q3,GSTK1_HUMAN,GSTK1,Glutathione S-transferase kappa 1,Homo sapiens,uniprot_api
+Q9Y3B3,TMED7_HUMAN,TMED7,Transmembrane emp24 domain-containing protein 7,Homo sapiens,uniprot_api
+Q9Y305,ACOT9_HUMAN,ACOT9,"Acyl-coenzyme A thioesterase 9, mitochondrial",Homo sapiens,uniprot_api
+Q9Y493,ZAN_HUMAN,ZAN,Zonadhesin,Homo sapiens,uniprot_api
+Q9Y2R9,RT07_HUMAN,MRPS7,Small ribosomal subunit protein uS7m,Homo sapiens,uniprot_api
+Q9Y3E0,GOT1B_HUMAN,GOLT1B,Vesicle transport protein GOT1B,Homo sapiens,uniprot_api
+Q9UNX3,RL26L_HUMAN,RPL26L1,Ribosomal protein uL24-like,Homo sapiens,uniprot_api
+Q9Y536,PAL4A_HUMAN,PPIAL4A,Peptidyl-prolyl cis-trans isomerase A-like 4A,Homo sapiens,uniprot_api
+Q9Y5U8,MPC1_HUMAN,MPC1,Mitochondrial pyruvate carrier 1,Homo sapiens,uniprot_api
+Q9Y678,COPG1_HUMAN,COPG1,Coatomer subunit gamma-1,Homo sapiens,uniprot_api
+Q9Y6N5,SQOR_HUMAN,SQOR,"Sulfide:quinone oxidoreductase, mitochondrial",Homo sapiens,uniprot_api
+Q9Y697,NFS1_HUMAN,NFS1,Cysteine desulfurase,Homo sapiens,uniprot_api
+Q9Y5P6,GMPPB_HUMAN,GMPPB,Mannose-1-phosphate guanylyltransferase catalytic subunit beta,Homo sapiens,uniprot_api
+Q9Y619,ORNT1_HUMAN,SLC25A15,Mitochondrial ornithine transporter 1,Homo sapiens,uniprot_api
+Q9Y6Q5,AP1M2_HUMAN,AP1M2,AP-1 complex subunit mu-2,Homo sapiens,uniprot_api
+Q9Y6I3,EPN1_HUMAN,EPN1,Epsin-1,Homo sapiens,uniprot_api
+Q9Y6Q9,NCOA3_HUMAN,NCOA3,Nuclear receptor coactivator 3,Homo sapiens,uniprot_api
+Q9Y5M8,SRPRB_HUMAN,SRPRB,Signal recognition particle receptor subunit beta,Homo sapiens,uniprot_api
+Q96RS6,NUDC1_HUMAN,NUDCD1,NudC domain-containing protein 1,Homo sapiens,uniprot_api
+Q7L190,DPPA4_HUMAN,DPPA4,Developmental pluripotency-associated protein 4,Homo sapiens,uniprot_api
+Q8NFH8,REPS2_HUMAN,REPS2,RalBP1-associated Eps domain-containing protein 2,Homo sapiens,uniprot_api
+Q9NP86,CABP5_HUMAN,CABP5,Calcium-binding protein 5,Homo sapiens,uniprot_api
+Q9NZJ6,COQ3_HUMAN,COQ3,"Ubiquinone biosynthesis O-methyltransferase, mitochondrial",Homo sapiens,uniprot_api
+Q15884,EREP1_HUMAN,ENTREP1,Endosomal transmembrane epsin interactor 1,Homo sapiens,uniprot_api
+Q9HD34,LYRM4_HUMAN,LYRM4,LYR motif-containing protein 4,Homo sapiens,uniprot_api
+Q96CS7,PKHB2_HUMAN,PLEKHB2,Pleckstrin homology domain-containing family B member 2,Homo sapiens,uniprot_api
+Q6PL18,ATAD2_HUMAN,ATAD2,ATPase family AAA domain-containing protein 2,Homo sapiens,uniprot_api
+Q9NTJ5,SAC1_HUMAN,SACM1L,Phosphatidylinositol-3-phosphatase SAC1,Homo sapiens,uniprot_api
+P28065,PSB9_HUMAN,PSMB9,Proteasome subunit beta type-9,Homo sapiens,uniprot_api

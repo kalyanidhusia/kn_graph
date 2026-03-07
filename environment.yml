@@ -1,0 +1,16 @@
+name: hpxkg
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pyteomics
+  - pandas
+  - jupyterlab
+  - ipykernel
+  - pyyaml
+  - lxml
+  - pip
+  - pip:
+      - networkx
+      - plotly
+      - openpyxl
